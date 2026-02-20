@@ -4,7 +4,9 @@
 
 ## Workshop Materials
 
-- [Workshop Prompts (HTML)](workshop_prompts.html) - Student handout with all exercises
+- [Student Handout Pack](https://realmindsai.github.io/bulsu_tutorial_2026/student_handout.html) - Setup guide + exercises + hackathon prompts (start here)
+- [Workshop Slides (HTML)](workshop_prompts.html) - Presentation slides with concepts and exercises
+- [Setup Guide](setup_guide.html) - Standalone tool installation guide
 - [Facilitator Briefing (HTML)](facilitator_briefing.html) - Guide for facilitators and mentors
 
 ## Exercise Files

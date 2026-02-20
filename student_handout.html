@@ -1,0 +1,599 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Student Handout Pack - BulSU AI Workshop</title>
+<style>
+  * { box-sizing: border-box; }
+  body {
+    font-family: 'Segoe UI', 'Calibri', sans-serif;
+    background: #0F1229;
+    color: #E8E8EC;
+    margin: 0;
+    padding: 20px;
+    line-height: 1.6;
+  }
+  .container { max-width: 860px; margin: 0 auto; }
+
+  h1 { color: #fff; font-family: 'Georgia', serif; font-size: 2em; border-bottom: 3px solid #E8873A; padding-bottom: 8px; margin-bottom: 4px; }
+  h2 { color: #E8873A; font-family: 'Georgia', serif; font-size: 1.5em; margin-top: 40px; border-bottom: 1px solid #2a2e48; padding-bottom: 6px; }
+  h3 { color: #fff; font-size: 1.15em; margin-top: 24px; }
+  h4 { color: #E8873A; font-size: 1em; margin-top: 16px; margin-bottom: 4px; }
+
+  code { background: #1a1e38; color: #E8873A; padding: 2px 6px; border-radius: 4px; font-size: 0.9em; }
+  pre { background: #1a1e38; border-left: 4px solid #E76F51; padding: 14px 18px; border-radius: 8px; overflow-x: auto; margin: 10px 0; position: relative; }
+  pre code { color: #E8E8EC; background: none; padding: 0; font-size: 0.88em; }
+
+  a { color: #E8873A; }
+  strong { color: #E8873A; }
+
+  .badge {
+    display: inline-block;
+    padding: 3px 14px;
+    border-radius: 16px;
+    font-weight: bold;
+    font-size: 0.85em;
+    color: white;
+  }
+  .badge-exercise { background: #E76F51; }
+  .badge-concept { background: #2a5298; }
+  .badge-setup { background: #2e7d32; }
+  .badge-hack { background: #7b1fa2; }
+
+  .card {
+    background: #1a1e38;
+    padding: 18px 22px;
+    border-radius: 10px;
+    margin: 14px 0;
+    border: 1px solid #2a2e48;
+  }
+
+  .copy-prompt {
+    background: #1a1e38;
+    border-left: 4px solid #E76F51;
+    padding: 14px 18px;
+    border-radius: 8px;
+    margin: 10px 0;
+    position: relative;
+    cursor: pointer;
+  }
+  .copy-prompt code { color: #E8E8EC; background: none; white-space: pre-wrap; font-size: 0.88em; display: block; }
+  .copy-prompt::after {
+    content: "click to copy";
+    position: absolute;
+    top: 6px;
+    right: 10px;
+    font-size: 0.7em;
+    color: #6a6f8a;
+    background: #0F1229;
+    padding: 2px 8px;
+    border-radius: 4px;
+  }
+  .copy-prompt.copied::after { content: "copied!"; color: #4caf50; }
+
+  table {
+    background: #1a1e38;
+    color: #E8E8EC;
+    border-collapse: collapse;
+    width: 100%;
+    font-size: 0.9em;
+    margin: 10px 0;
+    border-radius: 8px;
+    overflow: hidden;
+  }
+  th { background: #E76F51; color: white; padding: 8px 14px; text-align: left; border: none; }
+  td { padding: 8px 14px; border-bottom: 1px solid #2a2e48; }
+  tr:nth-child(even) td { background: #151935; }
+
+  .checklist { list-style: none; padding: 0; }
+  .checklist li { padding: 6px 0; }
+  .checklist li::before { content: "☐ "; color: #E8873A; font-size: 1.1em; }
+
+  .os-note { color: #8a8faa; font-size: 0.88em; font-style: italic; }
+  .tip { background: #1a3a2a; border-left: 4px solid #4caf50; padding: 12px 16px; border-radius: 8px; margin: 10px 0; }
+  .tip::before { content: "Tip: "; color: #4caf50; font-weight: bold; }
+  .warning { background: #3a2a1a; border-left: 4px solid #ff9800; padding: 12px 16px; border-radius: 8px; margin: 10px 0; }
+  .warning::before { content: "Note: "; color: #ff9800; font-weight: bold; }
+
+  .toc { background: #1a1e38; padding: 20px 28px; border-radius: 12px; margin: 20px 0; }
+  .toc h3 { margin-top: 0; color: #E8873A; }
+  .toc a { text-decoration: none; display: block; padding: 4px 0; }
+  .toc a:hover { text-decoration: underline; }
+  .toc .indent { padding-left: 20px; font-size: 0.92em; }
+
+  .footer { margin-top: 50px; text-align: center; color: #6a6f8a; font-size: 0.85em; border-top: 1px solid #2a2e48; padding-top: 20px; }
+
+  hr { border: none; border-top: 1px solid #2a2e48; margin: 30px 0; }
+
+  @media (max-width: 600px) {
+    body { padding: 12px; }
+    pre { font-size: 0.82em; padding: 10px 12px; }
+    h1 { font-size: 1.5em; }
+  }
+
+  @media print {
+    body { background: white; color: #222; }
+    .container { max-width: 100%; }
+    .card, .copy-prompt, pre, .tip, .warning, .toc { background: #f5f5f5; border-color: #ddd; }
+    h1, h3, td, code, pre code, .copy-prompt code { color: #222; }
+    h2, h4, strong, a, .badge { color: #d35400; }
+    th { background: #d35400; }
+    .copy-prompt::after { display: none; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<h1>Student Handout Pack</h1>
+<p><strong>What Can Agentic CLI Do?</strong> | GDG x Bulacan State University</p>
+<p>20 February 2026</p>
+
+<div class="toc">
+  <h3>Contents</h3>
+  <a href="#part1">Part 1: Setup Guide (Do This Before the Workshop)</a>
+  <a href="#part2">Part 2: Workshop Exercises</a>
+  <a class="indent" href="#ex1">Exercise 1: App From a Sentence</a>
+  <a class="indent" href="#ex2">Exercise 2: Data to Dashboard</a>
+  <a class="indent" href="#ex3">Exercise 3: Read a Real GitHub Project</a>
+  <a class="indent" href="#ex4">Exercise 4: Build Your Own Specialist</a>
+  <a class="indent" href="#ex5">Exercise 5: Research and Report</a>
+  <a href="#part3">Part 3: Hackathon</a>
+  <a href="#reference">Quick Reference</a>
+</div>
+
+<!-- ============================================================ -->
+<h1 id="part1">Part 1: Setup Guide</h1>
+<p>Complete this <strong>before the workshop</strong> so we can jump straight into exercises. Takes about 15-30 minutes.</p>
+
+<!-- WHAT TO BRING -->
+<h2>What to Bring</h2>
+<div class="card">
+  <ul>
+    <li><strong>Laptop</strong> - fully charged (power outlets may be limited)</li>
+    <li>Any operating system: Windows, Mac, Linux, or ChromeOS</li>
+    <li>At least 4 GB RAM recommended</li>
+  </ul>
+</div>
+
+<!-- WINDOWS: WSL SETUP -->
+<h2>Windows Users: Install WSL2 + Ubuntu</h2>
+<p>If you are on <strong>Mac or Linux</strong>, skip to the next section. If you are on Windows, WSL2 gives you a proper Linux terminal.</p>
+
+<h3><span class="badge badge-setup">Step 1</span> Enable WSL and install Ubuntu</h3>
+<p>Open <strong>PowerShell as Administrator</strong> (Start menu → type "PowerShell" → right-click → Run as administrator):</p>
+<div class="copy-prompt" onclick="copyThis(this)"><code>wsl --install -d Ubuntu</code></div>
+<p>This downloads and installs Ubuntu. Restart your computer when prompted.</p>
+
+<h3><span class="badge badge-setup">Step 2</span> Create your Linux username and password</h3>
+<p>After restarting, Ubuntu will launch and ask you to create a username and password.</p>
+<div class="card">
+  <ul>
+    <li><strong>Username:</strong> something short, all lowercase, no spaces (e.g. <code>juan</code>)</li>
+    <li><strong>Password:</strong> pick something easy to remember - you will need it when installing software</li>
+    <li>When you type the password, <strong>nothing appears on screen</strong> - this is normal. Just type and press Enter</li>
+  </ul>
+</div>
+
+<div class="tip">Already have WSL? Open PowerShell and type <code>wsl --status</code>. If you see version information, skip ahead to the package managers section.</div>
+
+<h3>WSL Survival Skills</h3>
+<div class="card">
+  <h4>How to open your Linux terminal</h4>
+  <p>Click Start → type <strong>Ubuntu</strong> → click the Ubuntu app. You can also type <code>wsl</code> in PowerShell.</p>
+
+  <h4>Copy and paste in the terminal</h4>
+  <ul>
+    <li><strong>Copy:</strong> Highlight text with your mouse (auto-copied), or <code>Ctrl+Shift+C</code></li>
+    <li><strong>Paste:</strong> Right-click anywhere in the terminal, or <code>Ctrl+Shift+V</code></li>
+  </ul>
+
+  <h4>Restart your terminal</h4>
+  <p>Many installers say "restart your terminal." Either close and reopen Ubuntu, or run:</p>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>exec bash</code></div>
+</div>
+
+<!-- PACKAGE MANAGERS -->
+<h2>Install Package Managers</h2>
+
+<h3><span class="badge badge-setup">1a</span> Python: Install uv</h3>
+<p>uv is a fast Python package manager. We use it to run Python projects.</p>
+
+<h4>Mac / Linux / WSL:</h4>
+<div class="copy-prompt" onclick="copyThis(this)"><code>curl -LsSf https://astral.sh/uv/install.sh | sh</code></div>
+
+<h4>Windows (PowerShell, if not using WSL):</h4>
+<div class="copy-prompt" onclick="copyThis(this)"><code>powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"</code></div>
+
+<p>Restart your terminal, then install Python and verify:</p>
+<div class="copy-prompt" onclick="copyThis(this)"><code>uv python install 3.12
+uv --version</code></div>
+
+<h3><span class="badge badge-setup">1b</span> JavaScript: Install Node.js</h3>
+<p>The AI CLI tools are distributed as Node.js packages.</p>
+
+<h4>Mac / Linux / WSL (recommended - using Volta):</h4>
+<div class="copy-prompt" onclick="copyThis(this)"><code>curl https://get.volta.sh | bash
+exec bash
+volta install node</code></div>
+
+<h4>Windows (without WSL):</h4>
+<p>Download and run the installer from <a href="https://nodejs.org/">nodejs.org</a></p>
+
+<p>Verify:</p>
+<div class="copy-prompt" onclick="copyThis(this)"><code>node --version</code></div>
+
+<!-- AI TOOLS -->
+<h2>Install AI Tools</h2>
+<p>Install <strong>at least one</strong>. We recommend starting with Gemini CLI since it is free.</p>
+
+<h3><span class="badge badge-setup">2a</span> Gemini CLI (Recommended - Free)</h3>
+<div class="card">
+  <p>Free with any Google account.</p>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>npm install -g @google/gemini-cli</code></div>
+  <p>Verify and log in:</p>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>gemini --version
+gemini</code></div>
+  <p>When prompted, select <strong>"Login with Google."</strong> It prints a URL - copy it, paste into your browser, sign in with your Google account, approve, and come back to the terminal.</p>
+  <p class="os-note">Alternative: Get a free API key from <a href="https://aistudio.google.com/apikey">aistudio.google.com/apikey</a> and set it: <code>export GEMINI_API_KEY="your-key-here"</code></p>
+</div>
+
+<h3><span class="badge badge-setup">2b</span> Claude Code (Optional - Subscription Required)</h3>
+<div class="card">
+  <p>Requires a Claude Pro or Max subscription.</p>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>curl -fsSL https://claude.ai/install.sh | bash
+exec bash</code></div>
+  <p>Verify and log in:</p>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>claude --version
+claude</code></div>
+  <p>Same browser login flow - it prints a URL, you copy it to your browser, sign in with your Anthropic account, approve, paste the code back.</p>
+</div>
+
+<h3><span class="badge badge-setup">2c</span> OpenAI Codex (Optional - Subscription Required)</h3>
+<div class="card">
+  <p>Requires a ChatGPT Plus, Pro, Team, or Edu subscription.</p>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>npm install -g @openai/codex</code></div>
+  <p>Verify and log in:</p>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>codex --version
+codex</code></div>
+  <p>Same browser login flow as the others.</p>
+</div>
+
+<!-- AUTH PATTERN -->
+<h3>The Authentication Pattern</h3>
+<p>All three tools follow the same login flow. Once you have done it for one, the rest feel familiar:</p>
+<div class="card">
+  <p><code>Run the tool</code> → It prints a URL → <strong>Copy the URL</strong> → Paste into browser → Sign in and approve → Get a code → <strong>Paste code back in terminal</strong> → Done</p>
+  <p class="os-note">You only do this once per tool. After that, it remembers you.</p>
+</div>
+
+<!-- VERIFICATION -->
+<h2>Verification Checklist</h2>
+<p>Run each command below. You should see a version number for each:</p>
+<ul class="checklist">
+  <li><code>uv --version</code></li>
+  <li><code>node --version</code></li>
+  <li><code>gemini --version</code></li>
+  <li><code>claude --version</code> (only if installed)</li>
+  <li><code>codex --version</code> (only if installed)</li>
+</ul>
+<p>If any says "command not found", restart your terminal first (<code>exec bash</code> or close and reopen).</p>
+
+<!-- TROUBLESHOOTING -->
+<h2>Troubleshooting</h2>
+
+<h3>"Command not found" after installing something</h3>
+<div class="card">
+  <p>The installer added the tool to your PATH, but your current terminal session does not know about it yet.</p>
+  <p><strong>Fix:</strong> Run <code>exec bash</code> to reload. If that does not work, close the terminal entirely and reopen it.</p>
+</div>
+
+<h3>npm install fails with permission errors</h3>
+<div class="card">
+  <p><strong>Windows:</strong> Run PowerShell as Administrator.</p>
+  <p><strong>Mac/Linux/WSL:</strong> Do NOT use <code>sudo npm install -g</code>. Fix npm permissions instead:</p>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>mkdir ~/.npm-global
+npm config set prefix '~/.npm-global'
+echo 'export PATH=~/.npm-global/bin:$PATH' >> ~/.bashrc
+exec bash</code></div>
+</div>
+
+<h3>The browser does not open from WSL</h3>
+<div class="card">
+  <p>This is expected. WSL does not automatically open Windows browsers. When any tool prints a URL:</p>
+  <ul>
+    <li>Highlight the URL in the terminal to copy it</li>
+    <li>Open your browser manually (Chrome, Edge, etc.)</li>
+    <li>Paste the URL and press Enter</li>
+  </ul>
+</div>
+
+<h3>WSL is running slowly</h3>
+<div class="card">
+  <p>Make sure you are working with files inside the Linux filesystem. Your Linux home directory (<code>~</code>) is fast. Accessing files on <code>/mnt/c/</code> (your Windows C: drive) is significantly slower.</p>
+</div>
+
+<h3>Need to update a tool later</h3>
+<div class="card">
+  <div class="copy-prompt" onclick="copyThis(this)"><code>npm update -g @google/gemini-cli
+npm update -g @anthropic-ai/claude-code
+npm update -g @openai/codex
+uv self update</code></div>
+</div>
+
+<hr>
+
+<!-- ============================================================ -->
+<h1 id="part2">Part 2: Workshop Exercises</h1>
+<p>Open this page on your phone or laptop during the workshop. <strong>Click any prompt to copy it.</strong></p>
+
+<!-- EXERCISE 1 -->
+<h2 id="ex1"><span class="badge badge-exercise">Exercise 1</span> App From a Sentence</h2>
+<h3>Describe a problem. Get working software.</h3>
+
+<p>Copy this prompt and run it in your terminal:</p>
+<div class="copy-prompt" onclick="copyThis(this)"><code>gemini "Build a sari-sari store POS system.
+Store owners track inventory, record sales,
+and see what is selling best. Simple enough
+for a tindahan owner who uses Facebook but
+has never touched Excel.
+Web app with Python."</code></div>
+
+<p><strong>Run it.</strong> Wait 1-3 minutes. Open the app in your browser.</p>
+
+<div class="card">
+  <h4>Discussion</h4>
+  <ul>
+    <li>Would a store owner in Malolos actually use this?</li>
+    <li>What is missing?</li>
+    <li>What did the AI assume that you did not ask for?</li>
+  </ul>
+  <p><strong>Bonus:</strong> Change one thing in your prompt and run again. How does the output change?</p>
+</div>
+
+<!-- EXERCISE 2 -->
+<h2 id="ex2"><span class="badge badge-exercise">Exercise 2</span> Data to Dashboard</h2>
+<h3>Feed data to the CLI. Get analysis and charts back.</h3>
+
+<p><strong>Step 1:</strong> Download 6 months of sari-sari store sales data (3,200+ rows):</p>
+<div class="copy-prompt" onclick="copyThis(this)"><code>curl -O https://raw.githubusercontent.com/realmindsai/bulsu_tutorial_2026/main/bulacan_sari_sari_sales_6months.csv</code></div>
+
+<p><strong>Step 2:</strong> Analyze it:</p>
+<div class="copy-prompt" onclick="copyThis(this)"><code>gemini "Analyze this 6-month sari-sari store sales
+dataset. Create: top products chart, daily revenue
+trend, profit by category, busiest barangays,
+and weekend vs weekday comparison.
+Export as an HTML dashboard with peso currency." \
+  < bulacan_sari_sari_sales_6months.csv</code></div>
+
+<div class="card">
+  <h4>Discussion</h4>
+  <ul>
+    <li>Open the HTML file in your browser</li>
+    <li>What insights did the AI find that you did not ask for?</li>
+    <li>Which barangay spends the most?</li>
+    <li>What would you add to make it useful for a real store?</li>
+  </ul>
+  <p><strong>Bonus:</strong> Ask it to add a "restock alert" section.</p>
+</div>
+
+<!-- EXERCISE 3 -->
+<h2 id="ex3"><span class="badge badge-exercise">Exercise 3</span> Read a Real GitHub Project</h2>
+<h3>Point the AI at existing code. It understands.</h3>
+
+<p><strong>Step 1:</strong> Pick one and clone it:</p>
+
+<div class="card">
+  <h4>Option A: heartrate</h4>
+  <p>A tool that visualizes Python execution in real time (1,800+ stars)</p>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>git clone https://github.com/alexmojaki/heartrate</code></div>
+</div>
+
+<div class="card">
+  <h4>Option B: simpleeval</h4>
+  <p>A safe math expression evaluator used in production (570+ stars)</p>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>git clone https://github.com/danthedeckie/simpleeval</code></div>
+</div>
+
+<div class="card">
+  <h4>Option C: simple-snake-game-python</h4>
+  <p>A snake game built in under 50 lines of Python</p>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>git clone https://github.com/Carla-Codes/simple-snake-game-python</code></div>
+</div>
+
+<p><strong>Step 2:</strong> Run the AI inside the cloned folder:</p>
+<div class="copy-prompt" onclick="copyThis(this)"><code>cd heartrate
+gemini "Read this entire project and generate:
+1) A README with what it does and how to use it
+2) A list of every file and its purpose
+3) How the code works, step by step
+4) Any bugs or improvements you can spot
+Write each to a separate file."</code></div>
+
+<div class="card">
+  <h4>Discussion</h4>
+  <ul>
+    <li>Did the AI understand what the project does?</li>
+    <li>Could a developer use this documentation to contribute?</li>
+    <li>Did it find real bugs or just style issues?</li>
+  </ul>
+  <p><strong>Bonus:</strong> Clone a different project and compare the output.</p>
+</div>
+
+<!-- EXERCISE 4 -->
+<h2 id="ex4"><span class="badge badge-exercise">Exercise 4</span> Build Your Own Specialist</h2>
+<h3>A few sentences turn a general AI into a specialist.</h3>
+
+<p><strong>Step 1:</strong> Create a system prompt file. Write 3-4 sentences in <code>agent_prompt.md</code>. Ideas:</p>
+<div class="card">
+  <ul>
+    <li>A <strong>Bulacan tourism guide</strong> for visitors</li>
+    <li>A <strong>student budget advisor</strong> for tight allowances</li>
+    <li>A <strong>recipe assistant</strong> for Filipino dishes</li>
+    <li>A <strong>study planner</strong> for exam season</li>
+  </ul>
+</div>
+
+<p><strong>Step 2:</strong> Test it:</p>
+<div class="copy-prompt" onclick="copyThis(this)"><code>gemini --system-instruction agent_prompt.md \
+  "I have 500 pesos for the week and need to
+   eat 3 meals a day. Make me a plan."</code></div>
+
+<p><strong>Step 3:</strong> Break it. Give your agent a question <strong>outside its job</strong>.</p>
+<div class="card">
+  <p>Ask your tourism guide for medical advice. Ask your budget advisor to write code.</p>
+  <ul>
+    <li>Does it stay in role?</li>
+    <li>What rule would you add to make it better?</li>
+  </ul>
+</div>
+
+<!-- EXERCISE 5 -->
+<h2 id="ex5"><span class="badge badge-exercise">Exercise 5</span> Research and Report</h2>
+<h3>One prompt produces a professional document.</h3>
+
+<div class="copy-prompt" onclick="copyThis(this)"><code>gemini "Research the food manufacturing industry
+in Bulacan province. Produce a briefing:
+1) Top companies and what they produce
+2) Employment and economic impact
+3) Current challenges
+4) Three AI-powered opportunities
+Format as a professional report with executive
+summary. Export as Markdown and HTML."</code></div>
+
+<div class="card">
+  <h4>Discussion</h4>
+  <ul>
+    <li>Could you present this to a professor?</li>
+    <li>Could you present it to a local business owner?</li>
+    <li>What would you fact-check first?</li>
+    <li>How long would this have taken manually?</li>
+  </ul>
+  <p><strong>Bonus:</strong> Pick a different Bulacan industry and generate another report.</p>
+</div>
+
+<hr>
+
+<!-- ============================================================ -->
+<h1 id="part3">Part 3: Mini Hackathon</h1>
+<p><strong>6:00 PM - Build something real in 75 minutes</strong></p>
+
+<h2>Roles</h2>
+<table>
+  <tr><th>Role</th><th>What You Do</th></tr>
+  <tr><td><strong>PM</strong></td><td>Writes and refines the prompt</td></tr>
+  <tr><td><strong>Engineer</strong></td><td>Runs the AI, iterates on output</td></tr>
+  <tr><td><strong>Tester</strong></td><td>Tries to break it, finds edge cases</td></tr>
+  <tr><td><strong>Presenter</strong></td><td>Prepares the demo</td></tr>
+</table>
+<p><strong>Rotate who talks to the AI.</strong> Everyone should try.</p>
+
+<h2>Option A: Barangay Service Portal</h2>
+<div class="copy-prompt" onclick="copyThis(this)"><code>gemini "Build a web app for barangay complaint
+tracking. Residents submit complaints with
+category and location. Officials update status.
+Include a public dashboard showing resolution
+rates. Python with SQLite."</code></div>
+<p><strong>Judging:</strong> Does it work for a barangay captain?</p>
+
+<h2>Option B: Campus Tools for BulSU</h2>
+<div class="copy-prompt" onclick="copyThis(this)"><code>gemini "Build a tool for BulSU students that
+[your idea here]. Think about: class scheduling,
+study groups, canteen menus, org events,
+or requirement tracking.
+Web app with Python backend."</code></div>
+<p><strong>Judging:</strong> Would BulSU students actually use this?</p>
+
+<h2>Option C: Bulacan Business Intelligence</h2>
+<div class="copy-prompt" onclick="copyThis(this)"><code>gemini "Build a CLI tool that generates business
+reports for Bulacan province. Given an industry
+name, research key companies, create charts,
+and export a professional PDF report.
+Python with matplotlib."</code></div>
+<p><strong>Judging:</strong> Could you hand this to an LGU official?</p>
+
+<h2>Option D: Your Own Idea</h2>
+<div class="card">
+  <p><strong>Requirements:</strong></p>
+  <ul>
+    <li>Use an agentic CLI tool to build it</li>
+    <li>Must be testable in the demo</li>
+    <li>Must address a local context</li>
+  </ul>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>gemini "Build [your idea]. [describe users].
+[describe core workflow]. Simple enough
+to demo in 5 minutes."</code></div>
+</div>
+
+<h2>Hackathon Tips</h2>
+<div class="card">
+  <ul>
+    <li><strong>Start small.</strong> Get the core working before adding features</li>
+    <li><strong>Iterate.</strong> Your first prompt will not be perfect</li>
+    <li><strong>Test outcomes, not code.</strong> Does it do what a user needs?</li>
+    <li><strong>Add local knowledge</strong> the AI does not have</li>
+    <li><strong>Prepare your demo early</strong></li>
+  </ul>
+</div>
+
+<hr>
+
+<!-- ============================================================ -->
+<h2 id="reference">Quick Reference</h2>
+
+<h3>Using a Different CLI Tool</h3>
+<p>All exercises use <code>gemini</code> in the prompts, but you can swap it for any tool:</p>
+<table>
+  <tr><th>Tool</th><th>Command</th><th>Access</th></tr>
+  <tr><td>Gemini CLI</td><td><code>gemini "prompt"</code></td><td>Free with Google account</td></tr>
+  <tr><td>Claude Code</td><td><code>claude "prompt"</code></td><td>Claude Pro/Max subscription</td></tr>
+  <tr><td>OpenAI Codex</td><td><code>codex "prompt"</code></td><td>ChatGPT Plus/Pro subscription</td></tr>
+</table>
+<p>The prompts are identical - just replace the command name.</p>
+
+<h3>What You Built Today</h3>
+<div class="card">
+  <ul>
+    <li>A <strong>complete web app</strong> from a sentence</li>
+    <li><strong>3,200 rows of data</strong> turned into a dashboard</li>
+    <li>AI that <strong>read and documented</strong> a real GitHub project</li>
+    <li>A <strong>custom specialist</strong> agent</li>
+    <li>A <strong>professional research report</strong></li>
+  </ul>
+  <p>All from the command line. All in under 2 hours.</p>
+</div>
+
+<hr>
+
+<h2>Connect With Us</h2>
+<div class="card">
+  <p><strong>Dr Dennis Wollersheim</strong> - Co-Founder and CTO<br>
+  <a href="https://linkedin.com/in/dennis-wollersheim">linkedin.com/in/dennis-wollersheim</a></p>
+  <p><strong>Tracy Anthony</strong> - Co-Founder and CEO<br>
+  <a href="https://linkedin.com/in/tracyanthony">linkedin.com/in/tracyanthony</a></p>
+  <p><strong>Real Minds AI</strong> | wisdom, amplified<br>
+  <a href="https://realmindsai.au">realmindsai.au</a></p>
+</div>
+
+<h2>Enjoyed Today?</h2>
+<p>Leave us a Google review: <a href="https://g.page/r/Cfs8AMetEN3dEBM/review">g.page/r/Cfs8AMetEN3dEBM/review</a></p>
+
+<div class="footer">
+  <p><strong>Real Minds AI</strong> | wisdom, amplified | <a href="https://realmindsai.au">realmindsai.au</a></p>
+</div>
+
+</div>
+
+<script>
+function copyThis(el) {
+  const code = el.querySelector('code');
+  const text = code.textContent;
+  navigator.clipboard.writeText(text).then(() => {
+    el.classList.add('copied');
+    setTimeout(() => el.classList.remove('copied'), 1500);
+  });
+}
+</script>
+</body>
+</html>
