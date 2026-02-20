@@ -120,15 +120,15 @@ style: |
 
 ---
 
-# Follow Along
+# Follow Along on Your Device
 
-## Scan this QR code for all prompts and instructions
+## Scan for the handout with all prompts you can copy-paste
 
 ![w:280](qr_workshop_prompts.png)
 
-**https://realmindsai.github.io/bulsu_tutorial_2026/**
+**realmindsai.github.io/bulsu_tutorial_2026/workshop_prompts.html**
 
-Setup guide, follow-along prompts, and exercise files - all in one place.
+Open this on your phone or laptop to copy-paste prompts during exercises.
 
 ---
 
