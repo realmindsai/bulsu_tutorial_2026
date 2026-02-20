@@ -118,43 +118,17 @@ style: |
 ## GDG x Bulacan State University
 **20 February 2026**
 
-Copy-paste ready prompts for every exercise
-
 ---
 
-# Setup: Package Managers
+# Follow Along
 
-You need **one** package manager. Install whichever matches your preference.
+## Scan this QR code for all prompts and instructions
 
-## Python: uv
+![w:280](qr_workshop_prompts.png)
 
-Install: **https://docs.astral.sh/uv/getting-started/installation/**
+**https://realmindsai.github.io/bulsu_tutorial_2026/**
 
-Verify: `uv --version`
-
-## JavaScript: Bun
-
-Install: **https://bun.sh/**
-
-Verify: `bun --version`
-
----
-
-# Setup: AI Coding Tools
-
-Install **at least one** of these CLI tools.
-
-| Tool | Install Page |
-|------|-------------|
-| **Gemini CLI** (primary) | https://github.com/google-gemini/gemini-cli |
-| **Claude Code** | https://docs.anthropic.com/en/docs/claude-code |
-| **Codex CLI** | https://github.com/openai/codex |
-
-Verify your tool works:
-
-```bash
-gemini --version
-```
+Setup guide, follow-along prompts, and exercise files - all in one place.
 
 ---
 
@@ -166,7 +140,7 @@ gemini --version
 | 3:15 | **Ex 1:** Build an app from one sentence |
 | 3:40 | **Ex 2:** Turn data into a dashboard |
 | 4:05 | Break |
-| 4:15 | **Ex 3:** Read code and write docs |
+| 4:15 | **Ex 3:** Make AI read and explain a real project |
 | 4:40 | **Ex 4:** Create your own AI specialist |
 | 5:05 | **Ex 5:** AI-powered research report |
 | 5:30 | Break and hackathon team formation |
@@ -190,7 +164,7 @@ An **agentic CLI tool** does work. It can:
 - **Fix its own mistakes** and try again
 - **Build entire projects** from a description
 
-You describe what you want. It builds it. That is the difference.
+You describe what you want. It builds it.
 
 ---
 
@@ -207,9 +181,7 @@ has never touched Excel.
 Web app with Python."
 ```
 
-**Run it.** Wait for it to finish (1-3 minutes).
-
-Then open the app in your browser.
+**Run it.** Wait 1-3 minutes. Open the app in your browser.
 
 ---
 
@@ -221,15 +193,15 @@ Then open the app in your browser.
 - What is missing?
 - What did the AI assume that you did not ask for?
 
-**Bonus:** Try changing one thing in your prompt and run it again. How does the output change?
+**Bonus:** Change one thing in your prompt and run again. How does the output change?
 
 ---
 
 # <span class="concept">Concept</span> Data In, Insights Out
 
-## The CLI can analyze data, not just write code
+## Feed data to the CLI. Get analysis and charts back.
 
-Most people use spreadsheets. But what if you could just say:
+Most people use spreadsheets. But what if you could say:
 
 **"Here is my data. Show me what is interesting."**
 
@@ -239,27 +211,27 @@ The CLI will:
 - Generate charts and visualizations
 - Export everything as files you can open
 
-No pandas. No matplotlib. No setup. Just **one prompt**.
+No pandas. No matplotlib. No setup. **One prompt.**
 
 ---
 
 # <span class="exercise-num">2</span> Data to Dashboard
 
-## Step 1: Download sample data
+## Download 6 months of sari-sari store sales (3,200+ rows)
 
 ```bash
-curl -O https://raw.githubusercontent.com/realmindsai/bulsu_tutorial_2026/main/sari_sari_sales.csv
+curl -O https://raw.githubusercontent.com/realmindsai/bulsu_tutorial_2026/main/bulacan_sari_sari_sales_6months.csv
 ```
 
-## Step 2: Analyze it
+## Analyze it
 
 ```bash
-gemini "Analyze this sari-sari store sales data.
-Create a bar chart of top selling products,
-a line chart of daily revenue trend,
-and a profit margin analysis by category.
-Export as an HTML dashboard.
-Use peso sign for currency." < sari_sari_sales.csv
+gemini "Analyze this 6-month sari-sari store sales
+dataset. Create: top products chart, daily revenue
+trend, profit by category, busiest barangays,
+and weekend vs weekday comparison.
+Export as an HTML dashboard with peso currency." \
+  < bulacan_sari_sari_sales_6months.csv
 ```
 
 ---
@@ -268,11 +240,11 @@ Use peso sign for currency." < sari_sari_sales.csv
 
 ## Open the HTML file in your browser
 
-- Could you hand this dashboard to a store owner?
 - What insights did the AI find that you did not ask for?
-- What would you add to make it more useful?
+- Which barangay spends the most?
+- What would you add to make it useful for a real store?
 
-**Bonus:** Ask the AI to add a "products to restock" alert section.
+**Bonus:** Ask it to add a "restock alert" section.
 
 ---
 
@@ -284,43 +256,62 @@ Most people think AI only **generates** code. But it can also:
 
 - **Read** a project and explain what it does
 - **Find bugs** the original developer missed
-- **Generate documentation** (README, API docs, diagrams)
+- **Generate documentation** (README, API docs)
 - **Suggest improvements** with explanations
 
-This works with code you did not write. Code in languages you do not know. Code with zero comments.
+This works on code you did not write. In languages you do not know.
 
 ---
 
-# <span class="exercise-num">3</span> Read a Codebase, Write the Docs
+# <span class="exercise-num">3</span> Read a Real GitHub Project
 
-## Step 1: Download the app
-
-```bash
-curl -O https://raw.githubusercontent.com/realmindsai/bulsu_tutorial_2026/main/broken_app.py
-```
-
-## Step 2: Generate documentation
+## Pick one and clone it
 
 ```bash
-gemini "Read this Python app and generate:
-1) A README with setup instructions
-2) A list of every function and what it does
-3) How data flows through the app
-4) Bugs or improvements you can spot
-Write each to a separate file." < broken_app.py
+git clone https://github.com/alexmojaki/heartrate
 ```
+
+A tool that visualizes Python execution in real time (1,800+ stars).
+
+```bash
+git clone https://github.com/danthedeckie/simpleeval
+```
+
+A safe math expression evaluator used in production (570+ stars).
+
+```bash
+git clone https://github.com/Carla-Codes/simple-snake-game-python
+```
+
+A snake game built in under 50 lines of Python.
+
+---
+
+# <span class="exercise-num">3</span> Analyze the Project
+
+## Run the AI inside the cloned folder
+
+```bash
+cd heartrate
+gemini "Read this entire project and generate:
+1) A README with what it does and how to use it
+2) A list of every file and its purpose
+3) How the code works, step by step
+4) Any bugs or improvements you can spot
+Write each to a separate file."
+```
+
+**Read the output.** Is it accurate? Did it find anything interesting?
 
 ---
 
 # <span class="exercise-num">3</span> Discussion
 
-## Read the generated README
+- Did the AI understand what the project does?
+- Could a developer use this documentation to contribute?
+- Did it find real bugs or just style issues?
 
-- Is it accurate?
-- Did the AI find real bugs? (Hint: there is a closure bug)
-- Would this documentation help a developer understand the code?
-
-**Bonus:** Feed the AI a project from your own coursework and generate docs for it.
+**Bonus:** Clone a different project and compare the output.
 
 ---
 
@@ -328,14 +319,14 @@ Write each to a separate file." < broken_app.py
 
 ## A few sentences turn a general AI into a specialist
 
-Without a system prompt, the AI is a generalist. It knows everything but specializes in nothing.
+Without a system prompt, the AI is a generalist.
 
 With a **system prompt file**, you give it:
 - A **role** ("You are a Bulacan tourism expert")
 - **Rules** ("Only recommend places within Bulacan")
 - **Boundaries** ("Never give medical advice")
 
-Three sentences. That is all it takes to create a focused agent.
+Three sentences. That is all it takes.
 
 ---
 
@@ -343,7 +334,7 @@ Three sentences. That is all it takes to create a focused agent.
 
 ## Step 1: Create a system prompt file
 
-Write 3-4 sentences in a file called `agent_prompt.md`:
+Write 3-4 sentences in `agent_prompt.md`. Ideas:
 
 - A **Bulacan tourism guide** for visitors
 - A **student budget advisor** for tight allowances
@@ -370,50 +361,47 @@ Ask your tourism guide for medical advice. Ask your budget advisor to write code
 
 - Does it stay in role?
 - What rule would you add to make it better?
-- How is this different from just asking the AI directly?
 
 ---
 
 # <span class="concept">Concept</span> From Question to Deliverable
 
-## One prompt can produce a professional document
+## One prompt produces a professional document
 
-The CLI does not just answer questions. It can produce **formatted deliverables**:
+The CLI does not just answer questions. It produces **deliverables**:
 
 - Research reports with sections and sources
 - Executive summaries
 - Data-backed analysis
 - Exported as Markdown, HTML, or PDF
 
-This is the difference between **getting an answer** and **getting a document you can hand to someone**.
+The difference between **getting an answer** and **getting a document you can hand to someone**.
 
 ---
 
 # <span class="exercise-num">5</span> Research and Report
 
-## Produce a professional briefing document
+## Produce a professional briefing
 
 ```bash
 gemini "Research the food manufacturing industry
-in Bulacan province. Produce a briefing document:
+in Bulacan province. Produce a briefing:
 1) Top companies and what they produce
 2) Employment and economic impact
-3) Current challenges the industry faces
-4) Three opportunities where AI tools could help
-Format as a professional report with an
-executive summary. Export as Markdown and HTML."
+3) Current challenges
+4) Three AI-powered opportunities
+Format as a professional report with executive
+summary. Export as Markdown and HTML."
 ```
 
 ---
 
 # <span class="exercise-num">5</span> Discussion
 
-## Read the report
-
 - Could you present this to a professor?
 - Could you present it to a local business owner?
 - What would you fact-check first?
-- How long would this have taken you to write manually?
+- How long would this have taken manually?
 
 **Bonus:** Pick a different Bulacan industry and generate another report.
 
@@ -424,8 +412,8 @@ executive summary. Export as Markdown and HTML."
 # What You Just Did
 
 - Built a **complete web app** from a sentence
-- Turned **raw data into a dashboard** with charts
-- Made AI **read and document** existing code
+- Turned **3,200 rows of data into a dashboard**
+- Made AI **read and document** a real GitHub project
 - Created a **custom specialist** agent
 - Produced a **professional research report**
 
@@ -445,8 +433,6 @@ Pick a project during the break. Come back with a team.
 
 # Hackathon Roles
 
-## Assign these within your team
-
 | Role | What You Do |
 |------|-------------|
 | **PM** | Writes and refines the prompt |
@@ -458,49 +444,41 @@ Pick a project during the break. Come back with a team.
 
 ---
 
-# Hackathon Option A
-
-## Barangay Service Portal
+# Hackathon Option A: Barangay Service Portal
 
 ```bash
 gemini "Build a web app for barangay complaint
 tracking. Residents submit complaints with
-category and location. Officials update status
-and add notes. Include a public dashboard
-showing resolution rates.
-Python with SQLite."
+category and location. Officials update status.
+Include a public dashboard showing resolution
+rates. Python with SQLite."
 ```
 
 **Judging:** Does it work for a barangay captain?
 
 ---
 
-# Hackathon Option B
-
-## Campus Tools for BSU
+# Hackathon Option B: Campus Tools for BulSU
 
 ```bash
-gemini "Build a tool for BSU students that
+gemini "Build a tool for BulSU students that
 [your idea here]. Think about: class scheduling,
 study groups, canteen menus, org events,
 or requirement tracking.
 Web app with Python backend."
 ```
 
-**Judging:** Would BSU students actually use this?
+**Judging:** Would BulSU students actually use this?
 
 ---
 
-# Hackathon Option C
-
-## Bulacan Business Intelligence
+# Hackathon Option C: Bulacan Business Intelligence
 
 ```bash
-gemini "Build a CLI tool that generates
-business reports for Bulacan province.
-Given an industry name, research key companies,
-create comparison charts, and export a
-professional PDF report.
+gemini "Build a CLI tool that generates business
+reports for Bulacan province. Given an industry
+name, research key companies, create charts,
+and export a professional PDF report.
 Python with matplotlib."
 ```
 
@@ -508,9 +486,7 @@ Python with matplotlib."
 
 ---
 
-# Hackathon Option D
-
-## Your Own Idea
+# Hackathon Option D: Your Own Idea
 
 **Requirements:**
 - Use an agentic CLI tool to build it
@@ -530,10 +506,10 @@ to demo in 5 minutes."
 # Tips for the Hackathon
 
 - **Start small.** Get the core working before adding features
-- **Iterate.** Your first prompt will not be perfect. Refine it
+- **Iterate.** Your first prompt will not be perfect
 - **Test outcomes, not code.** Does it do what a user needs?
 - **Add local knowledge** the AI does not have
-- **Prepare your demo early.** Whatever you have IS your demo
+- **Prepare your demo early**
 
 **Help:** Raise your hand. Mentors are circulating.
 
@@ -566,8 +542,10 @@ realmindsai.au
 
 ## Leave us a Google review
 
-![w:300](qr_google_review.png)
+![w:280](qr_google_review.png)
 
-Scan to review - it helps us bring workshops like this to more communities.
+**https://g.page/r/Cfs8AMetEN3dEBM/review**
+
+Scan to review - it helps us bring workshops to more communities.
 
 ---

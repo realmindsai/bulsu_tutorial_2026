@@ -1,0 +1,3217 @@
+date,product,category,quantity_sold,unit_price,cost_price,payment_method,barangay
+2025-09-01,Payless Noodles,Noodles,1,8.0,6.0,Cash,Sumapa
+2025-09-01,C2 Apple,Beverages,3,20.0,15.5,Cash,Catmon
+2025-09-01,Rebisco Crackers,Snacks,7,5.0,3.5,Cash,Malolos Centro
+2025-09-01,Nissin Cup Noodles,Noodles,4,25.0,20.0,Cash,Malolos Centro
+2025-09-01,Oishi Pillows,Snacks,4,10.0,7.5,GCash,Bangkal
+2025-09-01,C2 Apple,Beverages,8,20.0,15.5,GCash,Ligas
+2025-09-01,Globe Load 50,Telecom,14,50.0,47.0,Cash,Tikay
+2025-09-01,Safeguard Soap,Household,7,35.0,28.0,Cash,Ligas
+2025-09-01,Coke Mismo,Beverages,4,15.0,11.0,Cash,Catmon
+2025-09-01,Nissin Cup Noodles,Noodles,7,25.0,20.0,Cash,Balite
+2025-09-01,Smart Load 50,Telecom,6,50.0,47.0,GCash,Ligas
+2025-09-01,Globe Load 50,Telecom,1,50.0,47.0,Cash,Catmon
+2025-09-01,Marlboro Lights per stick,Tobacco,7,8.0,6.5,Cash,Ligas
+2025-09-01,Globe Load 100,Telecom,11,100.0,95.0,GCash,Balite
+2025-09-01,Rebisco Crackers,Snacks,4,5.0,3.5,Cash,Malolos Centro
+2025-09-01,Joy Dishwashing 40ml,Household,4,8.0,6.0,Cash,Catmon
+2025-09-01,Smart Load 50,Telecom,4,50.0,47.0,Cash,Bangkal
+2025-09-01,Kopiko Brown,Beverages,8,7.0,5.0,Cash,Tikay
+2025-09-02,Red Horse Stallion,Beverages,4,30.0,24.0,Cash,Catmon
+2025-09-02,Tide Powder 40g,Household,11,7.0,5.5,Cash,Sumapa
+2025-09-02,RC Cola Mismo,Beverages,8,12.0,9.0,Cash,Ligas
+2025-09-02,Marlboro Lights per stick,Tobacco,11,8.0,6.5,GCash,Sumapa
+2025-09-02,Joy Dishwashing 40ml,Household,6,8.0,6.0,Cash,Sumapa
+2025-09-02,Globe Load 100,Telecom,1,100.0,95.0,Cash,Bangkal
+2025-09-02,Kopiko Brown,Beverages,2,7.0,5.0,Cash,Balite
+2025-09-02,Pepsi Mismo,Beverages,11,12.0,9.0,Cash,Bangkal
+2025-09-02,Smart Load 100,Telecom,15,100.0,95.0,Cash,Tikay
+2025-09-02,Kopiko Brown,Beverages,3,7.0,5.0,Cash,Ligas
+2025-09-02,Downy Sachet,Household,10,6.0,4.5,Cash,Bangkal
+2025-09-02,Red Horse Stallion,Beverages,4,30.0,24.0,Cash,Caniogan
+2025-09-02,Nissin Cup Noodles,Noodles,13,25.0,20.0,Cash,Catmon
+2025-09-03,Ariel Powder 40g,Household,3,8.0,6.0,Cash,Catmon
+2025-09-03,Boy Bawang,Snacks,7,10.0,7.5,GCash,Caniogan
+2025-09-03,Sky Flakes,Snacks,5,8.0,6.0,GCash,Malolos Centro
+2025-09-03,Joy Dishwashing 40ml,Household,12,8.0,6.0,Cash,Ligas
+2025-09-03,Palmolive Shampoo Sachet,Household,11,6.0,4.5,Cash,Catmon
+2025-09-03,Bear Brand 33g,Beverages,7,12.0,9.5,Cash,Caniogan
+2025-09-03,Lucky Me Pancit Canton,Noodles,12,12.0,9.5,Cash,Tikay
+2025-09-03,Sky Flakes,Snacks,15,8.0,6.0,Cash,Ligas
+2025-09-03,Globe Load 100,Telecom,11,100.0,95.0,GCash,Sumapa
+2025-09-03,Coke Mismo,Beverages,6,15.0,11.0,Cash,Malolos Centro
+2025-09-04,Yakult 5-pack,Beverages,8,48.0,40.0,Cash,Catmon
+2025-09-04,Marlboro Lights per stick,Tobacco,6,8.0,6.5,Cash,Sumapa
+2025-09-04,Lucky Me Beef,Noodles,4,12.0,9.5,GCash,Catmon
+2025-09-04,Nissin Cup Noodles,Noodles,12,25.0,20.0,Cash,Catmon
+2025-09-04,Palmolive Shampoo Sachet,Household,9,6.0,4.5,Cash,Tikay
+2025-09-04,Joy Dishwashing 40ml,Household,8,8.0,6.0,GCash,Tikay
+2025-09-04,Kopiko Brown,Beverages,9,7.0,5.0,GCash,Bangkal
+2025-09-04,Pepsi Mismo,Beverages,15,12.0,9.0,GCash,Sumapa
+2025-09-04,Safeguard Soap,Household,5,35.0,28.0,Cash,Balite
+2025-09-04,Chippy BBQ,Snacks,15,12.0,9.0,GCash,Caniogan
+2025-09-04,Payless Noodles,Noodles,4,8.0,6.0,Cash,Catmon
+2025-09-04,Yakult 5-pack,Beverages,1,48.0,40.0,GCash,Sumapa
+2025-09-04,Rebisco Crackers,Snacks,4,5.0,3.5,Cash,Catmon
+2025-09-04,Safeguard Soap,Household,11,35.0,28.0,Cash,Sumapa
+2025-09-04,Nissin Cup Noodles,Noodles,15,25.0,20.0,Cash,Balite
+2025-09-04,Nissin Cup Noodles,Noodles,9,25.0,20.0,Cash,Ligas
+2025-09-04,Joy Dishwashing 40ml,Household,8,8.0,6.0,Cash,Tikay
+2025-09-05,Marlboro Lights per stick,Tobacco,15,8.0,6.5,GCash,Caniogan
+2025-09-05,C2 Apple,Beverages,13,20.0,15.5,Cash,Bangkal
+2025-09-05,Pepsi Mismo,Beverages,2,12.0,9.0,Cash,Bangkal
+2025-09-05,Red Horse Stallion,Beverages,7,30.0,24.0,Cash,Caniogan
+2025-09-05,Smart Load 50,Telecom,12,50.0,47.0,Cash,Catmon
+2025-09-05,Lucky Me Beef,Noodles,7,12.0,9.5,Cash,Catmon
+2025-09-05,C2 Apple,Beverages,4,20.0,15.5,Cash,Caniogan
+2025-09-05,Coke Mismo,Beverages,7,15.0,11.0,Cash,Ligas
+2025-09-05,Chippy BBQ,Snacks,4,12.0,9.0,Cash,Caniogan
+2025-09-05,Globe Load 50,Telecom,14,50.0,47.0,GCash,Catmon
+2025-09-05,Lucky Me Beef,Noodles,11,12.0,9.5,GCash,Malolos Centro
+2025-09-05,Nissin Cup Noodles,Noodles,15,25.0,20.0,Cash,Tikay
+2025-09-05,Oishi Prawn Crackers,Snacks,8,12.0,9.0,Cash,Sumapa
+2025-09-05,Smart Load 50,Telecom,7,50.0,47.0,Cash,Tikay
+2025-09-05,Boy Bawang,Snacks,1,10.0,7.5,Cash,Ligas
+2025-09-05,Marlboro Lights per stick,Tobacco,13,8.0,6.5,Cash,Ligas
+2025-09-05,Oishi Prawn Crackers,Snacks,12,12.0,9.0,GCash,Caniogan
+2025-09-05,Coke Mismo,Beverages,4,15.0,11.0,Cash,Sumapa
+2025-09-05,Lucky Me Beef,Noodles,10,12.0,9.5,GCash,Malolos Centro
+2025-09-06,Lucky Me Beef,Noodles,1,12.0,9.5,GCash,Caniogan
+2025-09-06,Sky Flakes,Snacks,15,8.0,6.0,GCash,Tikay
+2025-09-06,Lucky Me Beef,Noodles,9,12.0,9.5,Cash,Tikay
+2025-09-06,Nissin Cup Noodles,Noodles,10,25.0,20.0,Cash,Sumapa
+2025-09-06,Boy Bawang,Snacks,2,10.0,7.5,GCash,Sumapa
+2025-09-06,Rebisco Crackers,Snacks,10,5.0,3.5,Cash,Catmon
+2025-09-06,Oishi Prawn Crackers,Snacks,11,12.0,9.0,GCash,Balite
+2025-09-06,Marlboro Lights per stick,Tobacco,5,8.0,6.5,Cash,Balite
+2025-09-06,C2 Apple,Beverages,5,20.0,15.5,Cash,Tikay
+2025-09-06,Joy Dishwashing 40ml,Household,11,8.0,6.0,Cash,Caniogan
+2025-09-06,Yakult 5-pack,Beverages,15,48.0,40.0,Cash,Malolos Centro
+2025-09-06,Chippy BBQ,Snacks,10,12.0,9.0,GCash,Catmon
+2025-09-06,Nissin Cup Noodles,Noodles,9,25.0,20.0,Cash,Ligas
+2025-09-06,Coke Mismo,Beverages,15,15.0,11.0,Cash,Catmon
+2025-09-06,Smart Load 100,Telecom,4,100.0,95.0,Cash,Ligas
+2025-09-06,RC Cola Mismo,Beverages,8,12.0,9.0,GCash,Ligas
+2025-09-06,Tide Powder 40g,Household,13,7.0,5.5,GCash,Malolos Centro
+2025-09-06,Joy Dishwashing 40ml,Household,14,8.0,6.0,GCash,Ligas
+2025-09-06,Marlboro Lights per stick,Tobacco,11,8.0,6.5,Cash,Tikay
+2025-09-06,Kopiko Brown,Beverages,2,7.0,5.0,Cash,Tikay
+2025-09-06,Kopiko Brown,Beverages,5,7.0,5.0,GCash,Sumapa
+2025-09-06,Safeguard Soap,Household,6,35.0,28.0,Cash,Ligas
+2025-09-06,Sky Flakes,Snacks,8,8.0,6.0,Cash,Malolos Centro
+2025-09-06,Nissin Cup Noodles,Noodles,11,25.0,20.0,Cash,Ligas
+2025-09-06,Lucky Me Beef,Noodles,1,12.0,9.5,Cash,Tikay
+2025-09-07,Kopiko Brown,Beverages,3,7.0,5.0,Cash,Bangkal
+2025-09-07,Oishi Pillows,Snacks,1,10.0,7.5,Cash,Catmon
+2025-09-07,Smart Load 100,Telecom,12,100.0,95.0,Cash,Malolos Centro
+2025-09-07,Globe Load 100,Telecom,6,100.0,95.0,GCash,Tikay
+2025-09-07,Oishi Prawn Crackers,Snacks,3,12.0,9.0,Cash,Ligas
+2025-09-07,Red Horse Stallion,Beverages,15,30.0,24.0,Cash,Balite
+2025-09-07,Pepsi Mismo,Beverages,11,12.0,9.0,Cash,Catmon
+2025-09-07,Red Horse Stallion,Beverages,13,30.0,24.0,GCash,Bangkal
+2025-09-07,Tide Powder 40g,Household,12,7.0,5.5,Cash,Sumapa
+2025-09-07,Smart Load 50,Telecom,3,50.0,47.0,Cash,Bangkal
+2025-09-07,Lucky Me Pancit Canton,Noodles,3,12.0,9.5,Cash,Bangkal
+2025-09-07,Globe Load 50,Telecom,11,50.0,47.0,Cash,Ligas
+2025-09-07,RC Cola Mismo,Beverages,13,12.0,9.0,Cash,Bangkal
+2025-09-07,Smart Load 50,Telecom,1,50.0,47.0,Cash,Sumapa
+2025-09-07,Pepsi Mismo,Beverages,14,12.0,9.0,Cash,Balite
+2025-09-07,Bear Brand 33g,Beverages,14,12.0,9.5,Cash,Sumapa
+2025-09-07,Lucky Me Pancit Canton,Noodles,11,12.0,9.5,Cash,Bangkal
+2025-09-07,Yakult 5-pack,Beverages,5,48.0,40.0,Cash,Ligas
+2025-09-07,Red Horse Stallion,Beverages,11,30.0,24.0,GCash,Bangkal
+2025-09-07,Joy Dishwashing 40ml,Household,14,8.0,6.0,GCash,Balite
+2025-09-07,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,Cash,Tikay
+2025-09-07,Rebisco Crackers,Snacks,5,5.0,3.5,Cash,Catmon
+2025-09-07,Tide Powder 40g,Household,7,7.0,5.5,Cash,Balite
+2025-09-07,Oishi Prawn Crackers,Snacks,10,12.0,9.0,GCash,Catmon
+2025-09-07,Boy Bawang,Snacks,15,10.0,7.5,GCash,Sumapa
+2025-09-07,Kopiko Brown,Beverages,1,7.0,5.0,Cash,Malolos Centro
+2025-09-07,Sky Flakes,Snacks,15,8.0,6.0,GCash,Sumapa
+2025-09-07,Red Horse Stallion,Beverages,7,30.0,24.0,Cash,Balite
+2025-09-07,Tide Powder 40g,Household,6,7.0,5.5,Cash,Ligas
+2025-09-07,Sky Flakes,Snacks,5,8.0,6.0,Cash,Balite
+2025-09-07,Boy Bawang,Snacks,12,10.0,7.5,Cash,Tikay
+2025-09-07,Pepsi Mismo,Beverages,7,12.0,9.0,Cash,Tikay
+2025-09-07,Tide Powder 40g,Household,10,7.0,5.5,Cash,Bangkal
+2025-09-07,Oishi Pillows,Snacks,14,10.0,7.5,Cash,Ligas
+2025-09-07,Bear Brand 33g,Beverages,4,12.0,9.5,Cash,Balite
+2025-09-08,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Caniogan
+2025-09-08,Globe Load 50,Telecom,15,50.0,47.0,Cash,Catmon
+2025-09-08,Bear Brand 33g,Beverages,9,12.0,9.5,GCash,Balite
+2025-09-08,Nissin Cup Noodles,Noodles,14,25.0,20.0,Cash,Ligas
+2025-09-08,C2 Apple,Beverages,13,20.0,15.5,Cash,Tikay
+2025-09-08,Lucky Me Pancit Canton,Noodles,1,12.0,9.5,Cash,Caniogan
+2025-09-08,Tide Powder 40g,Household,14,7.0,5.5,Cash,Caniogan
+2025-09-08,Oishi Prawn Crackers,Snacks,15,12.0,9.0,GCash,Sumapa
+2025-09-08,Safeguard Soap,Household,12,35.0,28.0,Cash,Caniogan
+2025-09-08,Boy Bawang,Snacks,4,10.0,7.5,Cash,Malolos Centro
+2025-09-08,Smart Load 100,Telecom,13,100.0,95.0,Cash,Bangkal
+2025-09-08,C2 Apple,Beverages,3,20.0,15.5,GCash,Caniogan
+2025-09-08,Lucky Me Beef,Noodles,9,12.0,9.5,Cash,Catmon
+2025-09-08,Chippy BBQ,Snacks,3,12.0,9.0,Cash,Balite
+2025-09-08,Palmolive Shampoo Sachet,Household,15,6.0,4.5,Cash,Bangkal
+2025-09-09,Marlboro Lights per stick,Tobacco,9,8.0,6.5,Cash,Tikay
+2025-09-09,Downy Sachet,Household,14,6.0,4.5,Cash,Caniogan
+2025-09-09,Kopiko Brown,Beverages,13,7.0,5.0,Cash,Ligas
+2025-09-09,Palmolive Shampoo Sachet,Household,13,6.0,4.5,GCash,Caniogan
+2025-09-09,Ariel Powder 40g,Household,4,8.0,6.0,Cash,Caniogan
+2025-09-09,Nissin Cup Noodles,Noodles,12,25.0,20.0,Cash,Sumapa
+2025-09-09,Kopiko Brown,Beverages,6,7.0,5.0,Cash,Catmon
+2025-09-09,Coke Mismo,Beverages,3,15.0,11.0,Cash,Bangkal
+2025-09-09,Safeguard Soap,Household,3,35.0,28.0,Cash,Catmon
+2025-09-09,Oishi Prawn Crackers,Snacks,7,12.0,9.0,Cash,Caniogan
+2025-09-09,Oishi Prawn Crackers,Snacks,1,12.0,9.0,Cash,Bangkal
+2025-09-09,Boy Bawang,Snacks,15,10.0,7.5,GCash,Malolos Centro
+2025-09-09,Smart Load 50,Telecom,15,50.0,47.0,GCash,Bangkal
+2025-09-09,Piattos Cheese,Snacks,1,15.0,11.5,Cash,Ligas
+2025-09-09,Palmolive Shampoo Sachet,Household,7,6.0,4.5,Cash,Sumapa
+2025-09-09,Piattos Cheese,Snacks,4,15.0,11.5,Cash,Bangkal
+2025-09-09,Piattos Cheese,Snacks,1,15.0,11.5,Cash,Balite
+2025-09-09,Joy Dishwashing 40ml,Household,11,8.0,6.0,Cash,Tikay
+2025-09-09,Globe Load 100,Telecom,8,100.0,95.0,Cash,Malolos Centro
+2025-09-09,Marlboro Lights per stick,Tobacco,7,8.0,6.5,GCash,Malolos Centro
+2025-09-09,Nissin Cup Noodles,Noodles,11,25.0,20.0,Cash,Tikay
+2025-09-10,Chippy BBQ,Snacks,3,12.0,9.0,Cash,Ligas
+2025-09-10,Boy Bawang,Snacks,6,10.0,7.5,Cash,Caniogan
+2025-09-10,Yakult 5-pack,Beverages,6,48.0,40.0,Cash,Ligas
+2025-09-10,Palmolive Shampoo Sachet,Household,14,6.0,4.5,Cash,Ligas
+2025-09-10,Globe Load 100,Telecom,2,100.0,95.0,Cash,Malolos Centro
+2025-09-10,Downy Sachet,Household,9,6.0,4.5,Cash,Balite
+2025-09-10,C2 Apple,Beverages,11,20.0,15.5,Cash,Malolos Centro
+2025-09-10,Palmolive Shampoo Sachet,Household,1,6.0,4.5,Cash,Sumapa
+2025-09-10,Globe Load 100,Telecom,1,100.0,95.0,GCash,Tikay
+2025-09-10,C2 Apple,Beverages,3,20.0,15.5,Cash,Catmon
+2025-09-10,Rebisco Crackers,Snacks,4,5.0,3.5,Cash,Ligas
+2025-09-10,Palmolive Shampoo Sachet,Household,6,6.0,4.5,Cash,Catmon
+2025-09-10,Palmolive Shampoo Sachet,Household,14,6.0,4.5,Cash,Ligas
+2025-09-10,Payless Noodles,Noodles,10,8.0,6.0,Cash,Ligas
+2025-09-10,Rebisco Crackers,Snacks,11,5.0,3.5,Cash,Bangkal
+2025-09-10,Safeguard Soap,Household,4,35.0,28.0,Cash,Sumapa
+2025-09-10,Payless Noodles,Noodles,12,8.0,6.0,Cash,Catmon
+2025-09-10,Globe Load 50,Telecom,10,50.0,47.0,Cash,Balite
+2025-09-10,Oishi Pillows,Snacks,7,10.0,7.5,Cash,Catmon
+2025-09-10,Sky Flakes,Snacks,11,8.0,6.0,Cash,Malolos Centro
+2025-09-10,Smart Load 50,Telecom,7,50.0,47.0,Cash,Catmon
+2025-09-11,Red Horse Stallion,Beverages,11,30.0,24.0,Cash,Tikay
+2025-09-11,Oishi Prawn Crackers,Snacks,3,12.0,9.0,GCash,Ligas
+2025-09-11,Tide Powder 40g,Household,13,7.0,5.5,GCash,Caniogan
+2025-09-11,Chippy BBQ,Snacks,7,12.0,9.0,GCash,Ligas
+2025-09-11,Yakult 5-pack,Beverages,14,48.0,40.0,Cash,Catmon
+2025-09-11,Kopiko Brown,Beverages,15,7.0,5.0,Cash,Sumapa
+2025-09-11,Palmolive Shampoo Sachet,Household,8,6.0,4.5,GCash,Bangkal
+2025-09-11,Yakult 5-pack,Beverages,1,48.0,40.0,Cash,Balite
+2025-09-11,RC Cola Mismo,Beverages,8,12.0,9.0,Cash,Balite
+2025-09-11,Globe Load 50,Telecom,5,50.0,47.0,Cash,Ligas
+2025-09-11,Smart Load 100,Telecom,10,100.0,95.0,Cash,Malolos Centro
+2025-09-11,Sky Flakes,Snacks,4,8.0,6.0,Cash,Sumapa
+2025-09-11,Downy Sachet,Household,7,6.0,4.5,Cash,Sumapa
+2025-09-11,Safeguard Soap,Household,8,35.0,28.0,Cash,Caniogan
+2025-09-12,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,Cash,Sumapa
+2025-09-12,Boy Bawang,Snacks,12,10.0,7.5,Cash,Ligas
+2025-09-12,Joy Dishwashing 40ml,Household,10,8.0,6.0,Cash,Caniogan
+2025-09-12,Oishi Pillows,Snacks,9,10.0,7.5,Cash,Bangkal
+2025-09-12,Downy Sachet,Household,9,6.0,4.5,Cash,Balite
+2025-09-12,Safeguard Soap,Household,8,35.0,28.0,Cash,Ligas
+2025-09-12,Kopiko Brown,Beverages,4,7.0,5.0,Cash,Sumapa
+2025-09-12,Yakult 5-pack,Beverages,2,48.0,40.0,GCash,Tikay
+2025-09-12,Pepsi Mismo,Beverages,4,12.0,9.0,Cash,Ligas
+2025-09-12,Downy Sachet,Household,10,6.0,4.5,GCash,Ligas
+2025-09-12,Payless Noodles,Noodles,14,8.0,6.0,Cash,Ligas
+2025-09-12,C2 Apple,Beverages,6,20.0,15.5,Cash,Ligas
+2025-09-12,Lucky Me Pancit Canton,Noodles,12,12.0,9.5,GCash,Tikay
+2025-09-12,Kopiko Brown,Beverages,1,7.0,5.0,Cash,Ligas
+2025-09-12,Safeguard Soap,Household,3,35.0,28.0,Cash,Catmon
+2025-09-12,Smart Load 50,Telecom,1,50.0,47.0,GCash,Ligas
+2025-09-12,Piattos Cheese,Snacks,8,15.0,11.5,Cash,Balite
+2025-09-12,RC Cola Mismo,Beverages,1,12.0,9.0,Cash,Caniogan
+2025-09-12,Payless Noodles,Noodles,14,8.0,6.0,Cash,Bangkal
+2025-09-12,Piattos Cheese,Snacks,2,15.0,11.5,GCash,Malolos Centro
+2025-09-13,Coke Mismo,Beverages,13,15.0,11.0,GCash,Ligas
+2025-09-13,Nissin Cup Noodles,Noodles,4,25.0,20.0,Cash,Bangkal
+2025-09-13,Tide Powder 40g,Household,10,7.0,5.5,GCash,Sumapa
+2025-09-13,Palmolive Shampoo Sachet,Household,9,6.0,4.5,Cash,Caniogan
+2025-09-13,Marlboro Lights per stick,Tobacco,8,8.0,6.5,Cash,Bangkal
+2025-09-13,Bear Brand 33g,Beverages,10,12.0,9.5,GCash,Malolos Centro
+2025-09-13,Tide Powder 40g,Household,12,7.0,5.5,Cash,Sumapa
+2025-09-13,Ariel Powder 40g,Household,4,8.0,6.0,Cash,Catmon
+2025-09-13,RC Cola Mismo,Beverages,4,12.0,9.0,Cash,Catmon
+2025-09-13,RC Cola Mismo,Beverages,1,12.0,9.0,Cash,Caniogan
+2025-09-13,Safeguard Soap,Household,10,35.0,28.0,Cash,Ligas
+2025-09-13,Lucky Me Beef,Noodles,4,12.0,9.5,Cash,Ligas
+2025-09-13,Safeguard Soap,Household,14,35.0,28.0,Cash,Catmon
+2025-09-13,Joy Dishwashing 40ml,Household,4,8.0,6.0,Cash,Sumapa
+2025-09-13,Oishi Prawn Crackers,Snacks,2,12.0,9.0,GCash,Sumapa
+2025-09-13,Ariel Powder 40g,Household,3,8.0,6.0,Cash,Tikay
+2025-09-13,Nissin Cup Noodles,Noodles,1,25.0,20.0,Cash,Ligas
+2025-09-13,Tide Powder 40g,Household,12,7.0,5.5,GCash,Ligas
+2025-09-13,Chippy BBQ,Snacks,2,12.0,9.0,Cash,Ligas
+2025-09-14,Kopiko Brown,Beverages,9,7.0,5.0,GCash,Caniogan
+2025-09-14,Chippy BBQ,Snacks,2,12.0,9.0,GCash,Malolos Centro
+2025-09-14,Smart Load 100,Telecom,7,100.0,95.0,Cash,Ligas
+2025-09-14,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,Cash,Malolos Centro
+2025-09-14,Palmolive Shampoo Sachet,Household,11,6.0,4.5,Cash,Malolos Centro
+2025-09-14,Palmolive Shampoo Sachet,Household,13,6.0,4.5,Cash,Caniogan
+2025-09-14,Sky Flakes,Snacks,11,8.0,6.0,Cash,Ligas
+2025-09-14,RC Cola Mismo,Beverages,10,12.0,9.0,Cash,Caniogan
+2025-09-14,Nissin Cup Noodles,Noodles,8,25.0,20.0,Cash,Bangkal
+2025-09-14,Yakult 5-pack,Beverages,6,48.0,40.0,Cash,Tikay
+2025-09-14,Yakult 5-pack,Beverages,7,48.0,40.0,Cash,Ligas
+2025-09-14,Joy Dishwashing 40ml,Household,7,8.0,6.0,GCash,Malolos Centro
+2025-09-14,Chippy BBQ,Snacks,2,12.0,9.0,Cash,Ligas
+2025-09-14,Yakult 5-pack,Beverages,2,48.0,40.0,Cash,Malolos Centro
+2025-09-14,Joy Dishwashing 40ml,Household,14,8.0,6.0,GCash,Caniogan
+2025-09-14,Oishi Prawn Crackers,Snacks,1,12.0,9.0,Cash,Balite
+2025-09-14,Tide Powder 40g,Household,13,7.0,5.5,Cash,Caniogan
+2025-09-14,Palmolive Shampoo Sachet,Household,1,6.0,4.5,Cash,Ligas
+2025-09-14,Oishi Pillows,Snacks,3,10.0,7.5,Cash,Caniogan
+2025-09-14,Smart Load 100,Telecom,12,100.0,95.0,Cash,Catmon
+2025-09-14,Lucky Me Pancit Canton,Noodles,11,12.0,9.5,GCash,Sumapa
+2025-09-14,Safeguard Soap,Household,3,35.0,28.0,Cash,Malolos Centro
+2025-09-14,Oishi Pillows,Snacks,7,10.0,7.5,Cash,Sumapa
+2025-09-14,Globe Load 100,Telecom,15,100.0,95.0,Cash,Caniogan
+2025-09-14,Payless Noodles,Noodles,11,8.0,6.0,Cash,Caniogan
+2025-09-14,Marlboro Lights per stick,Tobacco,12,8.0,6.5,Cash,Ligas
+2025-09-14,Oishi Prawn Crackers,Snacks,14,12.0,9.0,Cash,Caniogan
+2025-09-15,Chippy BBQ,Snacks,9,12.0,9.0,Cash,Bangkal
+2025-09-15,Pepsi Mismo,Beverages,15,12.0,9.0,GCash,Tikay
+2025-09-15,Smart Load 50,Telecom,2,50.0,47.0,Cash,Bangkal
+2025-09-15,Yakult 5-pack,Beverages,15,48.0,40.0,GCash,Ligas
+2025-09-15,Globe Load 100,Telecom,1,100.0,95.0,Cash,Ligas
+2025-09-15,Globe Load 100,Telecom,10,100.0,95.0,GCash,Caniogan
+2025-09-15,Smart Load 50,Telecom,3,50.0,47.0,Cash,Caniogan
+2025-09-15,Red Horse Stallion,Beverages,6,30.0,24.0,GCash,Bangkal
+2025-09-15,Chippy BBQ,Snacks,15,12.0,9.0,Cash,Sumapa
+2025-09-15,Safeguard Soap,Household,4,35.0,28.0,GCash,Bangkal
+2025-09-15,C2 Apple,Beverages,14,20.0,15.5,Cash,Malolos Centro
+2025-09-16,Downy Sachet,Household,8,6.0,4.5,Cash,Bangkal
+2025-09-16,Joy Dishwashing 40ml,Household,13,8.0,6.0,Cash,Caniogan
+2025-09-16,Lucky Me Beef,Noodles,3,12.0,9.5,GCash,Balite
+2025-09-16,Smart Load 50,Telecom,2,50.0,47.0,Cash,Catmon
+2025-09-16,Sky Flakes,Snacks,15,8.0,6.0,Cash,Malolos Centro
+2025-09-16,Downy Sachet,Household,3,6.0,4.5,Cash,Tikay
+2025-09-16,Nissin Cup Noodles,Noodles,8,25.0,20.0,Cash,Balite
+2025-09-16,Tide Powder 40g,Household,12,7.0,5.5,Cash,Catmon
+2025-09-16,Smart Load 50,Telecom,6,50.0,47.0,GCash,Bangkal
+2025-09-16,Yakult 5-pack,Beverages,11,48.0,40.0,Cash,Malolos Centro
+2025-09-16,Tide Powder 40g,Household,2,7.0,5.5,Cash,Ligas
+2025-09-16,C2 Apple,Beverages,12,20.0,15.5,Cash,Bangkal
+2025-09-16,Payless Noodles,Noodles,13,8.0,6.0,Cash,Caniogan
+2025-09-17,Safeguard Soap,Household,5,35.0,28.0,Cash,Malolos Centro
+2025-09-17,Yakult 5-pack,Beverages,13,48.0,40.0,Cash,Ligas
+2025-09-17,Red Horse Stallion,Beverages,6,30.0,24.0,Cash,Tikay
+2025-09-17,C2 Apple,Beverages,9,20.0,15.5,Cash,Tikay
+2025-09-17,RC Cola Mismo,Beverages,3,12.0,9.0,Cash,Bangkal
+2025-09-17,Tide Powder 40g,Household,11,7.0,5.5,Cash,Caniogan
+2025-09-17,Marlboro Lights per stick,Tobacco,10,8.0,6.5,Cash,Sumapa
+2025-09-17,Chippy BBQ,Snacks,11,12.0,9.0,Cash,Caniogan
+2025-09-17,Kopiko Brown,Beverages,11,7.0,5.0,Cash,Caniogan
+2025-09-17,Smart Load 100,Telecom,5,100.0,95.0,GCash,Tikay
+2025-09-18,Chippy BBQ,Snacks,6,12.0,9.0,GCash,Ligas
+2025-09-18,Ariel Powder 40g,Household,7,8.0,6.0,Cash,Caniogan
+2025-09-18,Smart Load 50,Telecom,5,50.0,47.0,Cash,Bangkal
+2025-09-18,Smart Load 50,Telecom,8,50.0,47.0,Cash,Sumapa
+2025-09-18,Boy Bawang,Snacks,10,10.0,7.5,Cash,Ligas
+2025-09-18,Safeguard Soap,Household,5,35.0,28.0,Cash,Bangkal
+2025-09-18,Kopiko Brown,Beverages,1,7.0,5.0,GCash,Malolos Centro
+2025-09-18,Marlboro Lights per stick,Tobacco,10,8.0,6.5,Cash,Ligas
+2025-09-18,Palmolive Shampoo Sachet,Household,13,6.0,4.5,Cash,Balite
+2025-09-19,Ariel Powder 40g,Household,4,8.0,6.0,GCash,Ligas
+2025-09-19,Joy Dishwashing 40ml,Household,13,8.0,6.0,Cash,Catmon
+2025-09-19,Smart Load 100,Telecom,11,100.0,95.0,Cash,Ligas
+2025-09-19,Globe Load 50,Telecom,8,50.0,47.0,Cash,Balite
+2025-09-19,Downy Sachet,Household,3,6.0,4.5,Cash,Ligas
+2025-09-19,Yakult 5-pack,Beverages,12,48.0,40.0,Cash,Tikay
+2025-09-19,Pepsi Mismo,Beverages,3,12.0,9.0,GCash,Balite
+2025-09-19,Sky Flakes,Snacks,9,8.0,6.0,Cash,Tikay
+2025-09-19,Kopiko Brown,Beverages,15,7.0,5.0,Cash,Ligas
+2025-09-19,Downy Sachet,Household,14,6.0,4.5,Cash,Catmon
+2025-09-19,Chippy BBQ,Snacks,2,12.0,9.0,Cash,Sumapa
+2025-09-20,Smart Load 50,Telecom,13,50.0,47.0,GCash,Balite
+2025-09-20,Nissin Cup Noodles,Noodles,13,25.0,20.0,Cash,Malolos Centro
+2025-09-20,Kopiko Brown,Beverages,9,7.0,5.0,Cash,Caniogan
+2025-09-20,Red Horse Stallion,Beverages,11,30.0,24.0,Cash,Bangkal
+2025-09-20,Globe Load 100,Telecom,11,100.0,95.0,Cash,Catmon
+2025-09-20,Joy Dishwashing 40ml,Household,4,8.0,6.0,Cash,Malolos Centro
+2025-09-20,Tide Powder 40g,Household,15,7.0,5.5,GCash,Balite
+2025-09-20,Marlboro Lights per stick,Tobacco,10,8.0,6.5,Cash,Catmon
+2025-09-20,Ariel Powder 40g,Household,14,8.0,6.0,Cash,Ligas
+2025-09-20,Ariel Powder 40g,Household,7,8.0,6.0,Cash,Tikay
+2025-09-20,Lucky Me Beef,Noodles,1,12.0,9.5,Cash,Caniogan
+2025-09-20,Payless Noodles,Noodles,2,8.0,6.0,Cash,Tikay
+2025-09-20,Boy Bawang,Snacks,8,10.0,7.5,Cash,Bangkal
+2025-09-20,Rebisco Crackers,Snacks,12,5.0,3.5,Cash,Bangkal
+2025-09-20,Ariel Powder 40g,Household,2,8.0,6.0,Cash,Bangkal
+2025-09-20,Kopiko Brown,Beverages,1,7.0,5.0,Cash,Sumapa
+2025-09-20,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Balite
+2025-09-20,Payless Noodles,Noodles,11,8.0,6.0,Cash,Balite
+2025-09-20,Lucky Me Beef,Noodles,7,12.0,9.5,Cash,Sumapa
+2025-09-20,Payless Noodles,Noodles,14,8.0,6.0,Cash,Catmon
+2025-09-20,Joy Dishwashing 40ml,Household,4,8.0,6.0,GCash,Malolos Centro
+2025-09-20,Lucky Me Beef,Noodles,13,12.0,9.5,Cash,Sumapa
+2025-09-20,Coke Mismo,Beverages,13,15.0,11.0,GCash,Sumapa
+2025-09-20,Nissin Cup Noodles,Noodles,14,25.0,20.0,GCash,Sumapa
+2025-09-20,Rebisco Crackers,Snacks,4,5.0,3.5,Cash,Balite
+2025-09-20,Palmolive Shampoo Sachet,Household,3,6.0,4.5,GCash,Malolos Centro
+2025-09-20,Kopiko Brown,Beverages,14,7.0,5.0,Cash,Tikay
+2025-09-21,Kopiko Brown,Beverages,13,7.0,5.0,Cash,Catmon
+2025-09-21,Joy Dishwashing 40ml,Household,14,8.0,6.0,Cash,Tikay
+2025-09-21,Lucky Me Pancit Canton,Noodles,6,12.0,9.5,Cash,Balite
+2025-09-21,Lucky Me Pancit Canton,Noodles,3,12.0,9.5,Cash,Malolos Centro
+2025-09-21,Coke Mismo,Beverages,12,15.0,11.0,Cash,Catmon
+2025-09-21,Downy Sachet,Household,2,6.0,4.5,Cash,Caniogan
+2025-09-21,Palmolive Shampoo Sachet,Household,6,6.0,4.5,GCash,Catmon
+2025-09-21,Chippy BBQ,Snacks,9,12.0,9.0,Cash,Malolos Centro
+2025-09-21,Downy Sachet,Household,13,6.0,4.5,GCash,Ligas
+2025-09-21,Chippy BBQ,Snacks,11,12.0,9.0,Cash,Malolos Centro
+2025-09-21,Piattos Cheese,Snacks,14,15.0,11.5,Cash,Bangkal
+2025-09-21,Joy Dishwashing 40ml,Household,2,8.0,6.0,Cash,Caniogan
+2025-09-21,Nissin Cup Noodles,Noodles,15,25.0,20.0,Cash,Balite
+2025-09-21,Tide Powder 40g,Household,3,7.0,5.5,Cash,Tikay
+2025-09-21,Kopiko Brown,Beverages,10,7.0,5.0,GCash,Balite
+2025-09-21,Boy Bawang,Snacks,10,10.0,7.5,GCash,Ligas
+2025-09-21,Chippy BBQ,Snacks,9,12.0,9.0,GCash,Bangkal
+2025-09-21,Payless Noodles,Noodles,13,8.0,6.0,Cash,Sumapa
+2025-09-21,Oishi Prawn Crackers,Snacks,8,12.0,9.0,Cash,Bangkal
+2025-09-21,Yakult 5-pack,Beverages,14,48.0,40.0,Cash,Bangkal
+2025-09-21,Oishi Prawn Crackers,Snacks,12,12.0,9.0,Cash,Balite
+2025-09-21,Oishi Prawn Crackers,Snacks,6,12.0,9.0,Cash,Balite
+2025-09-21,Coke Mismo,Beverages,11,15.0,11.0,Cash,Catmon
+2025-09-21,Nissin Cup Noodles,Noodles,14,25.0,20.0,Cash,Catmon
+2025-09-21,Oishi Prawn Crackers,Snacks,2,12.0,9.0,Cash,Tikay
+2025-09-21,Oishi Pillows,Snacks,1,10.0,7.5,GCash,Balite
+2025-09-21,Joy Dishwashing 40ml,Household,2,8.0,6.0,Cash,Balite
+2025-09-21,Smart Load 50,Telecom,11,50.0,47.0,Cash,Malolos Centro
+2025-09-21,Bear Brand 33g,Beverages,10,12.0,9.5,Cash,Balite
+2025-09-21,Payless Noodles,Noodles,10,8.0,6.0,GCash,Sumapa
+2025-09-21,Coke Mismo,Beverages,11,15.0,11.0,Cash,Sumapa
+2025-09-21,Smart Load 50,Telecom,2,50.0,47.0,Cash,Balite
+2025-09-22,Palmolive Shampoo Sachet,Household,5,6.0,4.5,GCash,Sumapa
+2025-09-22,Globe Load 50,Telecom,7,50.0,47.0,GCash,Malolos Centro
+2025-09-22,Tide Powder 40g,Household,15,7.0,5.5,Cash,Malolos Centro
+2025-09-22,RC Cola Mismo,Beverages,5,12.0,9.0,Cash,Balite
+2025-09-22,Red Horse Stallion,Beverages,1,30.0,24.0,Cash,Tikay
+2025-09-22,Rebisco Crackers,Snacks,11,5.0,3.5,Cash,Catmon
+2025-09-22,Coke Mismo,Beverages,12,15.0,11.0,Cash,Catmon
+2025-09-22,Downy Sachet,Household,9,6.0,4.5,Cash,Bangkal
+2025-09-22,Oishi Prawn Crackers,Snacks,8,12.0,9.0,Cash,Tikay
+2025-09-23,Bear Brand 33g,Beverages,12,12.0,9.5,Cash,Catmon
+2025-09-23,Smart Load 100,Telecom,1,100.0,95.0,Cash,Tikay
+2025-09-23,Palmolive Shampoo Sachet,Household,10,6.0,4.5,Cash,Catmon
+2025-09-23,Kopiko Brown,Beverages,8,7.0,5.0,Cash,Caniogan
+2025-09-23,Tide Powder 40g,Household,8,7.0,5.5,Cash,Ligas
+2025-09-23,Pepsi Mismo,Beverages,13,12.0,9.0,GCash,Catmon
+2025-09-23,Red Horse Stallion,Beverages,7,30.0,24.0,Cash,Ligas
+2025-09-23,Joy Dishwashing 40ml,Household,11,8.0,6.0,GCash,Caniogan
+2025-09-23,Sky Flakes,Snacks,11,8.0,6.0,Cash,Malolos Centro
+2025-09-23,C2 Apple,Beverages,7,20.0,15.5,GCash,Malolos Centro
+2025-09-23,Lucky Me Pancit Canton,Noodles,4,12.0,9.5,Cash,Sumapa
+2025-09-23,Palmolive Shampoo Sachet,Household,3,6.0,4.5,Cash,Ligas
+2025-09-23,Yakult 5-pack,Beverages,2,48.0,40.0,Cash,Caniogan
+2025-09-24,Oishi Prawn Crackers,Snacks,3,12.0,9.0,Cash,Bangkal
+2025-09-24,Oishi Pillows,Snacks,12,10.0,7.5,Cash,Balite
+2025-09-24,Nissin Cup Noodles,Noodles,7,25.0,20.0,Cash,Bangkal
+2025-09-24,Lucky Me Pancit Canton,Noodles,8,12.0,9.5,Cash,Balite
+2025-09-24,Rebisco Crackers,Snacks,7,5.0,3.5,GCash,Bangkal
+2025-09-24,Safeguard Soap,Household,11,35.0,28.0,Cash,Ligas
+2025-09-24,Payless Noodles,Noodles,7,8.0,6.0,Cash,Balite
+2025-09-24,RC Cola Mismo,Beverages,13,12.0,9.0,GCash,Caniogan
+2025-09-24,Globe Load 100,Telecom,12,100.0,95.0,Cash,Catmon
+2025-09-24,Oishi Prawn Crackers,Snacks,14,12.0,9.0,Cash,Sumapa
+2025-09-24,Oishi Prawn Crackers,Snacks,10,12.0,9.0,Cash,Catmon
+2025-09-24,Boy Bawang,Snacks,14,10.0,7.5,Cash,Balite
+2025-09-24,C2 Apple,Beverages,6,20.0,15.5,Cash,Catmon
+2025-09-24,Sky Flakes,Snacks,11,8.0,6.0,Cash,Sumapa
+2025-09-24,Smart Load 100,Telecom,13,100.0,95.0,Cash,Balite
+2025-09-24,Downy Sachet,Household,14,6.0,4.5,Cash,Sumapa
+2025-09-24,Payless Noodles,Noodles,3,8.0,6.0,Cash,Sumapa
+2025-09-24,RC Cola Mismo,Beverages,10,12.0,9.0,Cash,Catmon
+2025-09-24,RC Cola Mismo,Beverages,13,12.0,9.0,Cash,Caniogan
+2025-09-25,Rebisco Crackers,Snacks,13,5.0,3.5,GCash,Caniogan
+2025-09-25,Joy Dishwashing 40ml,Household,15,8.0,6.0,GCash,Balite
+2025-09-25,Smart Load 50,Telecom,11,50.0,47.0,Cash,Tikay
+2025-09-25,Chippy BBQ,Snacks,2,12.0,9.0,Cash,Caniogan
+2025-09-25,Ariel Powder 40g,Household,5,8.0,6.0,Cash,Malolos Centro
+2025-09-25,Red Horse Stallion,Beverages,9,30.0,24.0,Cash,Ligas
+2025-09-25,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Malolos Centro
+2025-09-25,Red Horse Stallion,Beverages,14,30.0,24.0,Cash,Catmon
+2025-09-25,Ariel Powder 40g,Household,14,8.0,6.0,Cash,Bangkal
+2025-09-25,Chippy BBQ,Snacks,10,12.0,9.0,GCash,Malolos Centro
+2025-09-25,Chippy BBQ,Snacks,15,12.0,9.0,GCash,Sumapa
+2025-09-25,Yakult 5-pack,Beverages,10,48.0,40.0,Cash,Tikay
+2025-09-25,Lucky Me Beef,Noodles,8,12.0,9.5,Cash,Balite
+2025-09-25,Safeguard Soap,Household,2,35.0,28.0,GCash,Tikay
+2025-09-25,Lucky Me Beef,Noodles,4,12.0,9.5,Cash,Caniogan
+2025-09-25,Sky Flakes,Snacks,9,8.0,6.0,GCash,Tikay
+2025-09-25,Red Horse Stallion,Beverages,6,30.0,24.0,Cash,Bangkal
+2025-09-25,Oishi Prawn Crackers,Snacks,13,12.0,9.0,Cash,Malolos Centro
+2025-09-25,Globe Load 50,Telecom,11,50.0,47.0,Cash,Catmon
+2025-09-25,Yakult 5-pack,Beverages,2,48.0,40.0,GCash,Bangkal
+2025-09-26,Kopiko Brown,Beverages,12,7.0,5.0,GCash,Tikay
+2025-09-26,Yakult 5-pack,Beverages,2,48.0,40.0,GCash,Tikay
+2025-09-26,Marlboro Lights per stick,Tobacco,6,8.0,6.5,Cash,Bangkal
+2025-09-26,Coke Mismo,Beverages,10,15.0,11.0,Cash,Ligas
+2025-09-26,Oishi Pillows,Snacks,7,10.0,7.5,Cash,Tikay
+2025-09-26,Joy Dishwashing 40ml,Household,12,8.0,6.0,GCash,Catmon
+2025-09-26,Ariel Powder 40g,Household,11,8.0,6.0,Cash,Balite
+2025-09-26,Lucky Me Pancit Canton,Noodles,6,12.0,9.5,Cash,Tikay
+2025-09-26,Pepsi Mismo,Beverages,6,12.0,9.0,Cash,Sumapa
+2025-09-26,C2 Apple,Beverages,3,20.0,15.5,Cash,Catmon
+2025-09-26,Bear Brand 33g,Beverages,14,12.0,9.5,Cash,Malolos Centro
+2025-09-26,Joy Dishwashing 40ml,Household,6,8.0,6.0,GCash,Tikay
+2025-09-27,Boy Bawang,Snacks,3,10.0,7.5,Cash,Tikay
+2025-09-27,Globe Load 100,Telecom,12,100.0,95.0,GCash,Tikay
+2025-09-27,Downy Sachet,Household,8,6.0,4.5,Cash,Bangkal
+2025-09-27,Red Horse Stallion,Beverages,11,30.0,24.0,Cash,Caniogan
+2025-09-27,Tide Powder 40g,Household,5,7.0,5.5,Cash,Sumapa
+2025-09-27,Oishi Pillows,Snacks,4,10.0,7.5,Cash,Caniogan
+2025-09-27,Smart Load 100,Telecom,14,100.0,95.0,Cash,Balite
+2025-09-27,Joy Dishwashing 40ml,Household,10,8.0,6.0,Cash,Caniogan
+2025-09-27,Palmolive Shampoo Sachet,Household,5,6.0,4.5,Cash,Bangkal
+2025-09-27,RC Cola Mismo,Beverages,14,12.0,9.0,Cash,Tikay
+2025-09-27,Smart Load 50,Telecom,5,50.0,47.0,Cash,Caniogan
+2025-09-27,Smart Load 50,Telecom,6,50.0,47.0,GCash,Catmon
+2025-09-27,Safeguard Soap,Household,14,35.0,28.0,GCash,Catmon
+2025-09-27,Bear Brand 33g,Beverages,2,12.0,9.5,Cash,Ligas
+2025-09-27,Chippy BBQ,Snacks,15,12.0,9.0,GCash,Tikay
+2025-09-27,Globe Load 100,Telecom,7,100.0,95.0,Cash,Sumapa
+2025-09-27,Globe Load 100,Telecom,8,100.0,95.0,Cash,Malolos Centro
+2025-09-27,Oishi Prawn Crackers,Snacks,1,12.0,9.0,Cash,Balite
+2025-09-27,C2 Apple,Beverages,7,20.0,15.5,Cash,Balite
+2025-09-27,C2 Apple,Beverages,1,20.0,15.5,Cash,Catmon
+2025-09-27,Globe Load 100,Telecom,12,100.0,95.0,Cash,Tikay
+2025-09-27,Coke Mismo,Beverages,1,15.0,11.0,Cash,Caniogan
+2025-09-27,Safeguard Soap,Household,14,35.0,28.0,Cash,Caniogan
+2025-09-27,Chippy BBQ,Snacks,10,12.0,9.0,Cash,Catmon
+2025-09-27,Lucky Me Pancit Canton,Noodles,5,12.0,9.5,Cash,Tikay
+2025-09-27,Oishi Pillows,Snacks,12,10.0,7.5,GCash,Bangkal
+2025-09-27,Payless Noodles,Noodles,13,8.0,6.0,Cash,Sumapa
+2025-09-27,Bear Brand 33g,Beverages,2,12.0,9.5,Cash,Sumapa
+2025-09-27,Oishi Prawn Crackers,Snacks,11,12.0,9.0,GCash,Caniogan
+2025-09-27,Nissin Cup Noodles,Noodles,2,25.0,20.0,Cash,Malolos Centro
+2025-09-27,Ariel Powder 40g,Household,9,8.0,6.0,GCash,Sumapa
+2025-09-27,Safeguard Soap,Household,3,35.0,28.0,Cash,Bangkal
+2025-09-27,Lucky Me Pancit Canton,Noodles,10,12.0,9.5,Cash,Sumapa
+2025-09-27,Rebisco Crackers,Snacks,7,5.0,3.5,Cash,Catmon
+2025-09-28,Red Horse Stallion,Beverages,2,30.0,24.0,GCash,Malolos Centro
+2025-09-28,Boy Bawang,Snacks,14,10.0,7.5,Cash,Malolos Centro
+2025-09-28,Ariel Powder 40g,Household,7,8.0,6.0,Cash,Ligas
+2025-09-28,Downy Sachet,Household,1,6.0,4.5,Cash,Catmon
+2025-09-28,Red Horse Stallion,Beverages,4,30.0,24.0,Cash,Balite
+2025-09-28,Coke Mismo,Beverages,1,15.0,11.0,Cash,Balite
+2025-09-28,Globe Load 100,Telecom,11,100.0,95.0,Cash,Caniogan
+2025-09-28,Safeguard Soap,Household,8,35.0,28.0,Cash,Tikay
+2025-09-28,Nissin Cup Noodles,Noodles,12,25.0,20.0,Cash,Malolos Centro
+2025-09-28,Bear Brand 33g,Beverages,4,12.0,9.5,Cash,Sumapa
+2025-09-28,Smart Load 100,Telecom,1,100.0,95.0,Cash,Ligas
+2025-09-28,Sky Flakes,Snacks,7,8.0,6.0,GCash,Caniogan
+2025-09-28,Kopiko Brown,Beverages,1,7.0,5.0,Cash,Ligas
+2025-09-28,Red Horse Stallion,Beverages,14,30.0,24.0,Cash,Balite
+2025-09-28,Kopiko Brown,Beverages,2,7.0,5.0,Cash,Bangkal
+2025-09-28,Smart Load 100,Telecom,7,100.0,95.0,Cash,Bangkal
+2025-09-28,Yakult 5-pack,Beverages,3,48.0,40.0,Cash,Caniogan
+2025-09-28,Red Horse Stallion,Beverages,15,30.0,24.0,GCash,Ligas
+2025-09-28,Globe Load 50,Telecom,2,50.0,47.0,Cash,Catmon
+2025-09-28,Oishi Prawn Crackers,Snacks,10,12.0,9.0,Cash,Ligas
+2025-09-28,Yakult 5-pack,Beverages,2,48.0,40.0,Cash,Balite
+2025-09-28,Joy Dishwashing 40ml,Household,5,8.0,6.0,Cash,Caniogan
+2025-09-28,Tide Powder 40g,Household,12,7.0,5.5,Cash,Tikay
+2025-09-28,Safeguard Soap,Household,8,35.0,28.0,Cash,Caniogan
+2025-09-28,Lucky Me Beef,Noodles,12,12.0,9.5,Cash,Bangkal
+2025-09-28,Kopiko Brown,Beverages,11,7.0,5.0,Cash,Catmon
+2025-09-28,Joy Dishwashing 40ml,Household,11,8.0,6.0,Cash,Balite
+2025-09-28,Sky Flakes,Snacks,13,8.0,6.0,Cash,Malolos Centro
+2025-09-28,Coke Mismo,Beverages,14,15.0,11.0,GCash,Caniogan
+2025-09-28,Lucky Me Beef,Noodles,3,12.0,9.5,Cash,Sumapa
+2025-09-28,Palmolive Shampoo Sachet,Household,11,6.0,4.5,Cash,Balite
+2025-09-29,Rebisco Crackers,Snacks,1,5.0,3.5,GCash,Tikay
+2025-09-29,Joy Dishwashing 40ml,Household,8,8.0,6.0,Cash,Balite
+2025-09-29,Chippy BBQ,Snacks,13,12.0,9.0,Cash,Tikay
+2025-09-29,Sky Flakes,Snacks,6,8.0,6.0,Cash,Balite
+2025-09-29,Ariel Powder 40g,Household,5,8.0,6.0,Cash,Catmon
+2025-09-29,Lucky Me Pancit Canton,Noodles,12,12.0,9.5,Cash,Caniogan
+2025-09-29,Sky Flakes,Snacks,7,8.0,6.0,GCash,Catmon
+2025-09-29,Kopiko Brown,Beverages,13,7.0,5.0,Cash,Caniogan
+2025-09-29,Pepsi Mismo,Beverages,10,12.0,9.0,Cash,Caniogan
+2025-09-29,Pepsi Mismo,Beverages,2,12.0,9.0,Cash,Catmon
+2025-09-29,Chippy BBQ,Snacks,3,12.0,9.0,Cash,Catmon
+2025-09-29,Globe Load 50,Telecom,11,50.0,47.0,Cash,Balite
+2025-09-29,Safeguard Soap,Household,2,35.0,28.0,GCash,Ligas
+2025-09-29,Smart Load 100,Telecom,5,100.0,95.0,Cash,Tikay
+2025-09-30,Red Horse Stallion,Beverages,9,30.0,24.0,Cash,Catmon
+2025-09-30,Pepsi Mismo,Beverages,13,12.0,9.0,Cash,Sumapa
+2025-09-30,Globe Load 50,Telecom,8,50.0,47.0,Cash,Balite
+2025-09-30,Oishi Pillows,Snacks,10,10.0,7.5,Cash,Caniogan
+2025-09-30,Globe Load 50,Telecom,9,50.0,47.0,Cash,Catmon
+2025-09-30,Nissin Cup Noodles,Noodles,5,25.0,20.0,Cash,Caniogan
+2025-09-30,Sky Flakes,Snacks,7,8.0,6.0,Cash,Catmon
+2025-09-30,Coke Mismo,Beverages,6,15.0,11.0,Cash,Caniogan
+2025-09-30,Chippy BBQ,Snacks,11,12.0,9.0,GCash,Balite
+2025-09-30,Coke Mismo,Beverages,15,15.0,11.0,GCash,Tikay
+2025-09-30,Palmolive Shampoo Sachet,Household,3,6.0,4.5,Cash,Malolos Centro
+2025-09-30,Globe Load 100,Telecom,2,100.0,95.0,GCash,Tikay
+2025-09-30,Bear Brand 33g,Beverages,3,12.0,9.5,Cash,Balite
+2025-09-30,Marlboro Lights per stick,Tobacco,12,8.0,6.5,Cash,Balite
+2025-09-30,Sky Flakes,Snacks,15,8.0,6.0,Cash,Catmon
+2025-09-30,Kopiko Brown,Beverages,4,7.0,5.0,GCash,Ligas
+2025-09-30,Coke Mismo,Beverages,11,15.0,11.0,Cash,Catmon
+2025-09-30,Sky Flakes,Snacks,11,8.0,6.0,Cash,Tikay
+2025-09-30,RC Cola Mismo,Beverages,11,12.0,9.0,GCash,Balite
+2025-09-30,Globe Load 100,Telecom,15,100.0,95.0,GCash,Malolos Centro
+2025-10-01,Smart Load 50,Telecom,1,50.0,47.0,Cash,Malolos Centro
+2025-10-01,Ariel Powder 40g,Household,13,8.0,6.0,GCash,Ligas
+2025-10-01,Ariel Powder 40g,Household,4,8.0,6.0,GCash,Bangkal
+2025-10-01,Tide Powder 40g,Household,11,7.0,5.5,Cash,Caniogan
+2025-10-01,Smart Load 100,Telecom,11,100.0,95.0,GCash,Ligas
+2025-10-01,Ariel Powder 40g,Household,5,8.0,6.0,Cash,Sumapa
+2025-10-01,Globe Load 50,Telecom,13,50.0,47.0,Cash,Ligas
+2025-10-01,Chippy BBQ,Snacks,2,12.0,9.0,Cash,Tikay
+2025-10-01,Chippy BBQ,Snacks,7,12.0,9.0,Cash,Caniogan
+2025-10-01,Pepsi Mismo,Beverages,6,12.0,9.0,GCash,Tikay
+2025-10-01,Yakult 5-pack,Beverages,14,48.0,40.0,Cash,Balite
+2025-10-01,Boy Bawang,Snacks,3,10.0,7.5,Cash,Catmon
+2025-10-01,Yakult 5-pack,Beverages,4,48.0,40.0,Cash,Catmon
+2025-10-01,Kopiko Brown,Beverages,8,7.0,5.0,Cash,Tikay
+2025-10-01,Payless Noodles,Noodles,1,8.0,6.0,Cash,Bangkal
+2025-10-01,Smart Load 50,Telecom,10,50.0,47.0,Cash,Sumapa
+2025-10-01,Smart Load 50,Telecom,15,50.0,47.0,Cash,Balite
+2025-10-01,Marlboro Lights per stick,Tobacco,10,8.0,6.5,Cash,Sumapa
+2025-10-01,Palmolive Shampoo Sachet,Household,3,6.0,4.5,Cash,Caniogan
+2025-10-01,Piattos Cheese,Snacks,15,15.0,11.5,Cash,Caniogan
+2025-10-01,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,Cash,Caniogan
+2025-10-02,Pepsi Mismo,Beverages,10,12.0,9.0,Cash,Malolos Centro
+2025-10-02,Lucky Me Beef,Noodles,5,12.0,9.5,Cash,Caniogan
+2025-10-02,Bear Brand 33g,Beverages,9,12.0,9.5,Cash,Catmon
+2025-10-02,Oishi Prawn Crackers,Snacks,3,12.0,9.0,Cash,Balite
+2025-10-02,Palmolive Shampoo Sachet,Household,7,6.0,4.5,Cash,Malolos Centro
+2025-10-02,Boy Bawang,Snacks,1,10.0,7.5,GCash,Sumapa
+2025-10-02,Red Horse Stallion,Beverages,9,30.0,24.0,Cash,Catmon
+2025-10-02,Boy Bawang,Snacks,9,10.0,7.5,Cash,Ligas
+2025-10-02,Globe Load 100,Telecom,10,100.0,95.0,GCash,Catmon
+2025-10-02,Coke Mismo,Beverages,2,15.0,11.0,Cash,Balite
+2025-10-02,Globe Load 50,Telecom,6,50.0,47.0,GCash,Balite
+2025-10-03,Coke Mismo,Beverages,4,15.0,11.0,GCash,Bangkal
+2025-10-03,Sky Flakes,Snacks,1,8.0,6.0,Cash,Malolos Centro
+2025-10-03,Coke Mismo,Beverages,12,15.0,11.0,Cash,Caniogan
+2025-10-03,Sky Flakes,Snacks,8,8.0,6.0,Cash,Tikay
+2025-10-03,Yakult 5-pack,Beverages,15,48.0,40.0,GCash,Balite
+2025-10-03,RC Cola Mismo,Beverages,7,12.0,9.0,GCash,Ligas
+2025-10-03,Rebisco Crackers,Snacks,6,5.0,3.5,GCash,Caniogan
+2025-10-03,Safeguard Soap,Household,10,35.0,28.0,Cash,Caniogan
+2025-10-03,Globe Load 100,Telecom,1,100.0,95.0,Cash,Balite
+2025-10-03,Joy Dishwashing 40ml,Household,2,8.0,6.0,Cash,Ligas
+2025-10-03,Globe Load 50,Telecom,15,50.0,47.0,Cash,Caniogan
+2025-10-03,Kopiko Brown,Beverages,11,7.0,5.0,GCash,Sumapa
+2025-10-03,Downy Sachet,Household,1,6.0,4.5,GCash,Caniogan
+2025-10-03,RC Cola Mismo,Beverages,9,12.0,9.0,GCash,Bangkal
+2025-10-03,Coke Mismo,Beverages,14,15.0,11.0,Cash,Malolos Centro
+2025-10-03,Rebisco Crackers,Snacks,12,5.0,3.5,Cash,Sumapa
+2025-10-03,Lucky Me Pancit Canton,Noodles,8,12.0,9.5,Cash,Bangkal
+2025-10-03,Coke Mismo,Beverages,7,15.0,11.0,Cash,Bangkal
+2025-10-03,Sky Flakes,Snacks,13,8.0,6.0,GCash,Caniogan
+2025-10-03,Smart Load 50,Telecom,14,50.0,47.0,Cash,Tikay
+2025-10-04,Pepsi Mismo,Beverages,9,12.0,9.0,Cash,Caniogan
+2025-10-04,Sky Flakes,Snacks,7,8.0,6.0,Cash,Tikay
+2025-10-04,Chippy BBQ,Snacks,15,12.0,9.0,GCash,Balite
+2025-10-04,Oishi Pillows,Snacks,6,10.0,7.5,Cash,Caniogan
+2025-10-04,Pepsi Mismo,Beverages,4,12.0,9.0,Cash,Ligas
+2025-10-04,C2 Apple,Beverages,5,20.0,15.5,Cash,Sumapa
+2025-10-04,Safeguard Soap,Household,12,35.0,28.0,Cash,Balite
+2025-10-04,Piattos Cheese,Snacks,6,15.0,11.5,GCash,Ligas
+2025-10-04,Bear Brand 33g,Beverages,2,12.0,9.5,GCash,Bangkal
+2025-10-04,Smart Load 100,Telecom,7,100.0,95.0,Cash,Tikay
+2025-10-04,Bear Brand 33g,Beverages,1,12.0,9.5,Cash,Catmon
+2025-10-04,Red Horse Stallion,Beverages,15,30.0,24.0,Cash,Ligas
+2025-10-04,Downy Sachet,Household,8,6.0,4.5,Cash,Sumapa
+2025-10-04,Globe Load 100,Telecom,9,100.0,95.0,Cash,Ligas
+2025-10-04,Coke Mismo,Beverages,2,15.0,11.0,GCash,Sumapa
+2025-10-04,C2 Apple,Beverages,1,20.0,15.5,GCash,Sumapa
+2025-10-04,Ariel Powder 40g,Household,4,8.0,6.0,Cash,Catmon
+2025-10-04,Oishi Prawn Crackers,Snacks,6,12.0,9.0,Cash,Catmon
+2025-10-04,Joy Dishwashing 40ml,Household,13,8.0,6.0,Cash,Malolos Centro
+2025-10-04,Oishi Pillows,Snacks,15,10.0,7.5,Cash,Bangkal
+2025-10-04,Ariel Powder 40g,Household,15,8.0,6.0,Cash,Caniogan
+2025-10-04,Ariel Powder 40g,Household,4,8.0,6.0,Cash,Balite
+2025-10-04,Bear Brand 33g,Beverages,11,12.0,9.5,Cash,Catmon
+2025-10-04,Ariel Powder 40g,Household,10,8.0,6.0,Cash,Malolos Centro
+2025-10-04,Marlboro Lights per stick,Tobacco,15,8.0,6.5,Cash,Bangkal
+2025-10-04,Smart Load 100,Telecom,14,100.0,95.0,Cash,Malolos Centro
+2025-10-04,Globe Load 100,Telecom,7,100.0,95.0,Cash,Tikay
+2025-10-04,Marlboro Lights per stick,Tobacco,12,8.0,6.5,Cash,Malolos Centro
+2025-10-04,Lucky Me Pancit Canton,Noodles,5,12.0,9.5,GCash,Catmon
+2025-10-04,Marlboro Lights per stick,Tobacco,6,8.0,6.5,Cash,Caniogan
+2025-10-04,Ariel Powder 40g,Household,9,8.0,6.0,GCash,Caniogan
+2025-10-05,Smart Load 50,Telecom,9,50.0,47.0,Cash,Ligas
+2025-10-05,Pepsi Mismo,Beverages,13,12.0,9.0,Cash,Balite
+2025-10-05,RC Cola Mismo,Beverages,12,12.0,9.0,Cash,Ligas
+2025-10-05,Safeguard Soap,Household,3,35.0,28.0,Cash,Balite
+2025-10-05,Globe Load 50,Telecom,5,50.0,47.0,GCash,Sumapa
+2025-10-05,RC Cola Mismo,Beverages,10,12.0,9.0,Cash,Bangkal
+2025-10-05,Sky Flakes,Snacks,6,8.0,6.0,Cash,Bangkal
+2025-10-05,Joy Dishwashing 40ml,Household,2,8.0,6.0,Cash,Tikay
+2025-10-05,Piattos Cheese,Snacks,6,15.0,11.5,Cash,Malolos Centro
+2025-10-05,Kopiko Brown,Beverages,7,7.0,5.0,Cash,Caniogan
+2025-10-05,Palmolive Shampoo Sachet,Household,5,6.0,4.5,Cash,Ligas
+2025-10-05,Rebisco Crackers,Snacks,12,5.0,3.5,GCash,Malolos Centro
+2025-10-05,Kopiko Brown,Beverages,11,7.0,5.0,Cash,Sumapa
+2025-10-05,Lucky Me Beef,Noodles,11,12.0,9.5,Cash,Caniogan
+2025-10-05,Bear Brand 33g,Beverages,3,12.0,9.5,Cash,Ligas
+2025-10-05,Safeguard Soap,Household,2,35.0,28.0,Cash,Balite
+2025-10-05,Tide Powder 40g,Household,4,7.0,5.5,Cash,Tikay
+2025-10-05,Piattos Cheese,Snacks,3,15.0,11.5,Cash,Balite
+2025-10-05,Oishi Prawn Crackers,Snacks,12,12.0,9.0,GCash,Caniogan
+2025-10-06,Oishi Pillows,Snacks,13,10.0,7.5,Cash,Sumapa
+2025-10-06,Joy Dishwashing 40ml,Household,13,8.0,6.0,GCash,Catmon
+2025-10-06,Sky Flakes,Snacks,8,8.0,6.0,GCash,Balite
+2025-10-06,Nissin Cup Noodles,Noodles,15,25.0,20.0,GCash,Catmon
+2025-10-06,Lucky Me Beef,Noodles,14,12.0,9.5,GCash,Sumapa
+2025-10-06,Rebisco Crackers,Snacks,9,5.0,3.5,Cash,Tikay
+2025-10-06,Yakult 5-pack,Beverages,14,48.0,40.0,GCash,Caniogan
+2025-10-06,Payless Noodles,Noodles,11,8.0,6.0,Cash,Caniogan
+2025-10-06,Nissin Cup Noodles,Noodles,15,25.0,20.0,GCash,Caniogan
+2025-10-06,Globe Load 50,Telecom,1,50.0,47.0,Cash,Tikay
+2025-10-06,Sky Flakes,Snacks,7,8.0,6.0,Cash,Malolos Centro
+2025-10-06,Oishi Pillows,Snacks,8,10.0,7.5,Cash,Malolos Centro
+2025-10-06,Boy Bawang,Snacks,5,10.0,7.5,Cash,Sumapa
+2025-10-06,Rebisco Crackers,Snacks,2,5.0,3.5,Cash,Bangkal
+2025-10-06,Red Horse Stallion,Beverages,12,30.0,24.0,Cash,Malolos Centro
+2025-10-06,Marlboro Lights per stick,Tobacco,15,8.0,6.5,Cash,Caniogan
+2025-10-06,Lucky Me Beef,Noodles,5,12.0,9.5,Cash,Tikay
+2025-10-06,Palmolive Shampoo Sachet,Household,3,6.0,4.5,Cash,Balite
+2025-10-06,Smart Load 100,Telecom,7,100.0,95.0,Cash,Bangkal
+2025-10-06,Boy Bawang,Snacks,2,10.0,7.5,GCash,Tikay
+2025-10-07,Smart Load 50,Telecom,6,50.0,47.0,Cash,Tikay
+2025-10-07,Oishi Pillows,Snacks,7,10.0,7.5,GCash,Tikay
+2025-10-07,Downy Sachet,Household,4,6.0,4.5,Cash,Malolos Centro
+2025-10-07,Bear Brand 33g,Beverages,8,12.0,9.5,GCash,Bangkal
+2025-10-07,Oishi Pillows,Snacks,7,10.0,7.5,Cash,Sumapa
+2025-10-07,Chippy BBQ,Snacks,6,12.0,9.0,Cash,Ligas
+2025-10-07,Pepsi Mismo,Beverages,15,12.0,9.0,Cash,Malolos Centro
+2025-10-07,Globe Load 50,Telecom,11,50.0,47.0,Cash,Malolos Centro
+2025-10-07,C2 Apple,Beverages,4,20.0,15.5,Cash,Catmon
+2025-10-07,Tide Powder 40g,Household,1,7.0,5.5,Cash,Malolos Centro
+2025-10-07,C2 Apple,Beverages,12,20.0,15.5,Cash,Bangkal
+2025-10-07,Chippy BBQ,Snacks,4,12.0,9.0,GCash,Sumapa
+2025-10-07,Palmolive Shampoo Sachet,Household,14,6.0,4.5,Cash,Tikay
+2025-10-07,Sky Flakes,Snacks,5,8.0,6.0,Cash,Balite
+2025-10-07,Rebisco Crackers,Snacks,10,5.0,3.5,Cash,Sumapa
+2025-10-07,Bear Brand 33g,Beverages,15,12.0,9.5,Cash,Sumapa
+2025-10-07,Oishi Prawn Crackers,Snacks,5,12.0,9.0,Cash,Malolos Centro
+2025-10-07,Oishi Pillows,Snacks,10,10.0,7.5,Cash,Bangkal
+2025-10-08,Piattos Cheese,Snacks,1,15.0,11.5,Cash,Bangkal
+2025-10-08,Globe Load 50,Telecom,9,50.0,47.0,Cash,Bangkal
+2025-10-08,Oishi Prawn Crackers,Snacks,3,12.0,9.0,Cash,Bangkal
+2025-10-08,RC Cola Mismo,Beverages,13,12.0,9.0,GCash,Caniogan
+2025-10-08,C2 Apple,Beverages,14,20.0,15.5,Cash,Ligas
+2025-10-08,Smart Load 50,Telecom,12,50.0,47.0,Cash,Caniogan
+2025-10-08,Marlboro Lights per stick,Tobacco,1,8.0,6.5,GCash,Bangkal
+2025-10-08,Oishi Prawn Crackers,Snacks,9,12.0,9.0,GCash,Tikay
+2025-10-08,Boy Bawang,Snacks,4,10.0,7.5,Cash,Sumapa
+2025-10-08,Yakult 5-pack,Beverages,11,48.0,40.0,Cash,Caniogan
+2025-10-08,Smart Load 50,Telecom,6,50.0,47.0,Cash,Sumapa
+2025-10-08,Lucky Me Beef,Noodles,5,12.0,9.5,Cash,Malolos Centro
+2025-10-08,Smart Load 50,Telecom,2,50.0,47.0,Cash,Sumapa
+2025-10-08,Piattos Cheese,Snacks,4,15.0,11.5,Cash,Ligas
+2025-10-08,Marlboro Lights per stick,Tobacco,1,8.0,6.5,Cash,Sumapa
+2025-10-08,Downy Sachet,Household,2,6.0,4.5,Cash,Sumapa
+2025-10-09,Tide Powder 40g,Household,12,7.0,5.5,Cash,Bangkal
+2025-10-09,Marlboro Lights per stick,Tobacco,4,8.0,6.5,GCash,Balite
+2025-10-09,Palmolive Shampoo Sachet,Household,5,6.0,4.5,Cash,Caniogan
+2025-10-09,Oishi Pillows,Snacks,11,10.0,7.5,Cash,Ligas
+2025-10-09,Kopiko Brown,Beverages,6,7.0,5.0,GCash,Caniogan
+2025-10-09,Chippy BBQ,Snacks,2,12.0,9.0,Cash,Balite
+2025-10-09,Marlboro Lights per stick,Tobacco,4,8.0,6.5,Cash,Balite
+2025-10-09,Oishi Prawn Crackers,Snacks,1,12.0,9.0,GCash,Sumapa
+2025-10-09,Downy Sachet,Household,3,6.0,4.5,Cash,Ligas
+2025-10-09,Oishi Pillows,Snacks,15,10.0,7.5,GCash,Bangkal
+2025-10-09,Bear Brand 33g,Beverages,3,12.0,9.5,Cash,Balite
+2025-10-09,C2 Apple,Beverages,7,20.0,15.5,GCash,Sumapa
+2025-10-09,Piattos Cheese,Snacks,9,15.0,11.5,Cash,Ligas
+2025-10-09,Palmolive Shampoo Sachet,Household,14,6.0,4.5,Cash,Caniogan
+2025-10-09,Chippy BBQ,Snacks,3,12.0,9.0,Cash,Tikay
+2025-10-09,Coke Mismo,Beverages,12,15.0,11.0,GCash,Caniogan
+2025-10-09,RC Cola Mismo,Beverages,15,12.0,9.0,GCash,Malolos Centro
+2025-10-09,Sky Flakes,Snacks,1,8.0,6.0,Cash,Malolos Centro
+2025-10-09,Palmolive Shampoo Sachet,Household,1,6.0,4.5,Cash,Tikay
+2025-10-10,Ariel Powder 40g,Household,4,8.0,6.0,Cash,Tikay
+2025-10-10,Lucky Me Pancit Canton,Noodles,4,12.0,9.5,GCash,Caniogan
+2025-10-10,Red Horse Stallion,Beverages,1,30.0,24.0,GCash,Caniogan
+2025-10-10,Joy Dishwashing 40ml,Household,8,8.0,6.0,Cash,Malolos Centro
+2025-10-10,Oishi Pillows,Snacks,9,10.0,7.5,Cash,Malolos Centro
+2025-10-10,Lucky Me Pancit Canton,Noodles,9,12.0,9.5,Cash,Ligas
+2025-10-10,Lucky Me Pancit Canton,Noodles,9,12.0,9.5,Cash,Tikay
+2025-10-10,Payless Noodles,Noodles,15,8.0,6.0,Cash,Tikay
+2025-10-10,C2 Apple,Beverages,4,20.0,15.5,GCash,Ligas
+2025-10-10,Globe Load 100,Telecom,6,100.0,95.0,Cash,Bangkal
+2025-10-10,Nissin Cup Noodles,Noodles,6,25.0,20.0,Cash,Caniogan
+2025-10-10,Rebisco Crackers,Snacks,4,5.0,3.5,Cash,Ligas
+2025-10-10,Joy Dishwashing 40ml,Household,14,8.0,6.0,Cash,Malolos Centro
+2025-10-10,Nissin Cup Noodles,Noodles,7,25.0,20.0,Cash,Bangkal
+2025-10-10,Oishi Pillows,Snacks,8,10.0,7.5,Cash,Malolos Centro
+2025-10-10,Safeguard Soap,Household,3,35.0,28.0,Cash,Caniogan
+2025-10-10,Smart Load 50,Telecom,7,50.0,47.0,Cash,Catmon
+2025-10-10,Smart Load 100,Telecom,9,100.0,95.0,Cash,Sumapa
+2025-10-10,Pepsi Mismo,Beverages,15,12.0,9.0,GCash,Caniogan
+2025-10-10,Kopiko Brown,Beverages,1,7.0,5.0,Cash,Ligas
+2025-10-10,Smart Load 100,Telecom,9,100.0,95.0,GCash,Malolos Centro
+2025-10-11,Marlboro Lights per stick,Tobacco,14,8.0,6.5,Cash,Malolos Centro
+2025-10-11,Pepsi Mismo,Beverages,10,12.0,9.0,Cash,Bangkal
+2025-10-11,Marlboro Lights per stick,Tobacco,2,8.0,6.5,Cash,Tikay
+2025-10-11,Rebisco Crackers,Snacks,4,5.0,3.5,GCash,Bangkal
+2025-10-11,Joy Dishwashing 40ml,Household,15,8.0,6.0,GCash,Balite
+2025-10-11,Boy Bawang,Snacks,13,10.0,7.5,Cash,Catmon
+2025-10-11,Sky Flakes,Snacks,12,8.0,6.0,Cash,Malolos Centro
+2025-10-11,Payless Noodles,Noodles,7,8.0,6.0,Cash,Catmon
+2025-10-11,Yakult 5-pack,Beverages,10,48.0,40.0,GCash,Bangkal
+2025-10-11,Palmolive Shampoo Sachet,Household,6,6.0,4.5,Cash,Ligas
+2025-10-11,Globe Load 50,Telecom,8,50.0,47.0,Cash,Sumapa
+2025-10-11,Red Horse Stallion,Beverages,9,30.0,24.0,Cash,Bangkal
+2025-10-11,RC Cola Mismo,Beverages,11,12.0,9.0,GCash,Bangkal
+2025-10-11,Nissin Cup Noodles,Noodles,13,25.0,20.0,GCash,Ligas
+2025-10-11,Globe Load 50,Telecom,4,50.0,47.0,Cash,Catmon
+2025-10-11,Kopiko Brown,Beverages,3,7.0,5.0,Cash,Tikay
+2025-10-11,Downy Sachet,Household,7,6.0,4.5,Cash,Balite
+2025-10-11,Payless Noodles,Noodles,2,8.0,6.0,Cash,Ligas
+2025-10-11,Chippy BBQ,Snacks,6,12.0,9.0,Cash,Catmon
+2025-10-11,Coke Mismo,Beverages,2,15.0,11.0,Cash,Bangkal
+2025-10-12,Oishi Pillows,Snacks,9,10.0,7.5,GCash,Bangkal
+2025-10-12,Payless Noodles,Noodles,1,8.0,6.0,Cash,Balite
+2025-10-12,Oishi Pillows,Snacks,2,10.0,7.5,GCash,Balite
+2025-10-12,Smart Load 50,Telecom,7,50.0,47.0,Cash,Ligas
+2025-10-12,Oishi Prawn Crackers,Snacks,7,12.0,9.0,Cash,Sumapa
+2025-10-12,Rebisco Crackers,Snacks,9,5.0,3.5,Cash,Bangkal
+2025-10-12,RC Cola Mismo,Beverages,3,12.0,9.0,Cash,Ligas
+2025-10-12,Kopiko Brown,Beverages,8,7.0,5.0,Cash,Catmon
+2025-10-12,RC Cola Mismo,Beverages,7,12.0,9.0,Cash,Bangkal
+2025-10-12,Bear Brand 33g,Beverages,8,12.0,9.5,Cash,Balite
+2025-10-12,Kopiko Brown,Beverages,4,7.0,5.0,Cash,Sumapa
+2025-10-12,Chippy BBQ,Snacks,2,12.0,9.0,Cash,Ligas
+2025-10-12,Lucky Me Pancit Canton,Noodles,7,12.0,9.5,Cash,Bangkal
+2025-10-12,Globe Load 50,Telecom,14,50.0,47.0,Cash,Caniogan
+2025-10-12,Yakult 5-pack,Beverages,7,48.0,40.0,GCash,Tikay
+2025-10-12,Bear Brand 33g,Beverages,6,12.0,9.5,GCash,Sumapa
+2025-10-12,Piattos Cheese,Snacks,6,15.0,11.5,Cash,Bangkal
+2025-10-12,Yakult 5-pack,Beverages,5,48.0,40.0,Cash,Sumapa
+2025-10-12,Yakult 5-pack,Beverages,7,48.0,40.0,Cash,Bangkal
+2025-10-12,Red Horse Stallion,Beverages,2,30.0,24.0,GCash,Sumapa
+2025-10-12,Rebisco Crackers,Snacks,9,5.0,3.5,Cash,Malolos Centro
+2025-10-12,Downy Sachet,Household,8,6.0,4.5,Cash,Caniogan
+2025-10-12,Globe Load 50,Telecom,5,50.0,47.0,Cash,Bangkal
+2025-10-12,Joy Dishwashing 40ml,Household,8,8.0,6.0,Cash,Ligas
+2025-10-12,C2 Apple,Beverages,5,20.0,15.5,Cash,Bangkal
+2025-10-12,Globe Load 50,Telecom,7,50.0,47.0,Cash,Caniogan
+2025-10-12,Tide Powder 40g,Household,8,7.0,5.5,GCash,Bangkal
+2025-10-12,Oishi Pillows,Snacks,9,10.0,7.5,Cash,Malolos Centro
+2025-10-12,Globe Load 50,Telecom,6,50.0,47.0,GCash,Catmon
+2025-10-13,Palmolive Shampoo Sachet,Household,4,6.0,4.5,Cash,Tikay
+2025-10-13,Ariel Powder 40g,Household,10,8.0,6.0,Cash,Bangkal
+2025-10-13,Palmolive Shampoo Sachet,Household,6,6.0,4.5,Cash,Catmon
+2025-10-13,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,Cash,Sumapa
+2025-10-13,Sky Flakes,Snacks,12,8.0,6.0,GCash,Sumapa
+2025-10-13,Chippy BBQ,Snacks,6,12.0,9.0,Cash,Caniogan
+2025-10-13,Palmolive Shampoo Sachet,Household,11,6.0,4.5,GCash,Tikay
+2025-10-13,Red Horse Stallion,Beverages,1,30.0,24.0,Cash,Catmon
+2025-10-13,Bear Brand 33g,Beverages,7,12.0,9.5,Cash,Catmon
+2025-10-14,Downy Sachet,Household,3,6.0,4.5,Cash,Ligas
+2025-10-14,Yakult 5-pack,Beverages,8,48.0,40.0,Cash,Caniogan
+2025-10-14,Red Horse Stallion,Beverages,8,30.0,24.0,Cash,Caniogan
+2025-10-14,Downy Sachet,Household,12,6.0,4.5,Cash,Balite
+2025-10-14,Nissin Cup Noodles,Noodles,5,25.0,20.0,Cash,Catmon
+2025-10-14,Lucky Me Pancit Canton,Noodles,14,12.0,9.5,Cash,Catmon
+2025-10-14,Joy Dishwashing 40ml,Household,13,8.0,6.0,Cash,Sumapa
+2025-10-14,Sky Flakes,Snacks,3,8.0,6.0,GCash,Tikay
+2025-10-14,Yakult 5-pack,Beverages,9,48.0,40.0,Cash,Caniogan
+2025-10-14,C2 Apple,Beverages,13,20.0,15.5,Cash,Tikay
+2025-10-14,RC Cola Mismo,Beverages,11,12.0,9.0,Cash,Bangkal
+2025-10-14,Lucky Me Pancit Canton,Noodles,12,12.0,9.5,GCash,Sumapa
+2025-10-14,Chippy BBQ,Snacks,10,12.0,9.0,Cash,Bangkal
+2025-10-14,Lucky Me Pancit Canton,Noodles,12,12.0,9.5,Cash,Sumapa
+2025-10-14,Kopiko Brown,Beverages,13,7.0,5.0,Cash,Catmon
+2025-10-14,Globe Load 50,Telecom,14,50.0,47.0,GCash,Tikay
+2025-10-14,Red Horse Stallion,Beverages,6,30.0,24.0,Cash,Caniogan
+2025-10-14,Payless Noodles,Noodles,5,8.0,6.0,Cash,Balite
+2025-10-14,Tide Powder 40g,Household,7,7.0,5.5,GCash,Bangkal
+2025-10-14,Rebisco Crackers,Snacks,2,5.0,3.5,Cash,Balite
+2025-10-14,Smart Load 50,Telecom,8,50.0,47.0,GCash,Tikay
+2025-10-15,Joy Dishwashing 40ml,Household,12,8.0,6.0,Cash,Catmon
+2025-10-15,Joy Dishwashing 40ml,Household,3,8.0,6.0,Cash,Catmon
+2025-10-15,C2 Apple,Beverages,5,20.0,15.5,Cash,Tikay
+2025-10-15,Red Horse Stallion,Beverages,12,30.0,24.0,Cash,Bangkal
+2025-10-15,Oishi Prawn Crackers,Snacks,10,12.0,9.0,Cash,Bangkal
+2025-10-15,Oishi Prawn Crackers,Snacks,3,12.0,9.0,Cash,Tikay
+2025-10-15,Oishi Pillows,Snacks,3,10.0,7.5,Cash,Ligas
+2025-10-15,Coke Mismo,Beverages,3,15.0,11.0,Cash,Caniogan
+2025-10-15,Tide Powder 40g,Household,1,7.0,5.5,Cash,Malolos Centro
+2025-10-15,Piattos Cheese,Snacks,3,15.0,11.5,Cash,Bangkal
+2025-10-15,Oishi Pillows,Snacks,9,10.0,7.5,Cash,Bangkal
+2025-10-15,Joy Dishwashing 40ml,Household,8,8.0,6.0,Cash,Caniogan
+2025-10-15,Piattos Cheese,Snacks,3,15.0,11.5,Cash,Malolos Centro
+2025-10-15,Globe Load 50,Telecom,13,50.0,47.0,Cash,Ligas
+2025-10-15,Lucky Me Beef,Noodles,5,12.0,9.5,Cash,Ligas
+2025-10-15,RC Cola Mismo,Beverages,13,12.0,9.0,Cash,Caniogan
+2025-10-15,Oishi Pillows,Snacks,9,10.0,7.5,Cash,Catmon
+2025-10-15,Kopiko Brown,Beverages,13,7.0,5.0,GCash,Balite
+2025-10-15,Oishi Pillows,Snacks,14,10.0,7.5,Cash,Caniogan
+2025-10-15,Oishi Pillows,Snacks,4,10.0,7.5,Cash,Catmon
+2025-10-15,Downy Sachet,Household,14,6.0,4.5,Cash,Ligas
+2025-10-16,Lucky Me Beef,Noodles,8,12.0,9.5,Cash,Balite
+2025-10-16,Smart Load 50,Telecom,14,50.0,47.0,Cash,Caniogan
+2025-10-16,Smart Load 50,Telecom,2,50.0,47.0,Cash,Sumapa
+2025-10-16,Globe Load 50,Telecom,12,50.0,47.0,GCash,Balite
+2025-10-16,Smart Load 50,Telecom,12,50.0,47.0,GCash,Bangkal
+2025-10-16,RC Cola Mismo,Beverages,10,12.0,9.0,Cash,Sumapa
+2025-10-16,Globe Load 100,Telecom,4,100.0,95.0,Cash,Balite
+2025-10-16,Oishi Pillows,Snacks,5,10.0,7.5,GCash,Tikay
+2025-10-16,Yakult 5-pack,Beverages,12,48.0,40.0,Cash,Ligas
+2025-10-16,Rebisco Crackers,Snacks,5,5.0,3.5,GCash,Catmon
+2025-10-16,Coke Mismo,Beverages,13,15.0,11.0,Cash,Malolos Centro
+2025-10-16,Kopiko Brown,Beverages,14,7.0,5.0,Cash,Tikay
+2025-10-16,C2 Apple,Beverages,3,20.0,15.5,Cash,Sumapa
+2025-10-16,Palmolive Shampoo Sachet,Household,14,6.0,4.5,Cash,Caniogan
+2025-10-16,Coke Mismo,Beverages,10,15.0,11.0,Cash,Bangkal
+2025-10-16,Boy Bawang,Snacks,8,10.0,7.5,Cash,Catmon
+2025-10-16,Boy Bawang,Snacks,9,10.0,7.5,Cash,Balite
+2025-10-16,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Malolos Centro
+2025-10-16,Smart Load 50,Telecom,13,50.0,47.0,Cash,Caniogan
+2025-10-16,Ariel Powder 40g,Household,11,8.0,6.0,Cash,Catmon
+2025-10-16,Globe Load 50,Telecom,9,50.0,47.0,Cash,Sumapa
+2025-10-17,Globe Load 100,Telecom,4,100.0,95.0,Cash,Ligas
+2025-10-17,Yakult 5-pack,Beverages,14,48.0,40.0,Cash,Balite
+2025-10-17,Oishi Pillows,Snacks,10,10.0,7.5,Cash,Caniogan
+2025-10-17,Globe Load 50,Telecom,6,50.0,47.0,Cash,Malolos Centro
+2025-10-17,Payless Noodles,Noodles,11,8.0,6.0,Cash,Malolos Centro
+2025-10-17,Payless Noodles,Noodles,15,8.0,6.0,Cash,Caniogan
+2025-10-17,Chippy BBQ,Snacks,1,12.0,9.0,Cash,Sumapa
+2025-10-17,Safeguard Soap,Household,15,35.0,28.0,Cash,Ligas
+2025-10-17,RC Cola Mismo,Beverages,14,12.0,9.0,Cash,Catmon
+2025-10-17,Ariel Powder 40g,Household,6,8.0,6.0,Cash,Catmon
+2025-10-17,Red Horse Stallion,Beverages,11,30.0,24.0,Cash,Malolos Centro
+2025-10-17,Boy Bawang,Snacks,11,10.0,7.5,Cash,Sumapa
+2025-10-17,Oishi Prawn Crackers,Snacks,11,12.0,9.0,Cash,Catmon
+2025-10-17,Lucky Me Pancit Canton,Noodles,4,12.0,9.5,Cash,Catmon
+2025-10-18,Rebisco Crackers,Snacks,4,5.0,3.5,GCash,Caniogan
+2025-10-18,Lucky Me Pancit Canton,Noodles,1,12.0,9.5,Cash,Catmon
+2025-10-18,Smart Load 50,Telecom,7,50.0,47.0,Cash,Caniogan
+2025-10-18,Nissin Cup Noodles,Noodles,4,25.0,20.0,Cash,Catmon
+2025-10-18,Downy Sachet,Household,13,6.0,4.5,Cash,Catmon
+2025-10-18,Yakult 5-pack,Beverages,6,48.0,40.0,Cash,Tikay
+2025-10-18,Boy Bawang,Snacks,13,10.0,7.5,Cash,Tikay
+2025-10-18,Nissin Cup Noodles,Noodles,9,25.0,20.0,GCash,Malolos Centro
+2025-10-18,Tide Powder 40g,Household,11,7.0,5.5,Cash,Caniogan
+2025-10-18,Red Horse Stallion,Beverages,12,30.0,24.0,Cash,Tikay
+2025-10-18,Marlboro Lights per stick,Tobacco,7,8.0,6.5,GCash,Caniogan
+2025-10-18,Smart Load 50,Telecom,4,50.0,47.0,Cash,Catmon
+2025-10-18,Coke Mismo,Beverages,13,15.0,11.0,Cash,Bangkal
+2025-10-18,Red Horse Stallion,Beverages,7,30.0,24.0,Cash,Tikay
+2025-10-18,C2 Apple,Beverages,5,20.0,15.5,Cash,Sumapa
+2025-10-18,Oishi Pillows,Snacks,10,10.0,7.5,GCash,Ligas
+2025-10-18,Palmolive Shampoo Sachet,Household,12,6.0,4.5,Cash,Ligas
+2025-10-18,Pepsi Mismo,Beverages,9,12.0,9.0,GCash,Sumapa
+2025-10-18,Downy Sachet,Household,7,6.0,4.5,Cash,Malolos Centro
+2025-10-19,Piattos Cheese,Snacks,7,15.0,11.5,Cash,Sumapa
+2025-10-19,Piattos Cheese,Snacks,11,15.0,11.5,GCash,Catmon
+2025-10-19,Sky Flakes,Snacks,15,8.0,6.0,Cash,Balite
+2025-10-19,Marlboro Lights per stick,Tobacco,6,8.0,6.5,Cash,Bangkal
+2025-10-19,Smart Load 50,Telecom,14,50.0,47.0,GCash,Bangkal
+2025-10-19,Red Horse Stallion,Beverages,9,30.0,24.0,Cash,Caniogan
+2025-10-19,Palmolive Shampoo Sachet,Household,2,6.0,4.5,Cash,Catmon
+2025-10-19,Lucky Me Pancit Canton,Noodles,5,12.0,9.5,Cash,Malolos Centro
+2025-10-19,Marlboro Lights per stick,Tobacco,1,8.0,6.5,Cash,Ligas
+2025-10-19,Ariel Powder 40g,Household,12,8.0,6.0,GCash,Bangkal
+2025-10-19,Oishi Prawn Crackers,Snacks,12,12.0,9.0,Cash,Catmon
+2025-10-19,Ariel Powder 40g,Household,9,8.0,6.0,GCash,Tikay
+2025-10-19,Kopiko Brown,Beverages,2,7.0,5.0,Cash,Catmon
+2025-10-19,Sky Flakes,Snacks,15,8.0,6.0,Cash,Tikay
+2025-10-19,Oishi Pillows,Snacks,6,10.0,7.5,Cash,Catmon
+2025-10-19,Bear Brand 33g,Beverages,12,12.0,9.5,Cash,Sumapa
+2025-10-19,Lucky Me Beef,Noodles,4,12.0,9.5,Cash,Bangkal
+2025-10-19,Payless Noodles,Noodles,8,8.0,6.0,GCash,Malolos Centro
+2025-10-19,Bear Brand 33g,Beverages,11,12.0,9.5,Cash,Catmon
+2025-10-19,Lucky Me Pancit Canton,Noodles,12,12.0,9.5,Cash,Malolos Centro
+2025-10-19,RC Cola Mismo,Beverages,8,12.0,9.0,Cash,Ligas
+2025-10-19,RC Cola Mismo,Beverages,6,12.0,9.0,Cash,Ligas
+2025-10-20,Smart Load 100,Telecom,2,100.0,95.0,Cash,Balite
+2025-10-20,Globe Load 50,Telecom,7,50.0,47.0,Cash,Catmon
+2025-10-20,Kopiko Brown,Beverages,12,7.0,5.0,GCash,Catmon
+2025-10-20,Piattos Cheese,Snacks,8,15.0,11.5,GCash,Balite
+2025-10-20,Lucky Me Beef,Noodles,8,12.0,9.5,GCash,Tikay
+2025-10-20,Red Horse Stallion,Beverages,3,30.0,24.0,Cash,Catmon
+2025-10-20,Smart Load 100,Telecom,10,100.0,95.0,Cash,Sumapa
+2025-10-20,Downy Sachet,Household,9,6.0,4.5,Cash,Malolos Centro
+2025-10-20,Smart Load 50,Telecom,14,50.0,47.0,Cash,Sumapa
+2025-10-20,Lucky Me Beef,Noodles,8,12.0,9.5,Cash,Bangkal
+2025-10-20,Marlboro Lights per stick,Tobacco,3,8.0,6.5,Cash,Malolos Centro
+2025-10-20,Oishi Pillows,Snacks,13,10.0,7.5,Cash,Sumapa
+2025-10-20,Yakult 5-pack,Beverages,4,48.0,40.0,Cash,Balite
+2025-10-20,Kopiko Brown,Beverages,14,7.0,5.0,Cash,Balite
+2025-10-20,Payless Noodles,Noodles,9,8.0,6.0,Cash,Tikay
+2025-10-20,C2 Apple,Beverages,13,20.0,15.5,GCash,Malolos Centro
+2025-10-20,Boy Bawang,Snacks,2,10.0,7.5,Cash,Ligas
+2025-10-20,Palmolive Shampoo Sachet,Household,14,6.0,4.5,Cash,Balite
+2025-10-20,Nissin Cup Noodles,Noodles,9,25.0,20.0,Cash,Malolos Centro
+2025-10-21,Pepsi Mismo,Beverages,5,12.0,9.0,GCash,Ligas
+2025-10-21,Downy Sachet,Household,10,6.0,4.5,Cash,Caniogan
+2025-10-21,Red Horse Stallion,Beverages,10,30.0,24.0,Cash,Sumapa
+2025-10-21,Downy Sachet,Household,15,6.0,4.5,GCash,Sumapa
+2025-10-21,Coke Mismo,Beverages,1,15.0,11.0,Cash,Malolos Centro
+2025-10-21,C2 Apple,Beverages,9,20.0,15.5,Cash,Malolos Centro
+2025-10-21,Yakult 5-pack,Beverages,1,48.0,40.0,Cash,Ligas
+2025-10-21,Payless Noodles,Noodles,4,8.0,6.0,GCash,Sumapa
+2025-10-21,Oishi Prawn Crackers,Snacks,8,12.0,9.0,Cash,Tikay
+2025-10-21,Safeguard Soap,Household,5,35.0,28.0,Cash,Malolos Centro
+2025-10-21,Marlboro Lights per stick,Tobacco,4,8.0,6.5,GCash,Bangkal
+2025-10-21,Safeguard Soap,Household,15,35.0,28.0,Cash,Caniogan
+2025-10-21,Downy Sachet,Household,2,6.0,4.5,GCash,Catmon
+2025-10-22,Coke Mismo,Beverages,11,15.0,11.0,Cash,Catmon
+2025-10-22,Rebisco Crackers,Snacks,10,5.0,3.5,Cash,Bangkal
+2025-10-22,Joy Dishwashing 40ml,Household,3,8.0,6.0,Cash,Ligas
+2025-10-22,Kopiko Brown,Beverages,14,7.0,5.0,Cash,Bangkal
+2025-10-22,Safeguard Soap,Household,14,35.0,28.0,Cash,Balite
+2025-10-22,Chippy BBQ,Snacks,5,12.0,9.0,Cash,Catmon
+2025-10-22,Pepsi Mismo,Beverages,3,12.0,9.0,GCash,Catmon
+2025-10-22,Coke Mismo,Beverages,2,15.0,11.0,Cash,Caniogan
+2025-10-22,Chippy BBQ,Snacks,6,12.0,9.0,Cash,Catmon
+2025-10-22,Oishi Pillows,Snacks,6,10.0,7.5,Cash,Caniogan
+2025-10-22,Bear Brand 33g,Beverages,8,12.0,9.5,Cash,Catmon
+2025-10-22,Nissin Cup Noodles,Noodles,3,25.0,20.0,Cash,Malolos Centro
+2025-10-22,Pepsi Mismo,Beverages,14,12.0,9.0,Cash,Tikay
+2025-10-22,Nissin Cup Noodles,Noodles,12,25.0,20.0,Cash,Balite
+2025-10-22,Boy Bawang,Snacks,9,10.0,7.5,Cash,Ligas
+2025-10-22,Kopiko Brown,Beverages,14,7.0,5.0,Cash,Malolos Centro
+2025-10-23,Smart Load 50,Telecom,8,50.0,47.0,GCash,Sumapa
+2025-10-23,Payless Noodles,Noodles,8,8.0,6.0,Cash,Tikay
+2025-10-23,Payless Noodles,Noodles,1,8.0,6.0,Cash,Sumapa
+2025-10-23,Coke Mismo,Beverages,4,15.0,11.0,Cash,Balite
+2025-10-23,Joy Dishwashing 40ml,Household,11,8.0,6.0,Cash,Ligas
+2025-10-23,Marlboro Lights per stick,Tobacco,14,8.0,6.5,Cash,Malolos Centro
+2025-10-23,Nissin Cup Noodles,Noodles,4,25.0,20.0,Cash,Tikay
+2025-10-23,Nissin Cup Noodles,Noodles,15,25.0,20.0,Cash,Catmon
+2025-10-23,Lucky Me Beef,Noodles,8,12.0,9.5,Cash,Tikay
+2025-10-23,Marlboro Lights per stick,Tobacco,10,8.0,6.5,Cash,Bangkal
+2025-10-23,Piattos Cheese,Snacks,1,15.0,11.5,Cash,Bangkal
+2025-10-23,RC Cola Mismo,Beverages,6,12.0,9.0,Cash,Tikay
+2025-10-23,Kopiko Brown,Beverages,5,7.0,5.0,Cash,Tikay
+2025-10-23,Lucky Me Beef,Noodles,10,12.0,9.5,GCash,Sumapa
+2025-10-24,Bear Brand 33g,Beverages,8,12.0,9.5,Cash,Caniogan
+2025-10-24,Lucky Me Beef,Noodles,2,12.0,9.5,Cash,Bangkal
+2025-10-24,Coke Mismo,Beverages,7,15.0,11.0,Cash,Sumapa
+2025-10-24,Ariel Powder 40g,Household,13,8.0,6.0,GCash,Malolos Centro
+2025-10-24,Boy Bawang,Snacks,13,10.0,7.5,Cash,Caniogan
+2025-10-24,Oishi Pillows,Snacks,13,10.0,7.5,Cash,Balite
+2025-10-24,Marlboro Lights per stick,Tobacco,10,8.0,6.5,GCash,Balite
+2025-10-24,Boy Bawang,Snacks,5,10.0,7.5,Cash,Malolos Centro
+2025-10-24,Yakult 5-pack,Beverages,10,48.0,40.0,Cash,Malolos Centro
+2025-10-24,Smart Load 100,Telecom,13,100.0,95.0,Cash,Malolos Centro
+2025-10-24,Globe Load 50,Telecom,8,50.0,47.0,GCash,Balite
+2025-10-24,Palmolive Shampoo Sachet,Household,10,6.0,4.5,Cash,Tikay
+2025-10-24,Payless Noodles,Noodles,4,8.0,6.0,Cash,Ligas
+2025-10-24,Oishi Pillows,Snacks,14,10.0,7.5,Cash,Sumapa
+2025-10-24,Rebisco Crackers,Snacks,14,5.0,3.5,Cash,Balite
+2025-10-24,Marlboro Lights per stick,Tobacco,14,8.0,6.5,Cash,Tikay
+2025-10-24,C2 Apple,Beverages,10,20.0,15.5,Cash,Balite
+2025-10-24,Marlboro Lights per stick,Tobacco,10,8.0,6.5,Cash,Balite
+2025-10-25,Rebisco Crackers,Snacks,3,5.0,3.5,GCash,Sumapa
+2025-10-25,Globe Load 100,Telecom,13,100.0,95.0,Cash,Ligas
+2025-10-25,RC Cola Mismo,Beverages,8,12.0,9.0,Cash,Catmon
+2025-10-25,Lucky Me Beef,Noodles,4,12.0,9.5,GCash,Sumapa
+2025-10-25,Lucky Me Pancit Canton,Noodles,9,12.0,9.5,Cash,Malolos Centro
+2025-10-25,Yakult 5-pack,Beverages,15,48.0,40.0,GCash,Sumapa
+2025-10-25,Globe Load 50,Telecom,3,50.0,47.0,Cash,Tikay
+2025-10-25,Marlboro Lights per stick,Tobacco,13,8.0,6.5,Cash,Malolos Centro
+2025-10-25,Lucky Me Pancit Canton,Noodles,3,12.0,9.5,GCash,Tikay
+2025-10-25,Palmolive Shampoo Sachet,Household,2,6.0,4.5,GCash,Balite
+2025-10-25,Nissin Cup Noodles,Noodles,6,25.0,20.0,Cash,Catmon
+2025-10-25,Yakult 5-pack,Beverages,5,48.0,40.0,Cash,Tikay
+2025-10-25,RC Cola Mismo,Beverages,12,12.0,9.0,Cash,Caniogan
+2025-10-25,Ariel Powder 40g,Household,6,8.0,6.0,Cash,Balite
+2025-10-25,C2 Apple,Beverages,11,20.0,15.5,GCash,Tikay
+2025-10-25,Boy Bawang,Snacks,5,10.0,7.5,Cash,Tikay
+2025-10-25,RC Cola Mismo,Beverages,12,12.0,9.0,Cash,Bangkal
+2025-10-25,Smart Load 50,Telecom,13,50.0,47.0,GCash,Malolos Centro
+2025-10-25,RC Cola Mismo,Beverages,10,12.0,9.0,Cash,Sumapa
+2025-10-25,Ariel Powder 40g,Household,10,8.0,6.0,Cash,Caniogan
+2025-10-25,Coke Mismo,Beverages,6,15.0,11.0,Cash,Sumapa
+2025-10-25,Red Horse Stallion,Beverages,6,30.0,24.0,Cash,Catmon
+2025-10-25,Globe Load 100,Telecom,12,100.0,95.0,Cash,Caniogan
+2025-10-25,Lucky Me Pancit Canton,Noodles,5,12.0,9.5,Cash,Sumapa
+2025-10-25,Safeguard Soap,Household,2,35.0,28.0,Cash,Ligas
+2025-10-25,Globe Load 50,Telecom,2,50.0,47.0,Cash,Malolos Centro
+2025-10-25,Boy Bawang,Snacks,8,10.0,7.5,Cash,Tikay
+2025-10-25,Smart Load 100,Telecom,7,100.0,95.0,Cash,Bangkal
+2025-10-25,Red Horse Stallion,Beverages,9,30.0,24.0,Cash,Catmon
+2025-10-25,Globe Load 100,Telecom,8,100.0,95.0,GCash,Sumapa
+2025-10-25,RC Cola Mismo,Beverages,8,12.0,9.0,Cash,Malolos Centro
+2025-10-25,Bear Brand 33g,Beverages,1,12.0,9.5,Cash,Ligas
+2025-10-25,Payless Noodles,Noodles,2,8.0,6.0,Cash,Tikay
+2025-10-26,RC Cola Mismo,Beverages,12,12.0,9.0,Cash,Catmon
+2025-10-26,Yakult 5-pack,Beverages,10,48.0,40.0,GCash,Caniogan
+2025-10-26,Safeguard Soap,Household,1,35.0,28.0,Cash,Tikay
+2025-10-26,Tide Powder 40g,Household,15,7.0,5.5,Cash,Tikay
+2025-10-26,Lucky Me Beef,Noodles,2,12.0,9.5,Cash,Sumapa
+2025-10-26,Pepsi Mismo,Beverages,7,12.0,9.0,GCash,Ligas
+2025-10-26,Joy Dishwashing 40ml,Household,5,8.0,6.0,Cash,Sumapa
+2025-10-26,Payless Noodles,Noodles,1,8.0,6.0,Cash,Caniogan
+2025-10-26,Coke Mismo,Beverages,1,15.0,11.0,Cash,Malolos Centro
+2025-10-26,Oishi Prawn Crackers,Snacks,2,12.0,9.0,Cash,Caniogan
+2025-10-26,Pepsi Mismo,Beverages,2,12.0,9.0,Cash,Sumapa
+2025-10-26,RC Cola Mismo,Beverages,11,12.0,9.0,Cash,Catmon
+2025-10-26,Piattos Cheese,Snacks,14,15.0,11.5,Cash,Ligas
+2025-10-26,Globe Load 50,Telecom,7,50.0,47.0,Cash,Caniogan
+2025-10-26,Smart Load 100,Telecom,11,100.0,95.0,Cash,Catmon
+2025-10-26,Ariel Powder 40g,Household,9,8.0,6.0,Cash,Tikay
+2025-10-26,Red Horse Stallion,Beverages,15,30.0,24.0,Cash,Balite
+2025-10-26,RC Cola Mismo,Beverages,8,12.0,9.0,Cash,Ligas
+2025-10-26,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Sumapa
+2025-10-26,Globe Load 100,Telecom,5,100.0,95.0,GCash,Malolos Centro
+2025-10-26,Coke Mismo,Beverages,13,15.0,11.0,Cash,Catmon
+2025-10-26,Joy Dishwashing 40ml,Household,6,8.0,6.0,GCash,Bangkal
+2025-10-26,Palmolive Shampoo Sachet,Household,10,6.0,4.5,Cash,Malolos Centro
+2025-10-26,Globe Load 100,Telecom,7,100.0,95.0,GCash,Bangkal
+2025-10-26,Oishi Pillows,Snacks,11,10.0,7.5,Cash,Sumapa
+2025-10-26,Piattos Cheese,Snacks,5,15.0,11.5,Cash,Bangkal
+2025-10-26,Smart Load 100,Telecom,14,100.0,95.0,Cash,Tikay
+2025-10-27,Palmolive Shampoo Sachet,Household,8,6.0,4.5,Cash,Tikay
+2025-10-27,Pepsi Mismo,Beverages,13,12.0,9.0,Cash,Tikay
+2025-10-27,Lucky Me Beef,Noodles,7,12.0,9.5,Cash,Bangkal
+2025-10-27,Pepsi Mismo,Beverages,14,12.0,9.0,Cash,Ligas
+2025-10-27,Yakult 5-pack,Beverages,15,48.0,40.0,Cash,Catmon
+2025-10-27,Boy Bawang,Snacks,9,10.0,7.5,Cash,Balite
+2025-10-27,Smart Load 50,Telecom,5,50.0,47.0,GCash,Caniogan
+2025-10-27,Marlboro Lights per stick,Tobacco,14,8.0,6.5,Cash,Bangkal
+2025-10-27,Payless Noodles,Noodles,7,8.0,6.0,Cash,Tikay
+2025-10-28,Rebisco Crackers,Snacks,10,5.0,3.5,Cash,Catmon
+2025-10-28,Rebisco Crackers,Snacks,13,5.0,3.5,Cash,Ligas
+2025-10-28,Smart Load 50,Telecom,9,50.0,47.0,Cash,Bangkal
+2025-10-28,Kopiko Brown,Beverages,7,7.0,5.0,Cash,Caniogan
+2025-10-28,Lucky Me Beef,Noodles,3,12.0,9.5,Cash,Bangkal
+2025-10-28,Coke Mismo,Beverages,10,15.0,11.0,GCash,Bangkal
+2025-10-28,Lucky Me Beef,Noodles,7,12.0,9.5,Cash,Sumapa
+2025-10-28,Lucky Me Beef,Noodles,12,12.0,9.5,Cash,Ligas
+2025-10-28,Smart Load 100,Telecom,6,100.0,95.0,Cash,Balite
+2025-10-28,Globe Load 100,Telecom,13,100.0,95.0,Cash,Ligas
+2025-10-28,Kopiko Brown,Beverages,14,7.0,5.0,Cash,Catmon
+2025-10-28,Smart Load 50,Telecom,4,50.0,47.0,Cash,Ligas
+2025-10-28,Downy Sachet,Household,8,6.0,4.5,Cash,Ligas
+2025-10-28,Downy Sachet,Household,7,6.0,4.5,GCash,Catmon
+2025-10-28,Pepsi Mismo,Beverages,8,12.0,9.0,Cash,Bangkal
+2025-10-28,Downy Sachet,Household,8,6.0,4.5,GCash,Balite
+2025-10-28,Globe Load 100,Telecom,1,100.0,95.0,GCash,Tikay
+2025-10-29,Bear Brand 33g,Beverages,12,12.0,9.5,GCash,Bangkal
+2025-10-29,Coke Mismo,Beverages,13,15.0,11.0,GCash,Malolos Centro
+2025-10-29,RC Cola Mismo,Beverages,4,12.0,9.0,Cash,Malolos Centro
+2025-10-29,C2 Apple,Beverages,1,20.0,15.5,Cash,Malolos Centro
+2025-10-29,Marlboro Lights per stick,Tobacco,6,8.0,6.5,Cash,Ligas
+2025-10-29,Red Horse Stallion,Beverages,14,30.0,24.0,Cash,Bangkal
+2025-10-29,Ariel Powder 40g,Household,15,8.0,6.0,Cash,Malolos Centro
+2025-10-29,C2 Apple,Beverages,6,20.0,15.5,Cash,Caniogan
+2025-10-29,RC Cola Mismo,Beverages,14,12.0,9.0,Cash,Balite
+2025-10-30,RC Cola Mismo,Beverages,14,12.0,9.0,Cash,Catmon
+2025-10-30,Bear Brand 33g,Beverages,1,12.0,9.5,Cash,Malolos Centro
+2025-10-30,RC Cola Mismo,Beverages,14,12.0,9.0,GCash,Sumapa
+2025-10-30,Smart Load 50,Telecom,4,50.0,47.0,Cash,Sumapa
+2025-10-30,Kopiko Brown,Beverages,11,7.0,5.0,Cash,Malolos Centro
+2025-10-30,Smart Load 50,Telecom,13,50.0,47.0,Cash,Caniogan
+2025-10-30,Marlboro Lights per stick,Tobacco,3,8.0,6.5,Cash,Malolos Centro
+2025-10-30,C2 Apple,Beverages,5,20.0,15.5,GCash,Ligas
+2025-10-30,Safeguard Soap,Household,12,35.0,28.0,Cash,Bangkal
+2025-10-30,Smart Load 100,Telecom,7,100.0,95.0,Cash,Caniogan
+2025-10-30,Kopiko Brown,Beverages,4,7.0,5.0,Cash,Ligas
+2025-10-30,Joy Dishwashing 40ml,Household,9,8.0,6.0,GCash,Bangkal
+2025-10-30,Rebisco Crackers,Snacks,2,5.0,3.5,Cash,Balite
+2025-10-31,Ariel Powder 40g,Household,10,8.0,6.0,GCash,Ligas
+2025-10-31,Bear Brand 33g,Beverages,11,12.0,9.5,Cash,Caniogan
+2025-10-31,Nissin Cup Noodles,Noodles,6,25.0,20.0,Cash,Balite
+2025-10-31,Smart Load 50,Telecom,5,50.0,47.0,Cash,Ligas
+2025-10-31,Pepsi Mismo,Beverages,3,12.0,9.0,GCash,Sumapa
+2025-10-31,Smart Load 100,Telecom,1,100.0,95.0,GCash,Bangkal
+2025-10-31,Joy Dishwashing 40ml,Household,6,8.0,6.0,Cash,Malolos Centro
+2025-10-31,Ariel Powder 40g,Household,8,8.0,6.0,Cash,Ligas
+2025-10-31,Marlboro Lights per stick,Tobacco,7,8.0,6.5,Cash,Bangkal
+2025-10-31,Downy Sachet,Household,1,6.0,4.5,GCash,Sumapa
+2025-10-31,Yakult 5-pack,Beverages,12,48.0,40.0,Cash,Caniogan
+2025-10-31,Marlboro Lights per stick,Tobacco,11,8.0,6.5,Cash,Ligas
+2025-10-31,Smart Load 50,Telecom,3,50.0,47.0,GCash,Tikay
+2025-10-31,Bear Brand 33g,Beverages,2,12.0,9.5,Cash,Tikay
+2025-10-31,Downy Sachet,Household,5,6.0,4.5,GCash,Tikay
+2025-10-31,Joy Dishwashing 40ml,Household,15,8.0,6.0,Cash,Catmon
+2025-11-01,Red Horse Stallion,Beverages,4,30.0,24.0,Cash,Bangkal
+2025-11-01,Globe Load 50,Telecom,15,50.0,47.0,Cash,Balite
+2025-11-01,Kopiko Brown,Beverages,10,7.0,5.0,Cash,Caniogan
+2025-11-01,Smart Load 50,Telecom,2,50.0,47.0,Cash,Malolos Centro
+2025-11-01,Smart Load 50,Telecom,11,50.0,47.0,GCash,Catmon
+2025-11-01,Piattos Cheese,Snacks,15,15.0,11.5,Cash,Catmon
+2025-11-01,Smart Load 50,Telecom,11,50.0,47.0,Cash,Ligas
+2025-11-01,Oishi Prawn Crackers,Snacks,1,12.0,9.0,Cash,Tikay
+2025-11-01,Pepsi Mismo,Beverages,6,12.0,9.0,Cash,Caniogan
+2025-11-01,Coke Mismo,Beverages,6,15.0,11.0,Cash,Catmon
+2025-11-01,Piattos Cheese,Snacks,6,15.0,11.5,Cash,Balite
+2025-11-01,Ariel Powder 40g,Household,1,8.0,6.0,Cash,Caniogan
+2025-11-01,Kopiko Brown,Beverages,4,7.0,5.0,Cash,Tikay
+2025-11-01,Piattos Cheese,Snacks,13,15.0,11.5,Cash,Tikay
+2025-11-01,Tide Powder 40g,Household,7,7.0,5.5,Cash,Bangkal
+2025-11-01,Oishi Prawn Crackers,Snacks,8,12.0,9.0,Cash,Malolos Centro
+2025-11-01,Lucky Me Beef,Noodles,9,12.0,9.5,Cash,Balite
+2025-11-01,Lucky Me Pancit Canton,Noodles,15,12.0,9.5,Cash,Sumapa
+2025-11-01,Lucky Me Pancit Canton,Noodles,11,12.0,9.5,Cash,Sumapa
+2025-11-01,C2 Apple,Beverages,12,20.0,15.5,Cash,Ligas
+2025-11-01,Coke Mismo,Beverages,2,15.0,11.0,Cash,Ligas
+2025-11-01,RC Cola Mismo,Beverages,2,12.0,9.0,Cash,Ligas
+2025-11-02,Chippy BBQ,Snacks,12,12.0,9.0,GCash,Balite
+2025-11-02,Oishi Prawn Crackers,Snacks,15,12.0,9.0,Cash,Balite
+2025-11-02,Smart Load 100,Telecom,8,100.0,95.0,Cash,Sumapa
+2025-11-02,RC Cola Mismo,Beverages,15,12.0,9.0,Cash,Malolos Centro
+2025-11-02,C2 Apple,Beverages,4,20.0,15.5,Cash,Sumapa
+2025-11-02,Downy Sachet,Household,1,6.0,4.5,GCash,Tikay
+2025-11-02,Payless Noodles,Noodles,6,8.0,6.0,Cash,Bangkal
+2025-11-02,Smart Load 100,Telecom,11,100.0,95.0,Cash,Malolos Centro
+2025-11-02,Tide Powder 40g,Household,1,7.0,5.5,Cash,Malolos Centro
+2025-11-02,Lucky Me Beef,Noodles,12,12.0,9.5,Cash,Bangkal
+2025-11-02,Chippy BBQ,Snacks,7,12.0,9.0,Cash,Ligas
+2025-11-02,Piattos Cheese,Snacks,12,15.0,11.5,Cash,Sumapa
+2025-11-02,Safeguard Soap,Household,11,35.0,28.0,Cash,Ligas
+2025-11-02,Oishi Prawn Crackers,Snacks,11,12.0,9.0,Cash,Ligas
+2025-11-02,Tide Powder 40g,Household,10,7.0,5.5,Cash,Bangkal
+2025-11-02,Globe Load 100,Telecom,15,100.0,95.0,Cash,Catmon
+2025-11-02,Bear Brand 33g,Beverages,2,12.0,9.5,Cash,Caniogan
+2025-11-02,Pepsi Mismo,Beverages,10,12.0,9.0,Cash,Ligas
+2025-11-02,Globe Load 100,Telecom,9,100.0,95.0,Cash,Balite
+2025-11-02,Safeguard Soap,Household,7,35.0,28.0,Cash,Tikay
+2025-11-02,Lucky Me Beef,Noodles,9,12.0,9.5,Cash,Sumapa
+2025-11-02,Safeguard Soap,Household,15,35.0,28.0,Cash,Balite
+2025-11-02,C2 Apple,Beverages,1,20.0,15.5,Cash,Catmon
+2025-11-02,Marlboro Lights per stick,Tobacco,2,8.0,6.5,GCash,Caniogan
+2025-11-03,Nissin Cup Noodles,Noodles,13,25.0,20.0,GCash,Catmon
+2025-11-03,Downy Sachet,Household,12,6.0,4.5,Cash,Ligas
+2025-11-03,Ariel Powder 40g,Household,4,8.0,6.0,Cash,Ligas
+2025-11-03,Kopiko Brown,Beverages,8,7.0,5.0,Cash,Catmon
+2025-11-03,Globe Load 100,Telecom,3,100.0,95.0,Cash,Ligas
+2025-11-03,Red Horse Stallion,Beverages,13,30.0,24.0,Cash,Bangkal
+2025-11-03,Downy Sachet,Household,2,6.0,4.5,Cash,Malolos Centro
+2025-11-03,Lucky Me Pancit Canton,Noodles,14,12.0,9.5,Cash,Tikay
+2025-11-03,Yakult 5-pack,Beverages,6,48.0,40.0,Cash,Ligas
+2025-11-03,Smart Load 100,Telecom,12,100.0,95.0,Cash,Balite
+2025-11-04,Yakult 5-pack,Beverages,3,48.0,40.0,Cash,Bangkal
+2025-11-04,Boy Bawang,Snacks,8,10.0,7.5,Cash,Bangkal
+2025-11-04,Safeguard Soap,Household,14,35.0,28.0,Cash,Bangkal
+2025-11-04,Ariel Powder 40g,Household,15,8.0,6.0,Cash,Catmon
+2025-11-04,Coke Mismo,Beverages,12,15.0,11.0,Cash,Tikay
+2025-11-04,Payless Noodles,Noodles,7,8.0,6.0,GCash,Caniogan
+2025-11-04,Globe Load 50,Telecom,10,50.0,47.0,Cash,Tikay
+2025-11-04,Tide Powder 40g,Household,7,7.0,5.5,Cash,Malolos Centro
+2025-11-04,Smart Load 50,Telecom,11,50.0,47.0,Cash,Caniogan
+2025-11-04,Marlboro Lights per stick,Tobacco,8,8.0,6.5,Cash,Bangkal
+2025-11-04,Chippy BBQ,Snacks,1,12.0,9.0,Cash,Ligas
+2025-11-04,Ariel Powder 40g,Household,6,8.0,6.0,Cash,Sumapa
+2025-11-04,Joy Dishwashing 40ml,Household,14,8.0,6.0,Cash,Catmon
+2025-11-04,Oishi Prawn Crackers,Snacks,11,12.0,9.0,Cash,Caniogan
+2025-11-04,Red Horse Stallion,Beverages,11,30.0,24.0,Cash,Tikay
+2025-11-04,Globe Load 100,Telecom,14,100.0,95.0,GCash,Malolos Centro
+2025-11-04,Lucky Me Pancit Canton,Noodles,11,12.0,9.5,Cash,Caniogan
+2025-11-04,Smart Load 50,Telecom,8,50.0,47.0,Cash,Catmon
+2025-11-04,Palmolive Shampoo Sachet,Household,8,6.0,4.5,Cash,Sumapa
+2025-11-04,Yakult 5-pack,Beverages,5,48.0,40.0,Cash,Sumapa
+2025-11-04,Oishi Pillows,Snacks,11,10.0,7.5,Cash,Bangkal
+2025-11-05,C2 Apple,Beverages,2,20.0,15.5,Cash,Caniogan
+2025-11-05,Globe Load 50,Telecom,10,50.0,47.0,Cash,Catmon
+2025-11-05,Smart Load 50,Telecom,8,50.0,47.0,Cash,Balite
+2025-11-05,Payless Noodles,Noodles,8,8.0,6.0,Cash,Catmon
+2025-11-05,Boy Bawang,Snacks,7,10.0,7.5,Cash,Malolos Centro
+2025-11-05,Globe Load 100,Telecom,2,100.0,95.0,GCash,Ligas
+2025-11-05,Smart Load 100,Telecom,9,100.0,95.0,GCash,Sumapa
+2025-11-05,Ariel Powder 40g,Household,11,8.0,6.0,Cash,Balite
+2025-11-05,Red Horse Stallion,Beverages,14,30.0,24.0,Cash,Sumapa
+2025-11-05,Smart Load 50,Telecom,8,50.0,47.0,Cash,Caniogan
+2025-11-05,Safeguard Soap,Household,11,35.0,28.0,Cash,Caniogan
+2025-11-05,Payless Noodles,Noodles,2,8.0,6.0,Cash,Malolos Centro
+2025-11-05,Yakult 5-pack,Beverages,6,48.0,40.0,Cash,Balite
+2025-11-05,Safeguard Soap,Household,2,35.0,28.0,Cash,Tikay
+2025-11-05,Piattos Cheese,Snacks,3,15.0,11.5,Cash,Catmon
+2025-11-05,Kopiko Brown,Beverages,10,7.0,5.0,Cash,Sumapa
+2025-11-05,Payless Noodles,Noodles,15,8.0,6.0,Cash,Sumapa
+2025-11-05,Chippy BBQ,Snacks,14,12.0,9.0,Cash,Balite
+2025-11-05,Payless Noodles,Noodles,13,8.0,6.0,Cash,Malolos Centro
+2025-11-05,Marlboro Lights per stick,Tobacco,11,8.0,6.5,GCash,Catmon
+2025-11-05,Palmolive Shampoo Sachet,Household,15,6.0,4.5,Cash,Caniogan
+2025-11-06,Rebisco Crackers,Snacks,9,5.0,3.5,Cash,Caniogan
+2025-11-06,Lucky Me Pancit Canton,Noodles,9,12.0,9.5,Cash,Bangkal
+2025-11-06,Globe Load 100,Telecom,10,100.0,95.0,Cash,Tikay
+2025-11-06,Safeguard Soap,Household,10,35.0,28.0,Cash,Tikay
+2025-11-06,Payless Noodles,Noodles,7,8.0,6.0,GCash,Balite
+2025-11-06,Sky Flakes,Snacks,15,8.0,6.0,Cash,Bangkal
+2025-11-06,Tide Powder 40g,Household,15,7.0,5.5,Cash,Ligas
+2025-11-06,Boy Bawang,Snacks,6,10.0,7.5,Cash,Caniogan
+2025-11-06,Globe Load 50,Telecom,3,50.0,47.0,Cash,Bangkal
+2025-11-06,Tide Powder 40g,Household,12,7.0,5.5,GCash,Ligas
+2025-11-06,Globe Load 100,Telecom,12,100.0,95.0,GCash,Balite
+2025-11-06,Safeguard Soap,Household,12,35.0,28.0,GCash,Sumapa
+2025-11-06,Pepsi Mismo,Beverages,4,12.0,9.0,GCash,Ligas
+2025-11-06,Joy Dishwashing 40ml,Household,6,8.0,6.0,Cash,Tikay
+2025-11-06,Sky Flakes,Snacks,9,8.0,6.0,Cash,Catmon
+2025-11-06,Palmolive Shampoo Sachet,Household,6,6.0,4.5,GCash,Caniogan
+2025-11-06,Rebisco Crackers,Snacks,10,5.0,3.5,Cash,Ligas
+2025-11-06,Smart Load 100,Telecom,14,100.0,95.0,Cash,Malolos Centro
+2025-11-07,Payless Noodles,Noodles,1,8.0,6.0,Cash,Tikay
+2025-11-07,Lucky Me Beef,Noodles,11,12.0,9.5,Cash,Sumapa
+2025-11-07,Kopiko Brown,Beverages,13,7.0,5.0,Cash,Ligas
+2025-11-07,Joy Dishwashing 40ml,Household,5,8.0,6.0,Cash,Malolos Centro
+2025-11-07,Safeguard Soap,Household,13,35.0,28.0,Cash,Sumapa
+2025-11-07,Palmolive Shampoo Sachet,Household,9,6.0,4.5,Cash,Balite
+2025-11-07,Globe Load 100,Telecom,8,100.0,95.0,Cash,Sumapa
+2025-11-07,Downy Sachet,Household,11,6.0,4.5,GCash,Bangkal
+2025-11-07,C2 Apple,Beverages,9,20.0,15.5,Cash,Malolos Centro
+2025-11-07,Marlboro Lights per stick,Tobacco,7,8.0,6.5,Cash,Bangkal
+2025-11-07,Globe Load 50,Telecom,11,50.0,47.0,Cash,Malolos Centro
+2025-11-07,Lucky Me Pancit Canton,Noodles,12,12.0,9.5,Cash,Sumapa
+2025-11-07,Tide Powder 40g,Household,14,7.0,5.5,Cash,Sumapa
+2025-11-07,Marlboro Lights per stick,Tobacco,11,8.0,6.5,Cash,Sumapa
+2025-11-07,Palmolive Shampoo Sachet,Household,12,6.0,4.5,Cash,Ligas
+2025-11-07,Chippy BBQ,Snacks,3,12.0,9.0,Cash,Tikay
+2025-11-08,Downy Sachet,Household,9,6.0,4.5,Cash,Bangkal
+2025-11-08,Lucky Me Beef,Noodles,7,12.0,9.5,Cash,Ligas
+2025-11-08,Coke Mismo,Beverages,3,15.0,11.0,GCash,Ligas
+2025-11-08,Lucky Me Pancit Canton,Noodles,6,12.0,9.5,Cash,Tikay
+2025-11-08,Lucky Me Beef,Noodles,3,12.0,9.5,Cash,Malolos Centro
+2025-11-08,Palmolive Shampoo Sachet,Household,15,6.0,4.5,GCash,Ligas
+2025-11-08,Piattos Cheese,Snacks,13,15.0,11.5,GCash,Balite
+2025-11-08,Nissin Cup Noodles,Noodles,13,25.0,20.0,Cash,Sumapa
+2025-11-08,RC Cola Mismo,Beverages,9,12.0,9.0,Cash,Tikay
+2025-11-08,Oishi Prawn Crackers,Snacks,9,12.0,9.0,GCash,Bangkal
+2025-11-08,Nissin Cup Noodles,Noodles,6,25.0,20.0,Cash,Sumapa
+2025-11-08,Joy Dishwashing 40ml,Household,6,8.0,6.0,Cash,Balite
+2025-11-08,Bear Brand 33g,Beverages,4,12.0,9.5,GCash,Caniogan
+2025-11-08,Oishi Pillows,Snacks,14,10.0,7.5,Cash,Catmon
+2025-11-08,Joy Dishwashing 40ml,Household,6,8.0,6.0,Cash,Sumapa
+2025-11-08,Smart Load 100,Telecom,11,100.0,95.0,GCash,Sumapa
+2025-11-08,Lucky Me Beef,Noodles,11,12.0,9.5,Cash,Bangkal
+2025-11-08,Marlboro Lights per stick,Tobacco,13,8.0,6.5,Cash,Bangkal
+2025-11-08,Kopiko Brown,Beverages,9,7.0,5.0,Cash,Malolos Centro
+2025-11-08,Marlboro Lights per stick,Tobacco,9,8.0,6.5,Cash,Caniogan
+2025-11-09,Lucky Me Beef,Noodles,5,12.0,9.5,Cash,Balite
+2025-11-09,Sky Flakes,Snacks,2,8.0,6.0,Cash,Tikay
+2025-11-09,Palmolive Shampoo Sachet,Household,9,6.0,4.5,GCash,Malolos Centro
+2025-11-09,Ariel Powder 40g,Household,2,8.0,6.0,Cash,Sumapa
+2025-11-09,Smart Load 50,Telecom,11,50.0,47.0,Cash,Catmon
+2025-11-09,Pepsi Mismo,Beverages,9,12.0,9.0,Cash,Catmon
+2025-11-09,Downy Sachet,Household,11,6.0,4.5,Cash,Malolos Centro
+2025-11-09,Chippy BBQ,Snacks,12,12.0,9.0,Cash,Malolos Centro
+2025-11-09,Nissin Cup Noodles,Noodles,2,25.0,20.0,Cash,Tikay
+2025-11-09,Globe Load 50,Telecom,5,50.0,47.0,GCash,Catmon
+2025-11-09,Rebisco Crackers,Snacks,14,5.0,3.5,Cash,Ligas
+2025-11-09,Oishi Prawn Crackers,Snacks,7,12.0,9.0,Cash,Bangkal
+2025-11-09,Oishi Prawn Crackers,Snacks,6,12.0,9.0,Cash,Bangkal
+2025-11-09,Joy Dishwashing 40ml,Household,2,8.0,6.0,GCash,Malolos Centro
+2025-11-09,Ariel Powder 40g,Household,12,8.0,6.0,GCash,Catmon
+2025-11-09,Palmolive Shampoo Sachet,Household,12,6.0,4.5,GCash,Malolos Centro
+2025-11-09,Safeguard Soap,Household,14,35.0,28.0,Cash,Balite
+2025-11-09,Marlboro Lights per stick,Tobacco,9,8.0,6.5,Cash,Ligas
+2025-11-09,Globe Load 50,Telecom,11,50.0,47.0,Cash,Catmon
+2025-11-09,Bear Brand 33g,Beverages,13,12.0,9.5,Cash,Bangkal
+2025-11-09,Boy Bawang,Snacks,14,10.0,7.5,Cash,Caniogan
+2025-11-09,RC Cola Mismo,Beverages,9,12.0,9.0,Cash,Tikay
+2025-11-09,Downy Sachet,Household,7,6.0,4.5,GCash,Ligas
+2025-11-09,Ariel Powder 40g,Household,3,8.0,6.0,Cash,Balite
+2025-11-09,Lucky Me Pancit Canton,Noodles,9,12.0,9.5,GCash,Tikay
+2025-11-09,Payless Noodles,Noodles,1,8.0,6.0,Cash,Bangkal
+2025-11-09,Oishi Pillows,Snacks,9,10.0,7.5,Cash,Ligas
+2025-11-09,Pepsi Mismo,Beverages,12,12.0,9.0,Cash,Sumapa
+2025-11-09,Oishi Prawn Crackers,Snacks,15,12.0,9.0,GCash,Tikay
+2025-11-09,RC Cola Mismo,Beverages,3,12.0,9.0,Cash,Ligas
+2025-11-10,Payless Noodles,Noodles,3,8.0,6.0,GCash,Malolos Centro
+2025-11-10,Smart Load 50,Telecom,13,50.0,47.0,GCash,Caniogan
+2025-11-10,Ariel Powder 40g,Household,9,8.0,6.0,Cash,Ligas
+2025-11-10,Joy Dishwashing 40ml,Household,2,8.0,6.0,Cash,Catmon
+2025-11-10,Pepsi Mismo,Beverages,12,12.0,9.0,GCash,Caniogan
+2025-11-10,Yakult 5-pack,Beverages,6,48.0,40.0,Cash,Sumapa
+2025-11-10,Payless Noodles,Noodles,5,8.0,6.0,GCash,Catmon
+2025-11-10,Smart Load 100,Telecom,4,100.0,95.0,Cash,Caniogan
+2025-11-10,Chippy BBQ,Snacks,6,12.0,9.0,GCash,Ligas
+2025-11-10,Safeguard Soap,Household,10,35.0,28.0,Cash,Balite
+2025-11-10,Globe Load 50,Telecom,6,50.0,47.0,Cash,Tikay
+2025-11-11,Yakult 5-pack,Beverages,4,48.0,40.0,Cash,Bangkal
+2025-11-11,Kopiko Brown,Beverages,14,7.0,5.0,Cash,Tikay
+2025-11-11,Joy Dishwashing 40ml,Household,12,8.0,6.0,Cash,Caniogan
+2025-11-11,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Ligas
+2025-11-11,Piattos Cheese,Snacks,9,15.0,11.5,Cash,Tikay
+2025-11-11,Ariel Powder 40g,Household,10,8.0,6.0,Cash,Ligas
+2025-11-11,Smart Load 50,Telecom,14,50.0,47.0,Cash,Sumapa
+2025-11-11,Kopiko Brown,Beverages,12,7.0,5.0,Cash,Catmon
+2025-11-12,Lucky Me Pancit Canton,Noodles,14,12.0,9.5,GCash,Malolos Centro
+2025-11-12,Globe Load 100,Telecom,10,100.0,95.0,GCash,Bangkal
+2025-11-12,Palmolive Shampoo Sachet,Household,10,6.0,4.5,Cash,Malolos Centro
+2025-11-12,Oishi Pillows,Snacks,5,10.0,7.5,GCash,Caniogan
+2025-11-12,Ariel Powder 40g,Household,13,8.0,6.0,Cash,Balite
+2025-11-12,Boy Bawang,Snacks,4,10.0,7.5,GCash,Ligas
+2025-11-12,Coke Mismo,Beverages,8,15.0,11.0,GCash,Catmon
+2025-11-12,Boy Bawang,Snacks,6,10.0,7.5,GCash,Malolos Centro
+2025-11-12,Joy Dishwashing 40ml,Household,4,8.0,6.0,GCash,Tikay
+2025-11-12,Palmolive Shampoo Sachet,Household,9,6.0,4.5,Cash,Caniogan
+2025-11-12,RC Cola Mismo,Beverages,3,12.0,9.0,GCash,Tikay
+2025-11-12,Downy Sachet,Household,12,6.0,4.5,Cash,Balite
+2025-11-12,Lucky Me Beef,Noodles,4,12.0,9.5,Cash,Sumapa
+2025-11-12,Nissin Cup Noodles,Noodles,5,25.0,20.0,Cash,Sumapa
+2025-11-12,Lucky Me Beef,Noodles,11,12.0,9.5,Cash,Balite
+2025-11-12,Boy Bawang,Snacks,8,10.0,7.5,Cash,Malolos Centro
+2025-11-12,Lucky Me Beef,Noodles,11,12.0,9.5,Cash,Catmon
+2025-11-12,Safeguard Soap,Household,9,35.0,28.0,Cash,Ligas
+2025-11-12,Rebisco Crackers,Snacks,9,5.0,3.5,GCash,Tikay
+2025-11-12,Boy Bawang,Snacks,11,10.0,7.5,Cash,Balite
+2025-11-12,Rebisco Crackers,Snacks,11,5.0,3.5,Cash,Ligas
+2025-11-12,Boy Bawang,Snacks,15,10.0,7.5,Cash,Bangkal
+2025-11-13,Globe Load 100,Telecom,14,100.0,95.0,Cash,Caniogan
+2025-11-13,Globe Load 50,Telecom,8,50.0,47.0,GCash,Malolos Centro
+2025-11-13,Sky Flakes,Snacks,15,8.0,6.0,Cash,Caniogan
+2025-11-13,RC Cola Mismo,Beverages,4,12.0,9.0,Cash,Ligas
+2025-11-13,Pepsi Mismo,Beverages,3,12.0,9.0,Cash,Tikay
+2025-11-13,Red Horse Stallion,Beverages,10,30.0,24.0,Cash,Sumapa
+2025-11-13,Oishi Prawn Crackers,Snacks,13,12.0,9.0,Cash,Catmon
+2025-11-13,Piattos Cheese,Snacks,11,15.0,11.5,Cash,Caniogan
+2025-11-13,Pepsi Mismo,Beverages,10,12.0,9.0,Cash,Bangkal
+2025-11-13,Lucky Me Pancit Canton,Noodles,4,12.0,9.5,Cash,Tikay
+2025-11-13,Rebisco Crackers,Snacks,10,5.0,3.5,Cash,Tikay
+2025-11-13,Ariel Powder 40g,Household,9,8.0,6.0,Cash,Tikay
+2025-11-13,Lucky Me Beef,Noodles,3,12.0,9.5,Cash,Tikay
+2025-11-14,Boy Bawang,Snacks,10,10.0,7.5,GCash,Malolos Centro
+2025-11-14,Smart Load 100,Telecom,12,100.0,95.0,Cash,Catmon
+2025-11-14,Pepsi Mismo,Beverages,8,12.0,9.0,GCash,Caniogan
+2025-11-14,Smart Load 50,Telecom,8,50.0,47.0,Cash,Sumapa
+2025-11-14,Globe Load 100,Telecom,7,100.0,95.0,GCash,Tikay
+2025-11-14,Globe Load 50,Telecom,10,50.0,47.0,Cash,Ligas
+2025-11-14,RC Cola Mismo,Beverages,12,12.0,9.0,Cash,Caniogan
+2025-11-14,Tide Powder 40g,Household,10,7.0,5.5,Cash,Sumapa
+2025-11-14,Boy Bawang,Snacks,7,10.0,7.5,Cash,Catmon
+2025-11-14,Lucky Me Pancit Canton,Noodles,4,12.0,9.5,GCash,Bangkal
+2025-11-14,Globe Load 100,Telecom,3,100.0,95.0,GCash,Catmon
+2025-11-14,RC Cola Mismo,Beverages,8,12.0,9.0,GCash,Malolos Centro
+2025-11-14,Smart Load 100,Telecom,13,100.0,95.0,GCash,Catmon
+2025-11-14,Nissin Cup Noodles,Noodles,8,25.0,20.0,Cash,Malolos Centro
+2025-11-14,Smart Load 100,Telecom,13,100.0,95.0,Cash,Bangkal
+2025-11-14,Red Horse Stallion,Beverages,14,30.0,24.0,Cash,Bangkal
+2025-11-15,Globe Load 50,Telecom,8,50.0,47.0,Cash,Balite
+2025-11-15,Rebisco Crackers,Snacks,13,5.0,3.5,GCash,Catmon
+2025-11-15,Oishi Prawn Crackers,Snacks,3,12.0,9.0,Cash,Caniogan
+2025-11-15,Palmolive Shampoo Sachet,Household,4,6.0,4.5,Cash,Ligas
+2025-11-15,Tide Powder 40g,Household,15,7.0,5.5,GCash,Bangkal
+2025-11-15,Kopiko Brown,Beverages,4,7.0,5.0,Cash,Malolos Centro
+2025-11-15,Rebisco Crackers,Snacks,9,5.0,3.5,Cash,Malolos Centro
+2025-11-15,Boy Bawang,Snacks,11,10.0,7.5,Cash,Balite
+2025-11-15,Oishi Prawn Crackers,Snacks,6,12.0,9.0,Cash,Tikay
+2025-11-15,Oishi Prawn Crackers,Snacks,11,12.0,9.0,GCash,Ligas
+2025-11-15,Kopiko Brown,Beverages,14,7.0,5.0,GCash,Bangkal
+2025-11-15,Rebisco Crackers,Snacks,6,5.0,3.5,GCash,Ligas
+2025-11-15,Joy Dishwashing 40ml,Household,7,8.0,6.0,Cash,Bangkal
+2025-11-15,Oishi Pillows,Snacks,13,10.0,7.5,GCash,Caniogan
+2025-11-15,RC Cola Mismo,Beverages,6,12.0,9.0,GCash,Caniogan
+2025-11-15,Kopiko Brown,Beverages,5,7.0,5.0,GCash,Balite
+2025-11-15,Palmolive Shampoo Sachet,Household,12,6.0,4.5,Cash,Tikay
+2025-11-15,Smart Load 50,Telecom,14,50.0,47.0,Cash,Sumapa
+2025-11-15,Chippy BBQ,Snacks,13,12.0,9.0,Cash,Catmon
+2025-11-15,Pepsi Mismo,Beverages,9,12.0,9.0,Cash,Balite
+2025-11-15,Globe Load 50,Telecom,9,50.0,47.0,GCash,Malolos Centro
+2025-11-15,RC Cola Mismo,Beverages,7,12.0,9.0,Cash,Catmon
+2025-11-16,Piattos Cheese,Snacks,15,15.0,11.5,GCash,Bangkal
+2025-11-16,Nissin Cup Noodles,Noodles,2,25.0,20.0,Cash,Sumapa
+2025-11-16,Red Horse Stallion,Beverages,2,30.0,24.0,GCash,Malolos Centro
+2025-11-16,Downy Sachet,Household,7,6.0,4.5,Cash,Ligas
+2025-11-16,Safeguard Soap,Household,10,35.0,28.0,Cash,Tikay
+2025-11-16,Ariel Powder 40g,Household,8,8.0,6.0,Cash,Malolos Centro
+2025-11-16,Pepsi Mismo,Beverages,14,12.0,9.0,GCash,Ligas
+2025-11-16,Pepsi Mismo,Beverages,1,12.0,9.0,GCash,Sumapa
+2025-11-16,Tide Powder 40g,Household,3,7.0,5.5,Cash,Balite
+2025-11-16,C2 Apple,Beverages,11,20.0,15.5,Cash,Tikay
+2025-11-16,Nissin Cup Noodles,Noodles,5,25.0,20.0,Cash,Balite
+2025-11-16,Joy Dishwashing 40ml,Household,7,8.0,6.0,Cash,Sumapa
+2025-11-16,Sky Flakes,Snacks,1,8.0,6.0,Cash,Catmon
+2025-11-16,Oishi Pillows,Snacks,5,10.0,7.5,GCash,Balite
+2025-11-16,Red Horse Stallion,Beverages,14,30.0,24.0,Cash,Sumapa
+2025-11-16,Tide Powder 40g,Household,4,7.0,5.5,Cash,Bangkal
+2025-11-16,Rebisco Crackers,Snacks,1,5.0,3.5,Cash,Tikay
+2025-11-16,Oishi Prawn Crackers,Snacks,9,12.0,9.0,Cash,Catmon
+2025-11-16,Sky Flakes,Snacks,5,8.0,6.0,Cash,Catmon
+2025-11-17,Sky Flakes,Snacks,5,8.0,6.0,GCash,Ligas
+2025-11-17,Safeguard Soap,Household,8,35.0,28.0,Cash,Caniogan
+2025-11-17,Palmolive Shampoo Sachet,Household,4,6.0,4.5,Cash,Caniogan
+2025-11-17,Joy Dishwashing 40ml,Household,8,8.0,6.0,GCash,Malolos Centro
+2025-11-17,Piattos Cheese,Snacks,2,15.0,11.5,Cash,Catmon
+2025-11-17,Boy Bawang,Snacks,11,10.0,7.5,Cash,Sumapa
+2025-11-17,Globe Load 50,Telecom,6,50.0,47.0,Cash,Balite
+2025-11-17,Sky Flakes,Snacks,9,8.0,6.0,Cash,Ligas
+2025-11-17,C2 Apple,Beverages,5,20.0,15.5,Cash,Bangkal
+2025-11-17,Joy Dishwashing 40ml,Household,12,8.0,6.0,Cash,Catmon
+2025-11-17,Oishi Pillows,Snacks,15,10.0,7.5,Cash,Caniogan
+2025-11-17,Yakult 5-pack,Beverages,6,48.0,40.0,Cash,Ligas
+2025-11-17,RC Cola Mismo,Beverages,12,12.0,9.0,Cash,Caniogan
+2025-11-17,Downy Sachet,Household,4,6.0,4.5,Cash,Sumapa
+2025-11-17,Smart Load 50,Telecom,5,50.0,47.0,Cash,Sumapa
+2025-11-17,Pepsi Mismo,Beverages,14,12.0,9.0,Cash,Balite
+2025-11-17,Coke Mismo,Beverages,13,15.0,11.0,Cash,Catmon
+2025-11-17,Marlboro Lights per stick,Tobacco,2,8.0,6.5,Cash,Malolos Centro
+2025-11-17,Palmolive Shampoo Sachet,Household,14,6.0,4.5,GCash,Malolos Centro
+2025-11-17,Smart Load 50,Telecom,8,50.0,47.0,Cash,Balite
+2025-11-18,Smart Load 100,Telecom,15,100.0,95.0,GCash,Ligas
+2025-11-18,Piattos Cheese,Snacks,3,15.0,11.5,GCash,Ligas
+2025-11-18,Boy Bawang,Snacks,4,10.0,7.5,GCash,Tikay
+2025-11-18,Lucky Me Beef,Noodles,9,12.0,9.5,Cash,Caniogan
+2025-11-18,Oishi Pillows,Snacks,1,10.0,7.5,GCash,Balite
+2025-11-18,Boy Bawang,Snacks,14,10.0,7.5,Cash,Caniogan
+2025-11-18,Payless Noodles,Noodles,12,8.0,6.0,GCash,Caniogan
+2025-11-18,Yakult 5-pack,Beverages,12,48.0,40.0,Cash,Malolos Centro
+2025-11-18,Joy Dishwashing 40ml,Household,4,8.0,6.0,Cash,Catmon
+2025-11-18,Yakult 5-pack,Beverages,6,48.0,40.0,GCash,Ligas
+2025-11-18,RC Cola Mismo,Beverages,9,12.0,9.0,Cash,Sumapa
+2025-11-18,Kopiko Brown,Beverages,8,7.0,5.0,GCash,Balite
+2025-11-18,Red Horse Stallion,Beverages,3,30.0,24.0,Cash,Bangkal
+2025-11-18,Pepsi Mismo,Beverages,7,12.0,9.0,Cash,Balite
+2025-11-18,Smart Load 50,Telecom,7,50.0,47.0,Cash,Caniogan
+2025-11-19,Rebisco Crackers,Snacks,3,5.0,3.5,GCash,Sumapa
+2025-11-19,Globe Load 100,Telecom,2,100.0,95.0,Cash,Sumapa
+2025-11-19,Oishi Pillows,Snacks,7,10.0,7.5,Cash,Sumapa
+2025-11-19,Coke Mismo,Beverages,13,15.0,11.0,Cash,Caniogan
+2025-11-19,Globe Load 50,Telecom,1,50.0,47.0,Cash,Bangkal
+2025-11-19,Piattos Cheese,Snacks,3,15.0,11.5,GCash,Balite
+2025-11-19,Globe Load 50,Telecom,8,50.0,47.0,Cash,Ligas
+2025-11-19,Oishi Pillows,Snacks,14,10.0,7.5,GCash,Malolos Centro
+2025-11-19,Boy Bawang,Snacks,2,10.0,7.5,Cash,Malolos Centro
+2025-11-19,Pepsi Mismo,Beverages,14,12.0,9.0,Cash,Caniogan
+2025-11-20,Ariel Powder 40g,Household,2,8.0,6.0,Cash,Balite
+2025-11-20,Kopiko Brown,Beverages,6,7.0,5.0,Cash,Ligas
+2025-11-20,Red Horse Stallion,Beverages,1,30.0,24.0,Cash,Catmon
+2025-11-20,Red Horse Stallion,Beverages,14,30.0,24.0,GCash,Sumapa
+2025-11-20,Rebisco Crackers,Snacks,10,5.0,3.5,GCash,Tikay
+2025-11-20,Palmolive Shampoo Sachet,Household,5,6.0,4.5,Cash,Balite
+2025-11-20,Joy Dishwashing 40ml,Household,9,8.0,6.0,Cash,Caniogan
+2025-11-20,Smart Load 100,Telecom,2,100.0,95.0,Cash,Ligas
+2025-11-20,Chippy BBQ,Snacks,11,12.0,9.0,Cash,Tikay
+2025-11-20,Ariel Powder 40g,Household,13,8.0,6.0,Cash,Bangkal
+2025-11-20,Ariel Powder 40g,Household,10,8.0,6.0,GCash,Bangkal
+2025-11-20,Smart Load 50,Telecom,15,50.0,47.0,Cash,Catmon
+2025-11-20,RC Cola Mismo,Beverages,6,12.0,9.0,Cash,Balite
+2025-11-20,Yakult 5-pack,Beverages,11,48.0,40.0,Cash,Ligas
+2025-11-20,Tide Powder 40g,Household,11,7.0,5.5,Cash,Ligas
+2025-11-20,Smart Load 100,Telecom,8,100.0,95.0,Cash,Caniogan
+2025-11-20,Oishi Prawn Crackers,Snacks,3,12.0,9.0,Cash,Malolos Centro
+2025-11-20,Coke Mismo,Beverages,12,15.0,11.0,Cash,Ligas
+2025-11-20,Downy Sachet,Household,12,6.0,4.5,Cash,Sumapa
+2025-11-20,RC Cola Mismo,Beverages,7,12.0,9.0,Cash,Catmon
+2025-11-20,Nissin Cup Noodles,Noodles,15,25.0,20.0,Cash,Malolos Centro
+2025-11-21,Palmolive Shampoo Sachet,Household,7,6.0,4.5,GCash,Catmon
+2025-11-21,Payless Noodles,Noodles,5,8.0,6.0,GCash,Tikay
+2025-11-21,Nissin Cup Noodles,Noodles,11,25.0,20.0,Cash,Ligas
+2025-11-21,C2 Apple,Beverages,4,20.0,15.5,Cash,Caniogan
+2025-11-21,Ariel Powder 40g,Household,3,8.0,6.0,Cash,Tikay
+2025-11-21,Lucky Me Pancit Canton,Noodles,1,12.0,9.5,Cash,Balite
+2025-11-21,Smart Load 50,Telecom,8,50.0,47.0,Cash,Ligas
+2025-11-21,Oishi Pillows,Snacks,8,10.0,7.5,Cash,Tikay
+2025-11-22,Tide Powder 40g,Household,8,7.0,5.5,GCash,Bangkal
+2025-11-22,Sky Flakes,Snacks,11,8.0,6.0,GCash,Ligas
+2025-11-22,Marlboro Lights per stick,Tobacco,6,8.0,6.5,Cash,Sumapa
+2025-11-22,Globe Load 50,Telecom,2,50.0,47.0,Cash,Ligas
+2025-11-22,Red Horse Stallion,Beverages,7,30.0,24.0,Cash,Tikay
+2025-11-22,Bear Brand 33g,Beverages,1,12.0,9.5,Cash,Tikay
+2025-11-22,Red Horse Stallion,Beverages,5,30.0,24.0,Cash,Malolos Centro
+2025-11-22,Safeguard Soap,Household,15,35.0,28.0,Cash,Caniogan
+2025-11-22,Bear Brand 33g,Beverages,1,12.0,9.5,Cash,Ligas
+2025-11-22,Tide Powder 40g,Household,4,7.0,5.5,Cash,Balite
+2025-11-22,Pepsi Mismo,Beverages,7,12.0,9.0,GCash,Bangkal
+2025-11-22,Boy Bawang,Snacks,4,10.0,7.5,Cash,Bangkal
+2025-11-22,Globe Load 100,Telecom,7,100.0,95.0,Cash,Ligas
+2025-11-22,Nissin Cup Noodles,Noodles,7,25.0,20.0,Cash,Ligas
+2025-11-22,Bear Brand 33g,Beverages,11,12.0,9.5,GCash,Ligas
+2025-11-22,Oishi Prawn Crackers,Snacks,4,12.0,9.0,Cash,Tikay
+2025-11-22,Coke Mismo,Beverages,5,15.0,11.0,Cash,Caniogan
+2025-11-22,Tide Powder 40g,Household,8,7.0,5.5,Cash,Caniogan
+2025-11-22,Pepsi Mismo,Beverages,6,12.0,9.0,Cash,Tikay
+2025-11-22,Lucky Me Beef,Noodles,9,12.0,9.5,Cash,Tikay
+2025-11-22,Payless Noodles,Noodles,5,8.0,6.0,Cash,Tikay
+2025-11-22,Safeguard Soap,Household,8,35.0,28.0,Cash,Sumapa
+2025-11-22,Nissin Cup Noodles,Noodles,3,25.0,20.0,Cash,Caniogan
+2025-11-22,Pepsi Mismo,Beverages,6,12.0,9.0,Cash,Ligas
+2025-11-22,Globe Load 50,Telecom,13,50.0,47.0,Cash,Balite
+2025-11-22,Chippy BBQ,Snacks,12,12.0,9.0,Cash,Balite
+2025-11-22,Nissin Cup Noodles,Noodles,14,25.0,20.0,Cash,Malolos Centro
+2025-11-22,Kopiko Brown,Beverages,13,7.0,5.0,Cash,Catmon
+2025-11-22,Oishi Pillows,Snacks,8,10.0,7.5,Cash,Sumapa
+2025-11-22,Smart Load 100,Telecom,14,100.0,95.0,Cash,Bangkal
+2025-11-22,Globe Load 100,Telecom,1,100.0,95.0,Cash,Sumapa
+2025-11-22,Boy Bawang,Snacks,13,10.0,7.5,Cash,Sumapa
+2025-11-22,Downy Sachet,Household,1,6.0,4.5,Cash,Caniogan
+2025-11-23,Sky Flakes,Snacks,11,8.0,6.0,Cash,Caniogan
+2025-11-23,Boy Bawang,Snacks,11,10.0,7.5,Cash,Balite
+2025-11-23,RC Cola Mismo,Beverages,11,12.0,9.0,Cash,Catmon
+2025-11-23,Kopiko Brown,Beverages,8,7.0,5.0,Cash,Sumapa
+2025-11-23,Red Horse Stallion,Beverages,15,30.0,24.0,Cash,Sumapa
+2025-11-23,Payless Noodles,Noodles,4,8.0,6.0,Cash,Balite
+2025-11-23,Lucky Me Pancit Canton,Noodles,3,12.0,9.5,Cash,Catmon
+2025-11-23,Boy Bawang,Snacks,13,10.0,7.5,Cash,Malolos Centro
+2025-11-23,Lucky Me Beef,Noodles,10,12.0,9.5,Cash,Tikay
+2025-11-23,Red Horse Stallion,Beverages,13,30.0,24.0,Cash,Sumapa
+2025-11-23,RC Cola Mismo,Beverages,8,12.0,9.0,Cash,Balite
+2025-11-23,Marlboro Lights per stick,Tobacco,13,8.0,6.5,Cash,Malolos Centro
+2025-11-23,Red Horse Stallion,Beverages,11,30.0,24.0,Cash,Catmon
+2025-11-23,Coke Mismo,Beverages,8,15.0,11.0,Cash,Balite
+2025-11-23,Oishi Pillows,Snacks,13,10.0,7.5,Cash,Caniogan
+2025-11-23,Downy Sachet,Household,4,6.0,4.5,Cash,Bangkal
+2025-11-23,Red Horse Stallion,Beverages,12,30.0,24.0,Cash,Ligas
+2025-11-23,Smart Load 100,Telecom,1,100.0,95.0,Cash,Caniogan
+2025-11-24,Bear Brand 33g,Beverages,9,12.0,9.5,Cash,Sumapa
+2025-11-24,Rebisco Crackers,Snacks,3,5.0,3.5,GCash,Balite
+2025-11-24,Yakult 5-pack,Beverages,12,48.0,40.0,Cash,Ligas
+2025-11-24,Smart Load 50,Telecom,14,50.0,47.0,GCash,Tikay
+2025-11-24,Nissin Cup Noodles,Noodles,9,25.0,20.0,Cash,Caniogan
+2025-11-24,Bear Brand 33g,Beverages,14,12.0,9.5,Cash,Balite
+2025-11-24,Chippy BBQ,Snacks,1,12.0,9.0,GCash,Bangkal
+2025-11-24,Downy Sachet,Household,3,6.0,4.5,Cash,Balite
+2025-11-24,Palmolive Shampoo Sachet,Household,10,6.0,4.5,Cash,Balite
+2025-11-24,Downy Sachet,Household,2,6.0,4.5,GCash,Bangkal
+2025-11-24,Pepsi Mismo,Beverages,9,12.0,9.0,Cash,Tikay
+2025-11-24,Tide Powder 40g,Household,5,7.0,5.5,Cash,Bangkal
+2025-11-24,Ariel Powder 40g,Household,6,8.0,6.0,Cash,Catmon
+2025-11-24,Sky Flakes,Snacks,11,8.0,6.0,Cash,Malolos Centro
+2025-11-24,Globe Load 100,Telecom,3,100.0,95.0,Cash,Malolos Centro
+2025-11-24,Pepsi Mismo,Beverages,2,12.0,9.0,Cash,Sumapa
+2025-11-25,Lucky Me Beef,Noodles,10,12.0,9.5,Cash,Caniogan
+2025-11-25,Sky Flakes,Snacks,10,8.0,6.0,GCash,Ligas
+2025-11-25,Lucky Me Beef,Noodles,6,12.0,9.5,Cash,Catmon
+2025-11-25,Lucky Me Pancit Canton,Noodles,15,12.0,9.5,Cash,Caniogan
+2025-11-25,Marlboro Lights per stick,Tobacco,15,8.0,6.5,Cash,Caniogan
+2025-11-25,Globe Load 50,Telecom,11,50.0,47.0,Cash,Balite
+2025-11-25,Oishi Pillows,Snacks,12,10.0,7.5,Cash,Balite
+2025-11-25,Globe Load 50,Telecom,12,50.0,47.0,Cash,Ligas
+2025-11-25,Sky Flakes,Snacks,1,8.0,6.0,Cash,Ligas
+2025-11-26,Pepsi Mismo,Beverages,9,12.0,9.0,Cash,Catmon
+2025-11-26,Downy Sachet,Household,4,6.0,4.5,GCash,Bangkal
+2025-11-26,Pepsi Mismo,Beverages,4,12.0,9.0,GCash,Sumapa
+2025-11-26,Rebisco Crackers,Snacks,11,5.0,3.5,Cash,Bangkal
+2025-11-26,Downy Sachet,Household,2,6.0,4.5,GCash,Balite
+2025-11-26,Joy Dishwashing 40ml,Household,8,8.0,6.0,Cash,Catmon
+2025-11-26,RC Cola Mismo,Beverages,13,12.0,9.0,Cash,Bangkal
+2025-11-26,Sky Flakes,Snacks,6,8.0,6.0,Cash,Caniogan
+2025-11-26,Marlboro Lights per stick,Tobacco,6,8.0,6.5,Cash,Balite
+2025-11-27,Red Horse Stallion,Beverages,7,30.0,24.0,Cash,Balite
+2025-11-27,Tide Powder 40g,Household,4,7.0,5.5,GCash,Sumapa
+2025-11-27,Boy Bawang,Snacks,13,10.0,7.5,GCash,Ligas
+2025-11-27,Red Horse Stallion,Beverages,8,30.0,24.0,Cash,Bangkal
+2025-11-27,Lucky Me Pancit Canton,Noodles,12,12.0,9.5,Cash,Ligas
+2025-11-27,Tide Powder 40g,Household,1,7.0,5.5,GCash,Tikay
+2025-11-27,Smart Load 100,Telecom,5,100.0,95.0,Cash,Ligas
+2025-11-27,C2 Apple,Beverages,4,20.0,15.5,Cash,Malolos Centro
+2025-11-27,Palmolive Shampoo Sachet,Household,14,6.0,4.5,Cash,Tikay
+2025-11-27,Payless Noodles,Noodles,1,8.0,6.0,Cash,Balite
+2025-11-27,Coke Mismo,Beverages,3,15.0,11.0,Cash,Balite
+2025-11-27,Smart Load 100,Telecom,10,100.0,95.0,Cash,Sumapa
+2025-11-27,Kopiko Brown,Beverages,13,7.0,5.0,Cash,Catmon
+2025-11-27,Rebisco Crackers,Snacks,7,5.0,3.5,GCash,Sumapa
+2025-11-27,Downy Sachet,Household,2,6.0,4.5,Cash,Caniogan
+2025-11-27,RC Cola Mismo,Beverages,8,12.0,9.0,GCash,Catmon
+2025-11-27,Tide Powder 40g,Household,11,7.0,5.5,Cash,Malolos Centro
+2025-11-27,Downy Sachet,Household,13,6.0,4.5,GCash,Bangkal
+2025-11-27,Nissin Cup Noodles,Noodles,13,25.0,20.0,Cash,Balite
+2025-11-27,Red Horse Stallion,Beverages,15,30.0,24.0,Cash,Bangkal
+2025-11-27,Marlboro Lights per stick,Tobacco,14,8.0,6.5,Cash,Sumapa
+2025-11-28,Ariel Powder 40g,Household,14,8.0,6.0,GCash,Malolos Centro
+2025-11-28,Ariel Powder 40g,Household,13,8.0,6.0,Cash,Malolos Centro
+2025-11-28,Bear Brand 33g,Beverages,9,12.0,9.5,Cash,Balite
+2025-11-28,Oishi Pillows,Snacks,10,10.0,7.5,Cash,Balite
+2025-11-28,Sky Flakes,Snacks,12,8.0,6.0,Cash,Tikay
+2025-11-28,Lucky Me Beef,Noodles,11,12.0,9.5,Cash,Caniogan
+2025-11-28,Palmolive Shampoo Sachet,Household,10,6.0,4.5,GCash,Catmon
+2025-11-28,C2 Apple,Beverages,7,20.0,15.5,Cash,Bangkal
+2025-11-28,Coke Mismo,Beverages,3,15.0,11.0,Cash,Catmon
+2025-11-28,Piattos Cheese,Snacks,10,15.0,11.5,Cash,Bangkal
+2025-11-28,Kopiko Brown,Beverages,2,7.0,5.0,Cash,Bangkal
+2025-11-28,Palmolive Shampoo Sachet,Household,12,6.0,4.5,Cash,Tikay
+2025-11-28,Piattos Cheese,Snacks,9,15.0,11.5,Cash,Caniogan
+2025-11-28,Boy Bawang,Snacks,11,10.0,7.5,GCash,Sumapa
+2025-11-28,Oishi Pillows,Snacks,10,10.0,7.5,GCash,Sumapa
+2025-11-28,C2 Apple,Beverages,2,20.0,15.5,Cash,Bangkal
+2025-11-28,Yakult 5-pack,Beverages,11,48.0,40.0,GCash,Catmon
+2025-11-28,Payless Noodles,Noodles,11,8.0,6.0,Cash,Bangkal
+2025-11-28,Red Horse Stallion,Beverages,6,30.0,24.0,Cash,Balite
+2025-11-29,Tide Powder 40g,Household,11,7.0,5.5,Cash,Ligas
+2025-11-29,RC Cola Mismo,Beverages,6,12.0,9.0,GCash,Caniogan
+2025-11-29,Tide Powder 40g,Household,3,7.0,5.5,Cash,Malolos Centro
+2025-11-29,Marlboro Lights per stick,Tobacco,14,8.0,6.5,Cash,Sumapa
+2025-11-29,Joy Dishwashing 40ml,Household,6,8.0,6.0,Cash,Catmon
+2025-11-29,Payless Noodles,Noodles,12,8.0,6.0,Cash,Sumapa
+2025-11-29,Tide Powder 40g,Household,15,7.0,5.5,Cash,Ligas
+2025-11-29,Lucky Me Pancit Canton,Noodles,6,12.0,9.5,Cash,Ligas
+2025-11-29,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Balite
+2025-11-29,Pepsi Mismo,Beverages,12,12.0,9.0,GCash,Sumapa
+2025-11-29,Pepsi Mismo,Beverages,9,12.0,9.0,GCash,Ligas
+2025-11-29,Oishi Pillows,Snacks,8,10.0,7.5,GCash,Tikay
+2025-11-29,Safeguard Soap,Household,12,35.0,28.0,Cash,Bangkal
+2025-11-29,Rebisco Crackers,Snacks,15,5.0,3.5,GCash,Malolos Centro
+2025-11-29,Kopiko Brown,Beverages,3,7.0,5.0,Cash,Ligas
+2025-11-29,Pepsi Mismo,Beverages,13,12.0,9.0,GCash,Ligas
+2025-11-29,Lucky Me Beef,Noodles,8,12.0,9.5,Cash,Catmon
+2025-11-29,Boy Bawang,Snacks,11,10.0,7.5,Cash,Balite
+2025-11-29,Smart Load 50,Telecom,2,50.0,47.0,Cash,Ligas
+2025-11-29,Smart Load 50,Telecom,15,50.0,47.0,Cash,Sumapa
+2025-11-29,Boy Bawang,Snacks,9,10.0,7.5,Cash,Balite
+2025-11-29,Piattos Cheese,Snacks,14,15.0,11.5,GCash,Catmon
+2025-11-29,RC Cola Mismo,Beverages,4,12.0,9.0,GCash,Caniogan
+2025-11-29,Oishi Pillows,Snacks,15,10.0,7.5,Cash,Malolos Centro
+2025-11-29,C2 Apple,Beverages,15,20.0,15.5,GCash,Ligas
+2025-11-29,Yakult 5-pack,Beverages,8,48.0,40.0,Cash,Tikay
+2025-11-30,Red Horse Stallion,Beverages,11,30.0,24.0,Cash,Balite
+2025-11-30,Ariel Powder 40g,Household,5,8.0,6.0,Cash,Ligas
+2025-11-30,Globe Load 50,Telecom,1,50.0,47.0,Cash,Bangkal
+2025-11-30,Smart Load 100,Telecom,14,100.0,95.0,Cash,Ligas
+2025-11-30,C2 Apple,Beverages,3,20.0,15.5,Cash,Bangkal
+2025-11-30,Joy Dishwashing 40ml,Household,3,8.0,6.0,Cash,Bangkal
+2025-11-30,Sky Flakes,Snacks,11,8.0,6.0,GCash,Sumapa
+2025-11-30,Oishi Prawn Crackers,Snacks,4,12.0,9.0,GCash,Tikay
+2025-11-30,Oishi Prawn Crackers,Snacks,5,12.0,9.0,GCash,Balite
+2025-11-30,Chippy BBQ,Snacks,9,12.0,9.0,Cash,Sumapa
+2025-11-30,Ariel Powder 40g,Household,3,8.0,6.0,GCash,Sumapa
+2025-11-30,Smart Load 50,Telecom,3,50.0,47.0,Cash,Tikay
+2025-11-30,Oishi Prawn Crackers,Snacks,15,12.0,9.0,Cash,Tikay
+2025-11-30,Yakult 5-pack,Beverages,2,48.0,40.0,GCash,Catmon
+2025-11-30,RC Cola Mismo,Beverages,6,12.0,9.0,Cash,Malolos Centro
+2025-12-01,Yakult 5-pack,Beverages,15,48.0,40.0,Cash,Bangkal
+2025-12-01,Bear Brand 33g,Beverages,8,12.0,9.5,Cash,Tikay
+2025-12-01,Palmolive Shampoo Sachet,Household,4,6.0,4.5,Cash,Tikay
+2025-12-01,RC Cola Mismo,Beverages,1,12.0,9.0,GCash,Ligas
+2025-12-01,Tide Powder 40g,Household,10,7.0,5.5,GCash,Sumapa
+2025-12-01,Tide Powder 40g,Household,4,7.0,5.5,Cash,Malolos Centro
+2025-12-01,Red Horse Stallion,Beverages,2,30.0,24.0,Cash,Tikay
+2025-12-01,Sky Flakes,Snacks,14,8.0,6.0,GCash,Caniogan
+2025-12-01,Safeguard Soap,Household,11,35.0,28.0,Cash,Tikay
+2025-12-01,Smart Load 50,Telecom,7,50.0,47.0,Cash,Caniogan
+2025-12-01,Coke Mismo,Beverages,3,15.0,11.0,Cash,Sumapa
+2025-12-01,Lucky Me Beef,Noodles,7,12.0,9.5,Cash,Ligas
+2025-12-01,Oishi Prawn Crackers,Snacks,4,12.0,9.0,Cash,Sumapa
+2025-12-01,Nissin Cup Noodles,Noodles,3,25.0,20.0,Cash,Caniogan
+2025-12-01,Safeguard Soap,Household,6,35.0,28.0,Cash,Sumapa
+2025-12-01,Oishi Prawn Crackers,Snacks,7,12.0,9.0,Cash,Bangkal
+2025-12-01,Downy Sachet,Household,6,6.0,4.5,Cash,Malolos Centro
+2025-12-01,Sky Flakes,Snacks,2,8.0,6.0,Cash,Caniogan
+2025-12-01,Globe Load 100,Telecom,15,100.0,95.0,Cash,Sumapa
+2025-12-01,Sky Flakes,Snacks,9,8.0,6.0,Cash,Malolos Centro
+2025-12-02,Boy Bawang,Snacks,9,10.0,7.5,Cash,Sumapa
+2025-12-02,Bear Brand 33g,Beverages,8,12.0,9.5,Cash,Ligas
+2025-12-02,Palmolive Shampoo Sachet,Household,14,6.0,4.5,Cash,Caniogan
+2025-12-02,RC Cola Mismo,Beverages,7,12.0,9.0,Cash,Malolos Centro
+2025-12-02,Safeguard Soap,Household,9,35.0,28.0,Cash,Caniogan
+2025-12-02,Globe Load 100,Telecom,11,100.0,95.0,Cash,Catmon
+2025-12-02,Downy Sachet,Household,9,6.0,4.5,Cash,Tikay
+2025-12-02,Palmolive Shampoo Sachet,Household,10,6.0,4.5,GCash,Tikay
+2025-12-02,Boy Bawang,Snacks,7,10.0,7.5,Cash,Caniogan
+2025-12-02,Lucky Me Pancit Canton,Noodles,3,12.0,9.5,Cash,Sumapa
+2025-12-02,Smart Load 100,Telecom,8,100.0,95.0,Cash,Ligas
+2025-12-02,Yakult 5-pack,Beverages,12,48.0,40.0,Cash,Catmon
+2025-12-02,Nissin Cup Noodles,Noodles,2,25.0,20.0,Cash,Balite
+2025-12-02,Nissin Cup Noodles,Noodles,9,25.0,20.0,Cash,Tikay
+2025-12-02,Boy Bawang,Snacks,9,10.0,7.5,Cash,Malolos Centro
+2025-12-02,Palmolive Shampoo Sachet,Household,3,6.0,4.5,Cash,Tikay
+2025-12-03,Smart Load 50,Telecom,3,50.0,47.0,Cash,Malolos Centro
+2025-12-03,Oishi Prawn Crackers,Snacks,5,12.0,9.0,Cash,Caniogan
+2025-12-03,Bear Brand 33g,Beverages,11,12.0,9.5,Cash,Catmon
+2025-12-03,Smart Load 100,Telecom,3,100.0,95.0,Cash,Malolos Centro
+2025-12-03,Tide Powder 40g,Household,13,7.0,5.5,Cash,Malolos Centro
+2025-12-03,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Malolos Centro
+2025-12-03,Tide Powder 40g,Household,15,7.0,5.5,Cash,Sumapa
+2025-12-03,Pepsi Mismo,Beverages,10,12.0,9.0,Cash,Caniogan
+2025-12-03,Oishi Prawn Crackers,Snacks,8,12.0,9.0,Cash,Malolos Centro
+2025-12-03,C2 Apple,Beverages,15,20.0,15.5,GCash,Ligas
+2025-12-04,Ariel Powder 40g,Household,9,8.0,6.0,Cash,Malolos Centro
+2025-12-04,RC Cola Mismo,Beverages,3,12.0,9.0,Cash,Balite
+2025-12-04,Lucky Me Beef,Noodles,3,12.0,9.5,Cash,Ligas
+2025-12-04,Yakult 5-pack,Beverages,15,48.0,40.0,Cash,Malolos Centro
+2025-12-04,Payless Noodles,Noodles,7,8.0,6.0,Cash,Tikay
+2025-12-04,Joy Dishwashing 40ml,Household,5,8.0,6.0,GCash,Tikay
+2025-12-04,Chippy BBQ,Snacks,12,12.0,9.0,GCash,Balite
+2025-12-04,Marlboro Lights per stick,Tobacco,1,8.0,6.5,Cash,Ligas
+2025-12-04,Yakult 5-pack,Beverages,6,48.0,40.0,Cash,Catmon
+2025-12-04,Palmolive Shampoo Sachet,Household,7,6.0,4.5,GCash,Catmon
+2025-12-04,Bear Brand 33g,Beverages,8,12.0,9.5,Cash,Catmon
+2025-12-04,Safeguard Soap,Household,14,35.0,28.0,Cash,Balite
+2025-12-04,Sky Flakes,Snacks,7,8.0,6.0,GCash,Sumapa
+2025-12-04,Safeguard Soap,Household,4,35.0,28.0,GCash,Malolos Centro
+2025-12-04,Payless Noodles,Noodles,10,8.0,6.0,GCash,Catmon
+2025-12-04,Piattos Cheese,Snacks,12,15.0,11.5,GCash,Ligas
+2025-12-04,Oishi Prawn Crackers,Snacks,10,12.0,9.0,Cash,Ligas
+2025-12-05,Rebisco Crackers,Snacks,10,5.0,3.5,Cash,Tikay
+2025-12-05,Tide Powder 40g,Household,10,7.0,5.5,Cash,Caniogan
+2025-12-05,Piattos Cheese,Snacks,13,15.0,11.5,Cash,Sumapa
+2025-12-05,Safeguard Soap,Household,5,35.0,28.0,Cash,Malolos Centro
+2025-12-05,Payless Noodles,Noodles,1,8.0,6.0,Cash,Catmon
+2025-12-05,Downy Sachet,Household,14,6.0,4.5,Cash,Bangkal
+2025-12-05,Oishi Prawn Crackers,Snacks,1,12.0,9.0,Cash,Balite
+2025-12-05,Oishi Pillows,Snacks,13,10.0,7.5,Cash,Malolos Centro
+2025-12-05,Ariel Powder 40g,Household,4,8.0,6.0,Cash,Ligas
+2025-12-05,Globe Load 50,Telecom,2,50.0,47.0,Cash,Ligas
+2025-12-05,Sky Flakes,Snacks,9,8.0,6.0,Cash,Malolos Centro
+2025-12-05,Payless Noodles,Noodles,11,8.0,6.0,Cash,Balite
+2025-12-05,Boy Bawang,Snacks,12,10.0,7.5,GCash,Malolos Centro
+2025-12-05,Globe Load 100,Telecom,3,100.0,95.0,Cash,Balite
+2025-12-05,Globe Load 100,Telecom,6,100.0,95.0,Cash,Caniogan
+2025-12-05,Globe Load 50,Telecom,1,50.0,47.0,Cash,Caniogan
+2025-12-06,Ariel Powder 40g,Household,8,8.0,6.0,GCash,Balite
+2025-12-06,Chippy BBQ,Snacks,13,12.0,9.0,Cash,Malolos Centro
+2025-12-06,Globe Load 100,Telecom,9,100.0,95.0,Cash,Balite
+2025-12-06,Oishi Pillows,Snacks,9,10.0,7.5,Cash,Sumapa
+2025-12-06,Rebisco Crackers,Snacks,11,5.0,3.5,Cash,Balite
+2025-12-06,Nissin Cup Noodles,Noodles,3,25.0,20.0,Cash,Malolos Centro
+2025-12-06,Yakult 5-pack,Beverages,7,48.0,40.0,GCash,Tikay
+2025-12-06,Rebisco Crackers,Snacks,10,5.0,3.5,Cash,Tikay
+2025-12-06,Tide Powder 40g,Household,2,7.0,5.5,Cash,Balite
+2025-12-06,Safeguard Soap,Household,1,35.0,28.0,Cash,Bangkal
+2025-12-06,Nissin Cup Noodles,Noodles,8,25.0,20.0,Cash,Balite
+2025-12-06,Chippy BBQ,Snacks,14,12.0,9.0,Cash,Sumapa
+2025-12-06,Sky Flakes,Snacks,5,8.0,6.0,Cash,Catmon
+2025-12-06,Red Horse Stallion,Beverages,13,30.0,24.0,Cash,Sumapa
+2025-12-06,Marlboro Lights per stick,Tobacco,2,8.0,6.5,Cash,Malolos Centro
+2025-12-06,Globe Load 50,Telecom,8,50.0,47.0,GCash,Tikay
+2025-12-06,Pepsi Mismo,Beverages,6,12.0,9.0,Cash,Ligas
+2025-12-06,Palmolive Shampoo Sachet,Household,6,6.0,4.5,Cash,Catmon
+2025-12-06,Globe Load 100,Telecom,9,100.0,95.0,Cash,Sumapa
+2025-12-07,Chippy BBQ,Snacks,7,12.0,9.0,GCash,Catmon
+2025-12-07,Lucky Me Pancit Canton,Noodles,5,12.0,9.5,Cash,Catmon
+2025-12-07,Yakult 5-pack,Beverages,8,48.0,40.0,Cash,Catmon
+2025-12-07,Sky Flakes,Snacks,13,8.0,6.0,Cash,Malolos Centro
+2025-12-07,Rebisco Crackers,Snacks,13,5.0,3.5,Cash,Sumapa
+2025-12-07,Yakult 5-pack,Beverages,4,48.0,40.0,Cash,Ligas
+2025-12-07,Kopiko Brown,Beverages,9,7.0,5.0,Cash,Caniogan
+2025-12-07,Joy Dishwashing 40ml,Household,2,8.0,6.0,Cash,Tikay
+2025-12-07,RC Cola Mismo,Beverages,5,12.0,9.0,Cash,Malolos Centro
+2025-12-07,Tide Powder 40g,Household,9,7.0,5.5,GCash,Catmon
+2025-12-07,Pepsi Mismo,Beverages,9,12.0,9.0,Cash,Balite
+2025-12-07,Kopiko Brown,Beverages,3,7.0,5.0,Cash,Sumapa
+2025-12-07,RC Cola Mismo,Beverages,2,12.0,9.0,Cash,Balite
+2025-12-07,Oishi Pillows,Snacks,8,10.0,7.5,Cash,Tikay
+2025-12-07,Lucky Me Pancit Canton,Noodles,8,12.0,9.5,Cash,Catmon
+2025-12-07,Boy Bawang,Snacks,1,10.0,7.5,Cash,Bangkal
+2025-12-08,RC Cola Mismo,Beverages,12,12.0,9.0,GCash,Caniogan
+2025-12-08,Tide Powder 40g,Household,6,7.0,5.5,Cash,Balite
+2025-12-08,Globe Load 100,Telecom,4,100.0,95.0,GCash,Catmon
+2025-12-08,Marlboro Lights per stick,Tobacco,13,8.0,6.5,Cash,Tikay
+2025-12-08,Nissin Cup Noodles,Noodles,14,25.0,20.0,Cash,Catmon
+2025-12-08,Chippy BBQ,Snacks,5,12.0,9.0,Cash,Caniogan
+2025-12-08,C2 Apple,Beverages,4,20.0,15.5,Cash,Ligas
+2025-12-08,Marlboro Lights per stick,Tobacco,6,8.0,6.5,Cash,Tikay
+2025-12-08,Safeguard Soap,Household,15,35.0,28.0,Cash,Balite
+2025-12-08,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Catmon
+2025-12-08,Piattos Cheese,Snacks,2,15.0,11.5,Cash,Caniogan
+2025-12-08,Chippy BBQ,Snacks,14,12.0,9.0,Cash,Ligas
+2025-12-08,Palmolive Shampoo Sachet,Household,6,6.0,4.5,GCash,Tikay
+2025-12-08,Sky Flakes,Snacks,2,8.0,6.0,Cash,Catmon
+2025-12-09,Oishi Pillows,Snacks,11,10.0,7.5,Cash,Ligas
+2025-12-09,Oishi Pillows,Snacks,8,10.0,7.5,Cash,Bangkal
+2025-12-09,C2 Apple,Beverages,10,20.0,15.5,Cash,Tikay
+2025-12-09,Piattos Cheese,Snacks,7,15.0,11.5,Cash,Balite
+2025-12-09,Pepsi Mismo,Beverages,14,12.0,9.0,GCash,Bangkal
+2025-12-09,Globe Load 50,Telecom,7,50.0,47.0,GCash,Balite
+2025-12-09,Oishi Pillows,Snacks,12,10.0,7.5,Cash,Tikay
+2025-12-09,Joy Dishwashing 40ml,Household,11,8.0,6.0,Cash,Caniogan
+2025-12-09,Payless Noodles,Noodles,10,8.0,6.0,GCash,Caniogan
+2025-12-09,Yakult 5-pack,Beverages,9,48.0,40.0,Cash,Caniogan
+2025-12-09,RC Cola Mismo,Beverages,5,12.0,9.0,Cash,Catmon
+2025-12-09,Tide Powder 40g,Household,2,7.0,5.5,GCash,Bangkal
+2025-12-09,Yakult 5-pack,Beverages,8,48.0,40.0,Cash,Catmon
+2025-12-10,Globe Load 100,Telecom,3,100.0,95.0,GCash,Malolos Centro
+2025-12-10,Palmolive Shampoo Sachet,Household,3,6.0,4.5,Cash,Caniogan
+2025-12-10,Oishi Pillows,Snacks,5,10.0,7.5,Cash,Caniogan
+2025-12-10,Pepsi Mismo,Beverages,4,12.0,9.0,Cash,Ligas
+2025-12-10,Rebisco Crackers,Snacks,13,5.0,3.5,Cash,Bangkal
+2025-12-10,Safeguard Soap,Household,15,35.0,28.0,Cash,Catmon
+2025-12-10,Rebisco Crackers,Snacks,1,5.0,3.5,GCash,Bangkal
+2025-12-10,Smart Load 50,Telecom,3,50.0,47.0,Cash,Malolos Centro
+2025-12-10,Red Horse Stallion,Beverages,15,30.0,24.0,GCash,Malolos Centro
+2025-12-10,Lucky Me Pancit Canton,Noodles,12,12.0,9.5,GCash,Balite
+2025-12-10,Payless Noodles,Noodles,14,8.0,6.0,Cash,Malolos Centro
+2025-12-11,Oishi Prawn Crackers,Snacks,12,12.0,9.0,GCash,Bangkal
+2025-12-11,Ariel Powder 40g,Household,6,8.0,6.0,Cash,Bangkal
+2025-12-11,Boy Bawang,Snacks,7,10.0,7.5,GCash,Sumapa
+2025-12-11,Joy Dishwashing 40ml,Household,3,8.0,6.0,Cash,Tikay
+2025-12-11,Pepsi Mismo,Beverages,9,12.0,9.0,Cash,Balite
+2025-12-11,Globe Load 100,Telecom,7,100.0,95.0,Cash,Ligas
+2025-12-11,Smart Load 50,Telecom,11,50.0,47.0,Cash,Tikay
+2025-12-11,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,Cash,Tikay
+2025-12-11,Downy Sachet,Household,15,6.0,4.5,Cash,Bangkal
+2025-12-11,Coke Mismo,Beverages,2,15.0,11.0,Cash,Bangkal
+2025-12-11,Smart Load 50,Telecom,8,50.0,47.0,GCash,Bangkal
+2025-12-12,RC Cola Mismo,Beverages,8,12.0,9.0,GCash,Bangkal
+2025-12-12,Oishi Pillows,Snacks,14,10.0,7.5,Cash,Bangkal
+2025-12-12,Red Horse Stallion,Beverages,4,30.0,24.0,Cash,Bangkal
+2025-12-12,Tide Powder 40g,Household,1,7.0,5.5,GCash,Caniogan
+2025-12-12,Smart Load 50,Telecom,12,50.0,47.0,Cash,Ligas
+2025-12-12,Oishi Prawn Crackers,Snacks,15,12.0,9.0,GCash,Balite
+2025-12-12,Lucky Me Beef,Noodles,1,12.0,9.5,GCash,Caniogan
+2025-12-12,Safeguard Soap,Household,6,35.0,28.0,Cash,Caniogan
+2025-12-12,Safeguard Soap,Household,2,35.0,28.0,Cash,Ligas
+2025-12-12,Chippy BBQ,Snacks,9,12.0,9.0,Cash,Catmon
+2025-12-12,C2 Apple,Beverages,8,20.0,15.5,Cash,Ligas
+2025-12-12,Tide Powder 40g,Household,1,7.0,5.5,Cash,Malolos Centro
+2025-12-12,Piattos Cheese,Snacks,8,15.0,11.5,GCash,Caniogan
+2025-12-12,Rebisco Crackers,Snacks,12,5.0,3.5,Cash,Bangkal
+2025-12-12,Red Horse Stallion,Beverages,13,30.0,24.0,Cash,Ligas
+2025-12-12,RC Cola Mismo,Beverages,1,12.0,9.0,GCash,Ligas
+2025-12-12,Downy Sachet,Household,13,6.0,4.5,GCash,Ligas
+2025-12-13,Ariel Powder 40g,Household,8,8.0,6.0,GCash,Tikay
+2025-12-13,Rebisco Crackers,Snacks,1,5.0,3.5,Cash,Malolos Centro
+2025-12-13,Bear Brand 33g,Beverages,8,12.0,9.5,Cash,Tikay
+2025-12-13,Sky Flakes,Snacks,2,8.0,6.0,Cash,Ligas
+2025-12-13,Coke Mismo,Beverages,10,15.0,11.0,Cash,Ligas
+2025-12-13,Smart Load 50,Telecom,5,50.0,47.0,Cash,Catmon
+2025-12-13,Tide Powder 40g,Household,3,7.0,5.5,GCash,Tikay
+2025-12-13,Joy Dishwashing 40ml,Household,8,8.0,6.0,Cash,Tikay
+2025-12-13,Kopiko Brown,Beverages,13,7.0,5.0,Cash,Caniogan
+2025-12-13,RC Cola Mismo,Beverages,13,12.0,9.0,GCash,Malolos Centro
+2025-12-13,Yakult 5-pack,Beverages,2,48.0,40.0,Cash,Tikay
+2025-12-13,Globe Load 100,Telecom,8,100.0,95.0,Cash,Bangkal
+2025-12-13,C2 Apple,Beverages,11,20.0,15.5,Cash,Tikay
+2025-12-13,Pepsi Mismo,Beverages,10,12.0,9.0,Cash,Malolos Centro
+2025-12-13,Ariel Powder 40g,Household,5,8.0,6.0,Cash,Malolos Centro
+2025-12-13,RC Cola Mismo,Beverages,8,12.0,9.0,Cash,Caniogan
+2025-12-14,Piattos Cheese,Snacks,12,15.0,11.5,GCash,Sumapa
+2025-12-14,Boy Bawang,Snacks,11,10.0,7.5,Cash,Caniogan
+2025-12-14,Kopiko Brown,Beverages,3,7.0,5.0,GCash,Bangkal
+2025-12-14,Lucky Me Pancit Canton,Noodles,5,12.0,9.5,Cash,Bangkal
+2025-12-14,Joy Dishwashing 40ml,Household,6,8.0,6.0,GCash,Malolos Centro
+2025-12-14,Payless Noodles,Noodles,15,8.0,6.0,GCash,Balite
+2025-12-14,Smart Load 50,Telecom,7,50.0,47.0,GCash,Ligas
+2025-12-14,Yakult 5-pack,Beverages,5,48.0,40.0,Cash,Catmon
+2025-12-14,Kopiko Brown,Beverages,11,7.0,5.0,GCash,Bangkal
+2025-12-14,Chippy BBQ,Snacks,13,12.0,9.0,Cash,Sumapa
+2025-12-14,Sky Flakes,Snacks,6,8.0,6.0,Cash,Balite
+2025-12-14,Oishi Pillows,Snacks,1,10.0,7.5,Cash,Catmon
+2025-12-14,Lucky Me Pancit Canton,Noodles,7,12.0,9.5,Cash,Catmon
+2025-12-14,Joy Dishwashing 40ml,Household,8,8.0,6.0,Cash,Sumapa
+2025-12-14,Downy Sachet,Household,5,6.0,4.5,Cash,Sumapa
+2025-12-14,Lucky Me Beef,Noodles,1,12.0,9.5,GCash,Catmon
+2025-12-14,Lucky Me Beef,Noodles,10,12.0,9.5,Cash,Catmon
+2025-12-14,Safeguard Soap,Household,2,35.0,28.0,Cash,Tikay
+2025-12-14,Boy Bawang,Snacks,11,10.0,7.5,GCash,Tikay
+2025-12-14,Smart Load 100,Telecom,2,100.0,95.0,Cash,Ligas
+2025-12-14,Bear Brand 33g,Beverages,8,12.0,9.5,Cash,Caniogan
+2025-12-14,Marlboro Lights per stick,Tobacco,5,8.0,6.5,Cash,Balite
+2025-12-14,Kopiko Brown,Beverages,3,7.0,5.0,Cash,Ligas
+2025-12-14,Palmolive Shampoo Sachet,Household,1,6.0,4.5,Cash,Bangkal
+2025-12-15,Lucky Me Beef,Noodles,5,12.0,9.5,Cash,Tikay
+2025-12-15,Chippy BBQ,Snacks,2,12.0,9.0,Cash,Sumapa
+2025-12-15,Tide Powder 40g,Household,7,7.0,5.5,Cash,Caniogan
+2025-12-15,Payless Noodles,Noodles,3,8.0,6.0,GCash,Bangkal
+2025-12-15,Pepsi Mismo,Beverages,10,12.0,9.0,Cash,Caniogan
+2025-12-15,Safeguard Soap,Household,5,35.0,28.0,Cash,Malolos Centro
+2025-12-15,Nissin Cup Noodles,Noodles,2,25.0,20.0,GCash,Ligas
+2025-12-15,Palmolive Shampoo Sachet,Household,8,6.0,4.5,Cash,Caniogan
+2025-12-15,Coke Mismo,Beverages,11,15.0,11.0,Cash,Malolos Centro
+2025-12-15,Joy Dishwashing 40ml,Household,7,8.0,6.0,Cash,Tikay
+2025-12-15,Safeguard Soap,Household,6,35.0,28.0,Cash,Malolos Centro
+2025-12-15,Sky Flakes,Snacks,12,8.0,6.0,Cash,Caniogan
+2025-12-15,Oishi Prawn Crackers,Snacks,7,12.0,9.0,Cash,Sumapa
+2025-12-16,Boy Bawang,Snacks,12,10.0,7.5,Cash,Catmon
+2025-12-16,Rebisco Crackers,Snacks,9,5.0,3.5,Cash,Balite
+2025-12-16,Joy Dishwashing 40ml,Household,5,8.0,6.0,Cash,Malolos Centro
+2025-12-16,Ariel Powder 40g,Household,11,8.0,6.0,Cash,Balite
+2025-12-16,Oishi Pillows,Snacks,14,10.0,7.5,Cash,Catmon
+2025-12-16,Globe Load 100,Telecom,8,100.0,95.0,Cash,Sumapa
+2025-12-16,RC Cola Mismo,Beverages,9,12.0,9.0,Cash,Bangkal
+2025-12-16,Joy Dishwashing 40ml,Household,4,8.0,6.0,Cash,Bangkal
+2025-12-17,Payless Noodles,Noodles,11,8.0,6.0,Cash,Caniogan
+2025-12-17,Nissin Cup Noodles,Noodles,15,25.0,20.0,Cash,Sumapa
+2025-12-17,Coke Mismo,Beverages,1,15.0,11.0,Cash,Malolos Centro
+2025-12-17,Downy Sachet,Household,10,6.0,4.5,Cash,Caniogan
+2025-12-17,Boy Bawang,Snacks,2,10.0,7.5,GCash,Ligas
+2025-12-17,Piattos Cheese,Snacks,9,15.0,11.5,Cash,Malolos Centro
+2025-12-17,Lucky Me Beef,Noodles,6,12.0,9.5,Cash,Balite
+2025-12-17,Globe Load 50,Telecom,12,50.0,47.0,Cash,Bangkal
+2025-12-17,Payless Noodles,Noodles,4,8.0,6.0,GCash,Caniogan
+2025-12-17,Joy Dishwashing 40ml,Household,14,8.0,6.0,GCash,Tikay
+2025-12-17,Downy Sachet,Household,10,6.0,4.5,Cash,Catmon
+2025-12-17,Lucky Me Beef,Noodles,12,12.0,9.5,Cash,Caniogan
+2025-12-17,Ariel Powder 40g,Household,1,8.0,6.0,Cash,Malolos Centro
+2025-12-17,C2 Apple,Beverages,12,20.0,15.5,Cash,Malolos Centro
+2025-12-17,RC Cola Mismo,Beverages,11,12.0,9.0,Cash,Ligas
+2025-12-17,Globe Load 100,Telecom,13,100.0,95.0,Cash,Caniogan
+2025-12-17,Tide Powder 40g,Household,3,7.0,5.5,GCash,Catmon
+2025-12-17,Globe Load 100,Telecom,14,100.0,95.0,Cash,Catmon
+2025-12-17,Piattos Cheese,Snacks,10,15.0,11.5,GCash,Sumapa
+2025-12-17,Nissin Cup Noodles,Noodles,13,25.0,20.0,Cash,Bangkal
+2025-12-17,Yakult 5-pack,Beverages,13,48.0,40.0,Cash,Balite
+2025-12-17,Payless Noodles,Noodles,11,8.0,6.0,GCash,Tikay
+2025-12-18,Globe Load 100,Telecom,13,100.0,95.0,Cash,Malolos Centro
+2025-12-18,Rebisco Crackers,Snacks,3,5.0,3.5,Cash,Catmon
+2025-12-18,Payless Noodles,Noodles,5,8.0,6.0,Cash,Bangkal
+2025-12-18,RC Cola Mismo,Beverages,12,12.0,9.0,Cash,Tikay
+2025-12-18,Chippy BBQ,Snacks,4,12.0,9.0,GCash,Malolos Centro
+2025-12-18,Coke Mismo,Beverages,2,15.0,11.0,GCash,Bangkal
+2025-12-18,Palmolive Shampoo Sachet,Household,3,6.0,4.5,Cash,Caniogan
+2025-12-18,Nissin Cup Noodles,Noodles,1,25.0,20.0,Cash,Tikay
+2025-12-18,Marlboro Lights per stick,Tobacco,2,8.0,6.5,GCash,Ligas
+2025-12-18,Oishi Prawn Crackers,Snacks,12,12.0,9.0,Cash,Tikay
+2025-12-18,Pepsi Mismo,Beverages,3,12.0,9.0,Cash,Caniogan
+2025-12-18,Oishi Prawn Crackers,Snacks,4,12.0,9.0,Cash,Malolos Centro
+2025-12-18,Tide Powder 40g,Household,3,7.0,5.5,Cash,Catmon
+2025-12-19,Globe Load 100,Telecom,13,100.0,95.0,Cash,Balite
+2025-12-19,Oishi Prawn Crackers,Snacks,1,12.0,9.0,GCash,Sumapa
+2025-12-19,Pepsi Mismo,Beverages,2,12.0,9.0,GCash,Catmon
+2025-12-19,Tide Powder 40g,Household,6,7.0,5.5,GCash,Sumapa
+2025-12-19,Chippy BBQ,Snacks,13,12.0,9.0,Cash,Ligas
+2025-12-19,Lucky Me Beef,Noodles,4,12.0,9.5,Cash,Tikay
+2025-12-19,Joy Dishwashing 40ml,Household,14,8.0,6.0,Cash,Caniogan
+2025-12-19,RC Cola Mismo,Beverages,3,12.0,9.0,Cash,Malolos Centro
+2025-12-19,Ariel Powder 40g,Household,6,8.0,6.0,Cash,Sumapa
+2025-12-19,Oishi Prawn Crackers,Snacks,5,12.0,9.0,Cash,Caniogan
+2025-12-19,Lucky Me Beef,Noodles,2,12.0,9.5,Cash,Tikay
+2025-12-19,RC Cola Mismo,Beverages,13,12.0,9.0,Cash,Caniogan
+2025-12-19,Sky Flakes,Snacks,2,8.0,6.0,Cash,Sumapa
+2025-12-19,Downy Sachet,Household,8,6.0,4.5,GCash,Balite
+2025-12-19,Oishi Prawn Crackers,Snacks,4,12.0,9.0,Cash,Sumapa
+2025-12-19,Palmolive Shampoo Sachet,Household,2,6.0,4.5,Cash,Sumapa
+2025-12-19,Payless Noodles,Noodles,4,8.0,6.0,Cash,Sumapa
+2025-12-19,Boy Bawang,Snacks,15,10.0,7.5,Cash,Catmon
+2025-12-20,Rebisco Crackers,Snacks,8,5.0,3.5,Cash,Bangkal
+2025-12-20,Coke Mismo,Beverages,4,15.0,11.0,GCash,Caniogan
+2025-12-20,RC Cola Mismo,Beverages,7,12.0,9.0,Cash,Tikay
+2025-12-20,Chippy BBQ,Snacks,12,12.0,9.0,Cash,Balite
+2025-12-20,Kopiko Brown,Beverages,4,7.0,5.0,Cash,Tikay
+2025-12-20,Lucky Me Beef,Noodles,12,12.0,9.5,GCash,Malolos Centro
+2025-12-20,Kopiko Brown,Beverages,3,7.0,5.0,Cash,Caniogan
+2025-12-20,Chippy BBQ,Snacks,7,12.0,9.0,Cash,Balite
+2025-12-20,C2 Apple,Beverages,15,20.0,15.5,Cash,Tikay
+2025-12-20,Globe Load 50,Telecom,13,50.0,47.0,GCash,Tikay
+2025-12-20,Rebisco Crackers,Snacks,9,5.0,3.5,Cash,Catmon
+2025-12-20,Oishi Prawn Crackers,Snacks,14,12.0,9.0,GCash,Caniogan
+2025-12-20,Smart Load 50,Telecom,4,50.0,47.0,GCash,Caniogan
+2025-12-20,Globe Load 100,Telecom,8,100.0,95.0,Cash,Malolos Centro
+2025-12-20,Downy Sachet,Household,7,6.0,4.5,Cash,Sumapa
+2025-12-20,Yakult 5-pack,Beverages,7,48.0,40.0,GCash,Sumapa
+2025-12-20,Smart Load 100,Telecom,15,100.0,95.0,GCash,Tikay
+2025-12-20,Marlboro Lights per stick,Tobacco,10,8.0,6.5,Cash,Bangkal
+2025-12-20,Lucky Me Beef,Noodles,1,12.0,9.5,Cash,Malolos Centro
+2025-12-20,Oishi Prawn Crackers,Snacks,9,12.0,9.0,Cash,Caniogan
+2025-12-20,Globe Load 50,Telecom,13,50.0,47.0,Cash,Caniogan
+2025-12-20,Piattos Cheese,Snacks,4,15.0,11.5,Cash,Malolos Centro
+2025-12-20,Safeguard Soap,Household,12,35.0,28.0,Cash,Sumapa
+2025-12-20,Coke Mismo,Beverages,6,15.0,11.0,Cash,Sumapa
+2025-12-20,Ariel Powder 40g,Household,2,8.0,6.0,Cash,Caniogan
+2025-12-20,Joy Dishwashing 40ml,Household,5,8.0,6.0,Cash,Caniogan
+2025-12-20,Smart Load 50,Telecom,10,50.0,47.0,GCash,Malolos Centro
+2025-12-20,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Bangkal
+2025-12-20,RC Cola Mismo,Beverages,13,12.0,9.0,Cash,Caniogan
+2025-12-20,Safeguard Soap,Household,11,35.0,28.0,Cash,Catmon
+2025-12-21,Smart Load 100,Telecom,12,100.0,95.0,Cash,Malolos Centro
+2025-12-21,Bear Brand 33g,Beverages,7,12.0,9.5,Cash,Sumapa
+2025-12-21,Globe Load 50,Telecom,11,50.0,47.0,Cash,Balite
+2025-12-21,Downy Sachet,Household,15,6.0,4.5,Cash,Balite
+2025-12-21,Smart Load 100,Telecom,1,100.0,95.0,Cash,Bangkal
+2025-12-21,Red Horse Stallion,Beverages,8,30.0,24.0,GCash,Malolos Centro
+2025-12-21,Red Horse Stallion,Beverages,6,30.0,24.0,Cash,Catmon
+2025-12-21,Oishi Pillows,Snacks,12,10.0,7.5,Cash,Tikay
+2025-12-21,Yakult 5-pack,Beverages,4,48.0,40.0,GCash,Catmon
+2025-12-21,Ariel Powder 40g,Household,8,8.0,6.0,GCash,Sumapa
+2025-12-21,Palmolive Shampoo Sachet,Household,12,6.0,4.5,Cash,Balite
+2025-12-21,Red Horse Stallion,Beverages,15,30.0,24.0,Cash,Bangkal
+2025-12-21,Kopiko Brown,Beverages,1,7.0,5.0,Cash,Balite
+2025-12-21,Red Horse Stallion,Beverages,8,30.0,24.0,Cash,Catmon
+2025-12-21,Piattos Cheese,Snacks,12,15.0,11.5,GCash,Ligas
+2025-12-21,Chippy BBQ,Snacks,10,12.0,9.0,Cash,Catmon
+2025-12-21,Pepsi Mismo,Beverages,15,12.0,9.0,Cash,Catmon
+2025-12-21,Nissin Cup Noodles,Noodles,7,25.0,20.0,Cash,Ligas
+2025-12-21,Nissin Cup Noodles,Noodles,2,25.0,20.0,Cash,Ligas
+2025-12-21,Payless Noodles,Noodles,12,8.0,6.0,Cash,Caniogan
+2025-12-21,Coke Mismo,Beverages,14,15.0,11.0,Cash,Malolos Centro
+2025-12-21,Bear Brand 33g,Beverages,7,12.0,9.5,GCash,Tikay
+2025-12-21,Piattos Cheese,Snacks,6,15.0,11.5,Cash,Caniogan
+2025-12-21,Downy Sachet,Household,11,6.0,4.5,Cash,Ligas
+2025-12-21,Pepsi Mismo,Beverages,2,12.0,9.0,Cash,Sumapa
+2025-12-21,Globe Load 100,Telecom,9,100.0,95.0,Cash,Bangkal
+2025-12-21,Rebisco Crackers,Snacks,6,5.0,3.5,Cash,Caniogan
+2025-12-22,Joy Dishwashing 40ml,Household,12,8.0,6.0,GCash,Caniogan
+2025-12-22,Chippy BBQ,Snacks,5,12.0,9.0,GCash,Tikay
+2025-12-22,Smart Load 100,Telecom,13,100.0,95.0,Cash,Tikay
+2025-12-22,Globe Load 50,Telecom,5,50.0,47.0,Cash,Caniogan
+2025-12-22,Red Horse Stallion,Beverages,5,30.0,24.0,Cash,Tikay
+2025-12-22,Red Horse Stallion,Beverages,5,30.0,24.0,Cash,Tikay
+2025-12-22,Tide Powder 40g,Household,15,7.0,5.5,Cash,Ligas
+2025-12-22,RC Cola Mismo,Beverages,3,12.0,9.0,Cash,Tikay
+2025-12-22,C2 Apple,Beverages,2,20.0,15.5,Cash,Balite
+2025-12-22,Rebisco Crackers,Snacks,3,5.0,3.5,Cash,Ligas
+2025-12-22,Red Horse Stallion,Beverages,3,30.0,24.0,Cash,Malolos Centro
+2025-12-22,Joy Dishwashing 40ml,Household,6,8.0,6.0,Cash,Tikay
+2025-12-22,Red Horse Stallion,Beverages,8,30.0,24.0,GCash,Tikay
+2025-12-22,Oishi Pillows,Snacks,5,10.0,7.5,Cash,Malolos Centro
+2025-12-22,Boy Bawang,Snacks,15,10.0,7.5,Cash,Tikay
+2025-12-22,Chippy BBQ,Snacks,15,12.0,9.0,Cash,Tikay
+2025-12-22,Lucky Me Pancit Canton,Noodles,12,12.0,9.5,GCash,Balite
+2025-12-23,Safeguard Soap,Household,5,35.0,28.0,Cash,Ligas
+2025-12-23,Palmolive Shampoo Sachet,Household,10,6.0,4.5,Cash,Caniogan
+2025-12-23,Yakult 5-pack,Beverages,12,48.0,40.0,Cash,Caniogan
+2025-12-23,Smart Load 100,Telecom,1,100.0,95.0,Cash,Catmon
+2025-12-23,Bear Brand 33g,Beverages,1,12.0,9.5,Cash,Sumapa
+2025-12-23,Chippy BBQ,Snacks,6,12.0,9.0,Cash,Balite
+2025-12-23,Lucky Me Beef,Noodles,10,12.0,9.5,Cash,Sumapa
+2025-12-23,Globe Load 50,Telecom,15,50.0,47.0,Cash,Sumapa
+2025-12-23,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,GCash,Caniogan
+2025-12-23,Joy Dishwashing 40ml,Household,11,8.0,6.0,Cash,Bangkal
+2025-12-23,Pepsi Mismo,Beverages,8,12.0,9.0,Cash,Malolos Centro
+2025-12-23,Marlboro Lights per stick,Tobacco,11,8.0,6.5,Cash,Bangkal
+2025-12-23,Coke Mismo,Beverages,12,15.0,11.0,Cash,Balite
+2025-12-23,Boy Bawang,Snacks,6,10.0,7.5,Cash,Ligas
+2025-12-23,Red Horse Stallion,Beverages,6,30.0,24.0,Cash,Caniogan
+2025-12-23,Smart Load 50,Telecom,9,50.0,47.0,Cash,Sumapa
+2025-12-23,Downy Sachet,Household,15,6.0,4.5,Cash,Bangkal
+2025-12-23,Globe Load 50,Telecom,8,50.0,47.0,Cash,Tikay
+2025-12-24,Downy Sachet,Household,15,6.0,4.5,Cash,Bangkal
+2025-12-24,Coke Mismo,Beverages,14,15.0,11.0,GCash,Catmon
+2025-12-24,Coke Mismo,Beverages,4,15.0,11.0,Cash,Caniogan
+2025-12-24,Smart Load 50,Telecom,9,50.0,47.0,Cash,Catmon
+2025-12-24,Marlboro Lights per stick,Tobacco,10,8.0,6.5,Cash,Catmon
+2025-12-24,Lucky Me Pancit Canton,Noodles,7,12.0,9.5,Cash,Bangkal
+2025-12-24,RC Cola Mismo,Beverages,9,12.0,9.0,Cash,Tikay
+2025-12-24,Pepsi Mismo,Beverages,3,12.0,9.0,Cash,Ligas
+2025-12-24,Oishi Pillows,Snacks,8,10.0,7.5,Cash,Ligas
+2025-12-24,Globe Load 100,Telecom,10,100.0,95.0,Cash,Caniogan
+2025-12-24,Oishi Pillows,Snacks,12,10.0,7.5,Cash,Sumapa
+2025-12-24,Lucky Me Pancit Canton,Noodles,13,12.0,9.5,Cash,Tikay
+2025-12-24,Kopiko Brown,Beverages,5,7.0,5.0,Cash,Catmon
+2025-12-24,Ariel Powder 40g,Household,11,8.0,6.0,Cash,Bangkal
+2025-12-24,RC Cola Mismo,Beverages,8,12.0,9.0,Cash,Malolos Centro
+2025-12-24,Payless Noodles,Noodles,13,8.0,6.0,Cash,Caniogan
+2025-12-24,Nissin Cup Noodles,Noodles,10,25.0,20.0,Cash,Caniogan
+2025-12-24,Rebisco Crackers,Snacks,7,5.0,3.5,Cash,Caniogan
+2025-12-24,Safeguard Soap,Household,14,35.0,28.0,Cash,Balite
+2025-12-24,Sky Flakes,Snacks,12,8.0,6.0,GCash,Malolos Centro
+2025-12-25,Kopiko Brown,Beverages,3,7.0,5.0,GCash,Malolos Centro
+2025-12-25,Coke Mismo,Beverages,6,15.0,11.0,Cash,Tikay
+2025-12-25,Red Horse Stallion,Beverages,3,30.0,24.0,Cash,Ligas
+2025-12-25,Red Horse Stallion,Beverages,7,30.0,24.0,Cash,Malolos Centro
+2025-12-25,Bear Brand 33g,Beverages,5,12.0,9.5,GCash,Catmon
+2025-12-25,Sky Flakes,Snacks,4,8.0,6.0,Cash,Catmon
+2025-12-25,Tide Powder 40g,Household,13,7.0,5.5,Cash,Balite
+2025-12-25,Smart Load 50,Telecom,6,50.0,47.0,Cash,Ligas
+2025-12-25,Joy Dishwashing 40ml,Household,12,8.0,6.0,Cash,Catmon
+2025-12-25,Oishi Pillows,Snacks,10,10.0,7.5,Cash,Tikay
+2025-12-25,Lucky Me Pancit Canton,Noodles,3,12.0,9.5,GCash,Ligas
+2025-12-25,Red Horse Stallion,Beverages,13,30.0,24.0,Cash,Bangkal
+2025-12-25,Yakult 5-pack,Beverages,15,48.0,40.0,Cash,Catmon
+2025-12-25,Pepsi Mismo,Beverages,3,12.0,9.0,GCash,Sumapa
+2025-12-25,Globe Load 100,Telecom,4,100.0,95.0,GCash,Catmon
+2025-12-25,Oishi Prawn Crackers,Snacks,8,12.0,9.0,Cash,Catmon
+2025-12-25,Globe Load 100,Telecom,3,100.0,95.0,Cash,Caniogan
+2025-12-25,Red Horse Stallion,Beverages,5,30.0,24.0,Cash,Tikay
+2025-12-25,Globe Load 100,Telecom,8,100.0,95.0,GCash,Balite
+2025-12-25,RC Cola Mismo,Beverages,12,12.0,9.0,Cash,Malolos Centro
+2025-12-25,Downy Sachet,Household,14,6.0,4.5,Cash,Sumapa
+2025-12-26,Smart Load 50,Telecom,12,50.0,47.0,Cash,Sumapa
+2025-12-26,Bear Brand 33g,Beverages,3,12.0,9.5,Cash,Tikay
+2025-12-26,Nissin Cup Noodles,Noodles,7,25.0,20.0,Cash,Catmon
+2025-12-26,Lucky Me Pancit Canton,Noodles,13,12.0,9.5,Cash,Bangkal
+2025-12-26,Lucky Me Beef,Noodles,4,12.0,9.5,Cash,Malolos Centro
+2025-12-26,Globe Load 50,Telecom,11,50.0,47.0,GCash,Malolos Centro
+2025-12-26,Piattos Cheese,Snacks,2,15.0,11.5,Cash,Malolos Centro
+2025-12-26,Nissin Cup Noodles,Noodles,5,25.0,20.0,Cash,Catmon
+2025-12-26,Globe Load 50,Telecom,2,50.0,47.0,GCash,Sumapa
+2025-12-26,Rebisco Crackers,Snacks,15,5.0,3.5,Cash,Tikay
+2025-12-27,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,Cash,Ligas
+2025-12-27,Rebisco Crackers,Snacks,6,5.0,3.5,Cash,Tikay
+2025-12-27,Smart Load 50,Telecom,9,50.0,47.0,GCash,Sumapa
+2025-12-27,Sky Flakes,Snacks,10,8.0,6.0,Cash,Catmon
+2025-12-27,Globe Load 100,Telecom,10,100.0,95.0,Cash,Sumapa
+2025-12-27,Safeguard Soap,Household,4,35.0,28.0,Cash,Tikay
+2025-12-27,Smart Load 100,Telecom,13,100.0,95.0,GCash,Malolos Centro
+2025-12-27,Downy Sachet,Household,2,6.0,4.5,Cash,Caniogan
+2025-12-27,Red Horse Stallion,Beverages,12,30.0,24.0,GCash,Tikay
+2025-12-27,Chippy BBQ,Snacks,11,12.0,9.0,Cash,Tikay
+2025-12-27,Globe Load 100,Telecom,6,100.0,95.0,Cash,Bangkal
+2025-12-27,Pepsi Mismo,Beverages,9,12.0,9.0,Cash,Bangkal
+2025-12-27,Payless Noodles,Noodles,13,8.0,6.0,Cash,Catmon
+2025-12-27,Chippy BBQ,Snacks,2,12.0,9.0,GCash,Tikay
+2025-12-27,Piattos Cheese,Snacks,13,15.0,11.5,Cash,Ligas
+2025-12-27,Oishi Pillows,Snacks,12,10.0,7.5,Cash,Catmon
+2025-12-27,Yakult 5-pack,Beverages,8,48.0,40.0,Cash,Bangkal
+2025-12-27,Bear Brand 33g,Beverages,8,12.0,9.5,GCash,Ligas
+2025-12-27,Joy Dishwashing 40ml,Household,14,8.0,6.0,Cash,Sumapa
+2025-12-27,Oishi Pillows,Snacks,7,10.0,7.5,Cash,Bangkal
+2025-12-27,Pepsi Mismo,Beverages,14,12.0,9.0,Cash,Caniogan
+2025-12-27,Joy Dishwashing 40ml,Household,6,8.0,6.0,Cash,Malolos Centro
+2025-12-27,Joy Dishwashing 40ml,Household,8,8.0,6.0,Cash,Bangkal
+2025-12-27,Chippy BBQ,Snacks,9,12.0,9.0,Cash,Catmon
+2025-12-27,Coke Mismo,Beverages,7,15.0,11.0,Cash,Catmon
+2025-12-27,Downy Sachet,Household,15,6.0,4.5,Cash,Catmon
+2025-12-28,Pepsi Mismo,Beverages,6,12.0,9.0,Cash,Bangkal
+2025-12-28,Payless Noodles,Noodles,4,8.0,6.0,Cash,Caniogan
+2025-12-28,Kopiko Brown,Beverages,13,7.0,5.0,GCash,Ligas
+2025-12-28,Palmolive Shampoo Sachet,Household,13,6.0,4.5,Cash,Balite
+2025-12-28,Piattos Cheese,Snacks,11,15.0,11.5,GCash,Bangkal
+2025-12-28,Piattos Cheese,Snacks,9,15.0,11.5,Cash,Tikay
+2025-12-28,Palmolive Shampoo Sachet,Household,8,6.0,4.5,Cash,Catmon
+2025-12-28,Kopiko Brown,Beverages,8,7.0,5.0,Cash,Sumapa
+2025-12-28,Ariel Powder 40g,Household,3,8.0,6.0,Cash,Catmon
+2025-12-28,Downy Sachet,Household,1,6.0,4.5,Cash,Caniogan
+2025-12-28,Joy Dishwashing 40ml,Household,1,8.0,6.0,Cash,Bangkal
+2025-12-28,Tide Powder 40g,Household,11,7.0,5.5,Cash,Tikay
+2025-12-28,Bear Brand 33g,Beverages,10,12.0,9.5,GCash,Catmon
+2025-12-28,Palmolive Shampoo Sachet,Household,2,6.0,4.5,GCash,Caniogan
+2025-12-28,Globe Load 50,Telecom,8,50.0,47.0,Cash,Ligas
+2025-12-28,Joy Dishwashing 40ml,Household,8,8.0,6.0,Cash,Ligas
+2025-12-28,Oishi Pillows,Snacks,6,10.0,7.5,GCash,Malolos Centro
+2025-12-28,Palmolive Shampoo Sachet,Household,1,6.0,4.5,Cash,Catmon
+2025-12-28,Boy Bawang,Snacks,8,10.0,7.5,Cash,Bangkal
+2025-12-28,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Malolos Centro
+2025-12-28,RC Cola Mismo,Beverages,9,12.0,9.0,Cash,Tikay
+2025-12-28,Piattos Cheese,Snacks,7,15.0,11.5,Cash,Ligas
+2025-12-28,Safeguard Soap,Household,7,35.0,28.0,Cash,Catmon
+2025-12-28,Rebisco Crackers,Snacks,11,5.0,3.5,Cash,Caniogan
+2025-12-28,Piattos Cheese,Snacks,9,15.0,11.5,Cash,Malolos Centro
+2025-12-28,Boy Bawang,Snacks,5,10.0,7.5,Cash,Bangkal
+2025-12-29,Joy Dishwashing 40ml,Household,6,8.0,6.0,Cash,Balite
+2025-12-29,Lucky Me Beef,Noodles,1,12.0,9.5,GCash,Malolos Centro
+2025-12-29,Coke Mismo,Beverages,14,15.0,11.0,Cash,Balite
+2025-12-29,Globe Load 50,Telecom,12,50.0,47.0,GCash,Malolos Centro
+2025-12-29,Palmolive Shampoo Sachet,Household,15,6.0,4.5,Cash,Bangkal
+2025-12-29,Payless Noodles,Noodles,7,8.0,6.0,Cash,Balite
+2025-12-29,Oishi Prawn Crackers,Snacks,6,12.0,9.0,Cash,Sumapa
+2025-12-29,C2 Apple,Beverages,4,20.0,15.5,Cash,Catmon
+2025-12-29,Marlboro Lights per stick,Tobacco,12,8.0,6.5,Cash,Ligas
+2025-12-29,Payless Noodles,Noodles,6,8.0,6.0,Cash,Malolos Centro
+2025-12-29,Oishi Pillows,Snacks,6,10.0,7.5,Cash,Caniogan
+2025-12-29,Joy Dishwashing 40ml,Household,14,8.0,6.0,Cash,Bangkal
+2025-12-29,Kopiko Brown,Beverages,1,7.0,5.0,Cash,Malolos Centro
+2025-12-29,Yakult 5-pack,Beverages,7,48.0,40.0,GCash,Bangkal
+2025-12-29,Yakult 5-pack,Beverages,10,48.0,40.0,Cash,Caniogan
+2025-12-29,Payless Noodles,Noodles,12,8.0,6.0,Cash,Balite
+2025-12-29,Piattos Cheese,Snacks,9,15.0,11.5,Cash,Tikay
+2025-12-30,Bear Brand 33g,Beverages,6,12.0,9.5,Cash,Sumapa
+2025-12-30,Piattos Cheese,Snacks,11,15.0,11.5,Cash,Sumapa
+2025-12-30,Bear Brand 33g,Beverages,5,12.0,9.5,Cash,Ligas
+2025-12-30,Rebisco Crackers,Snacks,7,5.0,3.5,Cash,Catmon
+2025-12-30,Safeguard Soap,Household,14,35.0,28.0,GCash,Catmon
+2025-12-30,Rebisco Crackers,Snacks,6,5.0,3.5,Cash,Catmon
+2025-12-30,Rebisco Crackers,Snacks,13,5.0,3.5,GCash,Caniogan
+2025-12-30,Oishi Prawn Crackers,Snacks,4,12.0,9.0,Cash,Catmon
+2025-12-30,Ariel Powder 40g,Household,14,8.0,6.0,Cash,Ligas
+2025-12-30,Oishi Prawn Crackers,Snacks,11,12.0,9.0,GCash,Balite
+2025-12-30,Pepsi Mismo,Beverages,7,12.0,9.0,Cash,Ligas
+2025-12-30,Tide Powder 40g,Household,9,7.0,5.5,Cash,Tikay
+2025-12-30,Smart Load 100,Telecom,1,100.0,95.0,GCash,Tikay
+2025-12-30,Rebisco Crackers,Snacks,8,5.0,3.5,Cash,Caniogan
+2025-12-30,Kopiko Brown,Beverages,15,7.0,5.0,GCash,Bangkal
+2025-12-30,Marlboro Lights per stick,Tobacco,10,8.0,6.5,Cash,Sumapa
+2025-12-30,Red Horse Stallion,Beverages,8,30.0,24.0,Cash,Sumapa
+2025-12-31,Downy Sachet,Household,11,6.0,4.5,Cash,Bangkal
+2025-12-31,Oishi Prawn Crackers,Snacks,6,12.0,9.0,Cash,Sumapa
+2025-12-31,Smart Load 50,Telecom,7,50.0,47.0,Cash,Ligas
+2025-12-31,Ariel Powder 40g,Household,3,8.0,6.0,Cash,Sumapa
+2025-12-31,Boy Bawang,Snacks,4,10.0,7.5,Cash,Tikay
+2025-12-31,Pepsi Mismo,Beverages,1,12.0,9.0,Cash,Ligas
+2025-12-31,Chippy BBQ,Snacks,8,12.0,9.0,GCash,Bangkal
+2025-12-31,Oishi Prawn Crackers,Snacks,11,12.0,9.0,Cash,Sumapa
+2025-12-31,RC Cola Mismo,Beverages,5,12.0,9.0,Cash,Malolos Centro
+2025-12-31,Kopiko Brown,Beverages,13,7.0,5.0,Cash,Tikay
+2026-01-01,Smart Load 50,Telecom,1,50.0,47.0,Cash,Malolos Centro
+2026-01-01,Lucky Me Beef,Noodles,14,12.0,9.5,Cash,Balite
+2026-01-01,Tide Powder 40g,Household,5,7.0,5.5,Cash,Bangkal
+2026-01-01,Smart Load 100,Telecom,6,100.0,95.0,Cash,Bangkal
+2026-01-01,Globe Load 100,Telecom,12,100.0,95.0,Cash,Sumapa
+2026-01-01,Payless Noodles,Noodles,10,8.0,6.0,GCash,Catmon
+2026-01-01,Sky Flakes,Snacks,11,8.0,6.0,GCash,Ligas
+2026-01-01,Piattos Cheese,Snacks,15,15.0,11.5,Cash,Sumapa
+2026-01-01,Tide Powder 40g,Household,2,7.0,5.5,Cash,Balite
+2026-01-01,Globe Load 100,Telecom,10,100.0,95.0,Cash,Sumapa
+2026-01-01,Marlboro Lights per stick,Tobacco,7,8.0,6.5,Cash,Tikay
+2026-01-01,Payless Noodles,Noodles,3,8.0,6.0,Cash,Ligas
+2026-01-01,Chippy BBQ,Snacks,7,12.0,9.0,Cash,Malolos Centro
+2026-01-01,Piattos Cheese,Snacks,9,15.0,11.5,Cash,Catmon
+2026-01-01,Yakult 5-pack,Beverages,9,48.0,40.0,Cash,Caniogan
+2026-01-01,Joy Dishwashing 40ml,Household,4,8.0,6.0,Cash,Tikay
+2026-01-01,Red Horse Stallion,Beverages,8,30.0,24.0,Cash,Ligas
+2026-01-01,Lucky Me Pancit Canton,Noodles,11,12.0,9.5,GCash,Malolos Centro
+2026-01-02,Downy Sachet,Household,11,6.0,4.5,Cash,Sumapa
+2026-01-02,Kopiko Brown,Beverages,9,7.0,5.0,Cash,Ligas
+2026-01-02,Ariel Powder 40g,Household,12,8.0,6.0,Cash,Catmon
+2026-01-02,Oishi Pillows,Snacks,14,10.0,7.5,Cash,Caniogan
+2026-01-02,Boy Bawang,Snacks,1,10.0,7.5,Cash,Ligas
+2026-01-02,Bear Brand 33g,Beverages,2,12.0,9.5,Cash,Ligas
+2026-01-02,Pepsi Mismo,Beverages,14,12.0,9.0,Cash,Caniogan
+2026-01-02,Ariel Powder 40g,Household,6,8.0,6.0,Cash,Malolos Centro
+2026-01-02,Kopiko Brown,Beverages,14,7.0,5.0,Cash,Caniogan
+2026-01-02,Piattos Cheese,Snacks,12,15.0,11.5,Cash,Balite
+2026-01-02,Safeguard Soap,Household,7,35.0,28.0,Cash,Tikay
+2026-01-02,Safeguard Soap,Household,5,35.0,28.0,GCash,Catmon
+2026-01-02,Red Horse Stallion,Beverages,7,30.0,24.0,GCash,Balite
+2026-01-02,Chippy BBQ,Snacks,12,12.0,9.0,Cash,Malolos Centro
+2026-01-02,Ariel Powder 40g,Household,11,8.0,6.0,Cash,Caniogan
+2026-01-02,Globe Load 50,Telecom,11,50.0,47.0,Cash,Malolos Centro
+2026-01-02,Boy Bawang,Snacks,4,10.0,7.5,Cash,Balite
+2026-01-02,Rebisco Crackers,Snacks,2,5.0,3.5,Cash,Tikay
+2026-01-02,C2 Apple,Beverages,9,20.0,15.5,Cash,Bangkal
+2026-01-02,Globe Load 50,Telecom,6,50.0,47.0,Cash,Caniogan
+2026-01-02,Smart Load 50,Telecom,12,50.0,47.0,Cash,Ligas
+2026-01-03,Joy Dishwashing 40ml,Household,10,8.0,6.0,Cash,Ligas
+2026-01-03,Pepsi Mismo,Beverages,2,12.0,9.0,Cash,Balite
+2026-01-03,RC Cola Mismo,Beverages,7,12.0,9.0,Cash,Sumapa
+2026-01-03,Lucky Me Pancit Canton,Noodles,1,12.0,9.5,GCash,Sumapa
+2026-01-03,Marlboro Lights per stick,Tobacco,2,8.0,6.5,Cash,Sumapa
+2026-01-03,Kopiko Brown,Beverages,12,7.0,5.0,Cash,Malolos Centro
+2026-01-03,Boy Bawang,Snacks,10,10.0,7.5,Cash,Ligas
+2026-01-03,Coke Mismo,Beverages,2,15.0,11.0,Cash,Tikay
+2026-01-03,Rebisco Crackers,Snacks,2,5.0,3.5,Cash,Bangkal
+2026-01-03,Palmolive Shampoo Sachet,Household,15,6.0,4.5,Cash,Caniogan
+2026-01-03,Payless Noodles,Noodles,4,8.0,6.0,Cash,Sumapa
+2026-01-03,Smart Load 50,Telecom,14,50.0,47.0,Cash,Ligas
+2026-01-03,Downy Sachet,Household,8,6.0,4.5,Cash,Tikay
+2026-01-03,Oishi Prawn Crackers,Snacks,14,12.0,9.0,Cash,Sumapa
+2026-01-03,Globe Load 100,Telecom,5,100.0,95.0,Cash,Bangkal
+2026-01-03,RC Cola Mismo,Beverages,7,12.0,9.0,Cash,Malolos Centro
+2026-01-03,Bear Brand 33g,Beverages,5,12.0,9.5,Cash,Caniogan
+2026-01-03,Marlboro Lights per stick,Tobacco,4,8.0,6.5,Cash,Caniogan
+2026-01-03,Nissin Cup Noodles,Noodles,1,25.0,20.0,Cash,Tikay
+2026-01-03,Smart Load 50,Telecom,6,50.0,47.0,Cash,Sumapa
+2026-01-04,Safeguard Soap,Household,7,35.0,28.0,GCash,Ligas
+2026-01-04,Nissin Cup Noodles,Noodles,2,25.0,20.0,GCash,Malolos Centro
+2026-01-04,Lucky Me Beef,Noodles,6,12.0,9.5,Cash,Caniogan
+2026-01-04,Marlboro Lights per stick,Tobacco,6,8.0,6.5,GCash,Malolos Centro
+2026-01-04,Lucky Me Pancit Canton,Noodles,5,12.0,9.5,GCash,Bangkal
+2026-01-04,Bear Brand 33g,Beverages,7,12.0,9.5,Cash,Tikay
+2026-01-04,Smart Load 100,Telecom,9,100.0,95.0,Cash,Tikay
+2026-01-04,Kopiko Brown,Beverages,3,7.0,5.0,GCash,Caniogan
+2026-01-04,Marlboro Lights per stick,Tobacco,6,8.0,6.5,Cash,Tikay
+2026-01-04,Nissin Cup Noodles,Noodles,6,25.0,20.0,GCash,Bangkal
+2026-01-04,Coke Mismo,Beverages,5,15.0,11.0,Cash,Balite
+2026-01-04,Lucky Me Beef,Noodles,3,12.0,9.5,Cash,Ligas
+2026-01-04,Downy Sachet,Household,6,6.0,4.5,Cash,Ligas
+2026-01-04,Smart Load 100,Telecom,15,100.0,95.0,Cash,Ligas
+2026-01-04,Sky Flakes,Snacks,6,8.0,6.0,Cash,Tikay
+2026-01-04,Yakult 5-pack,Beverages,12,48.0,40.0,Cash,Tikay
+2026-01-04,Oishi Pillows,Snacks,14,10.0,7.5,Cash,Malolos Centro
+2026-01-04,Pepsi Mismo,Beverages,3,12.0,9.0,Cash,Sumapa
+2026-01-04,RC Cola Mismo,Beverages,1,12.0,9.0,Cash,Ligas
+2026-01-04,RC Cola Mismo,Beverages,12,12.0,9.0,Cash,Bangkal
+2026-01-04,Payless Noodles,Noodles,15,8.0,6.0,Cash,Malolos Centro
+2026-01-04,Chippy BBQ,Snacks,6,12.0,9.0,GCash,Caniogan
+2026-01-04,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Tikay
+2026-01-04,Payless Noodles,Noodles,6,8.0,6.0,Cash,Sumapa
+2026-01-04,Smart Load 50,Telecom,5,50.0,47.0,Cash,Tikay
+2026-01-04,Downy Sachet,Household,9,6.0,4.5,Cash,Sumapa
+2026-01-04,Rebisco Crackers,Snacks,1,5.0,3.5,GCash,Tikay
+2026-01-05,Marlboro Lights per stick,Tobacco,2,8.0,6.5,Cash,Caniogan
+2026-01-05,Joy Dishwashing 40ml,Household,2,8.0,6.0,Cash,Malolos Centro
+2026-01-05,Bear Brand 33g,Beverages,11,12.0,9.5,Cash,Bangkal
+2026-01-05,Red Horse Stallion,Beverages,10,30.0,24.0,Cash,Balite
+2026-01-05,Coke Mismo,Beverages,1,15.0,11.0,Cash,Caniogan
+2026-01-05,Globe Load 100,Telecom,12,100.0,95.0,Cash,Caniogan
+2026-01-05,Ariel Powder 40g,Household,5,8.0,6.0,GCash,Malolos Centro
+2026-01-05,Yakult 5-pack,Beverages,1,48.0,40.0,GCash,Caniogan
+2026-01-05,Yakult 5-pack,Beverages,12,48.0,40.0,GCash,Tikay
+2026-01-05,Pepsi Mismo,Beverages,14,12.0,9.0,Cash,Ligas
+2026-01-05,Yakult 5-pack,Beverages,13,48.0,40.0,Cash,Catmon
+2026-01-05,Oishi Pillows,Snacks,10,10.0,7.5,Cash,Catmon
+2026-01-05,Boy Bawang,Snacks,5,10.0,7.5,Cash,Sumapa
+2026-01-05,Palmolive Shampoo Sachet,Household,14,6.0,4.5,Cash,Catmon
+2026-01-06,Smart Load 50,Telecom,4,50.0,47.0,Cash,Bangkal
+2026-01-06,Palmolive Shampoo Sachet,Household,7,6.0,4.5,Cash,Tikay
+2026-01-06,Payless Noodles,Noodles,5,8.0,6.0,Cash,Bangkal
+2026-01-06,Downy Sachet,Household,13,6.0,4.5,Cash,Tikay
+2026-01-06,Red Horse Stallion,Beverages,11,30.0,24.0,Cash,Balite
+2026-01-06,Sky Flakes,Snacks,4,8.0,6.0,Cash,Caniogan
+2026-01-06,Smart Load 100,Telecom,7,100.0,95.0,Cash,Ligas
+2026-01-06,Rebisco Crackers,Snacks,10,5.0,3.5,Cash,Catmon
+2026-01-07,Oishi Prawn Crackers,Snacks,13,12.0,9.0,Cash,Tikay
+2026-01-07,Oishi Prawn Crackers,Snacks,11,12.0,9.0,Cash,Catmon
+2026-01-07,Lucky Me Beef,Noodles,9,12.0,9.5,Cash,Caniogan
+2026-01-07,Joy Dishwashing 40ml,Household,4,8.0,6.0,Cash,Caniogan
+2026-01-07,Sky Flakes,Snacks,11,8.0,6.0,GCash,Catmon
+2026-01-07,Bear Brand 33g,Beverages,8,12.0,9.5,Cash,Catmon
+2026-01-07,Marlboro Lights per stick,Tobacco,13,8.0,6.5,Cash,Ligas
+2026-01-07,Coke Mismo,Beverages,3,15.0,11.0,Cash,Sumapa
+2026-01-07,Sky Flakes,Snacks,7,8.0,6.0,Cash,Malolos Centro
+2026-01-07,Oishi Pillows,Snacks,2,10.0,7.5,Cash,Catmon
+2026-01-07,Sky Flakes,Snacks,7,8.0,6.0,Cash,Catmon
+2026-01-07,Chippy BBQ,Snacks,11,12.0,9.0,GCash,Ligas
+2026-01-07,Red Horse Stallion,Beverages,5,30.0,24.0,GCash,Catmon
+2026-01-07,Palmolive Shampoo Sachet,Household,9,6.0,4.5,Cash,Catmon
+2026-01-07,Downy Sachet,Household,11,6.0,4.5,Cash,Tikay
+2026-01-07,Globe Load 50,Telecom,3,50.0,47.0,Cash,Malolos Centro
+2026-01-07,Nissin Cup Noodles,Noodles,7,25.0,20.0,Cash,Balite
+2026-01-07,Rebisco Crackers,Snacks,12,5.0,3.5,Cash,Caniogan
+2026-01-07,Tide Powder 40g,Household,13,7.0,5.5,Cash,Balite
+2026-01-07,Marlboro Lights per stick,Tobacco,14,8.0,6.5,Cash,Sumapa
+2026-01-08,Nissin Cup Noodles,Noodles,12,25.0,20.0,GCash,Ligas
+2026-01-08,Smart Load 50,Telecom,11,50.0,47.0,Cash,Bangkal
+2026-01-08,Oishi Pillows,Snacks,1,10.0,7.5,Cash,Bangkal
+2026-01-08,Payless Noodles,Noodles,1,8.0,6.0,Cash,Caniogan
+2026-01-08,Chippy BBQ,Snacks,12,12.0,9.0,Cash,Caniogan
+2026-01-08,Bear Brand 33g,Beverages,10,12.0,9.5,GCash,Balite
+2026-01-08,Safeguard Soap,Household,11,35.0,28.0,Cash,Ligas
+2026-01-08,Nissin Cup Noodles,Noodles,3,25.0,20.0,Cash,Malolos Centro
+2026-01-08,Pepsi Mismo,Beverages,2,12.0,9.0,Cash,Sumapa
+2026-01-08,Smart Load 50,Telecom,1,50.0,47.0,Cash,Caniogan
+2026-01-09,Coke Mismo,Beverages,11,15.0,11.0,Cash,Bangkal
+2026-01-09,Globe Load 100,Telecom,11,100.0,95.0,GCash,Sumapa
+2026-01-09,Nissin Cup Noodles,Noodles,5,25.0,20.0,Cash,Tikay
+2026-01-09,Piattos Cheese,Snacks,7,15.0,11.5,Cash,Catmon
+2026-01-09,RC Cola Mismo,Beverages,15,12.0,9.0,Cash,Caniogan
+2026-01-09,Piattos Cheese,Snacks,8,15.0,11.5,Cash,Caniogan
+2026-01-09,Rebisco Crackers,Snacks,4,5.0,3.5,Cash,Ligas
+2026-01-09,Rebisco Crackers,Snacks,14,5.0,3.5,Cash,Malolos Centro
+2026-01-09,Yakult 5-pack,Beverages,1,48.0,40.0,Cash,Bangkal
+2026-01-09,Oishi Prawn Crackers,Snacks,14,12.0,9.0,Cash,Ligas
+2026-01-09,Lucky Me Beef,Noodles,8,12.0,9.5,Cash,Caniogan
+2026-01-09,Sky Flakes,Snacks,10,8.0,6.0,GCash,Caniogan
+2026-01-09,C2 Apple,Beverages,12,20.0,15.5,Cash,Malolos Centro
+2026-01-09,Oishi Prawn Crackers,Snacks,10,12.0,9.0,Cash,Catmon
+2026-01-09,Kopiko Brown,Beverages,15,7.0,5.0,Cash,Caniogan
+2026-01-09,Payless Noodles,Noodles,8,8.0,6.0,GCash,Balite
+2026-01-09,Chippy BBQ,Snacks,12,12.0,9.0,Cash,Malolos Centro
+2026-01-09,RC Cola Mismo,Beverages,5,12.0,9.0,Cash,Caniogan
+2026-01-10,Chippy BBQ,Snacks,4,12.0,9.0,GCash,Sumapa
+2026-01-10,Rebisco Crackers,Snacks,15,5.0,3.5,Cash,Caniogan
+2026-01-10,Coke Mismo,Beverages,15,15.0,11.0,Cash,Bangkal
+2026-01-10,Oishi Prawn Crackers,Snacks,14,12.0,9.0,Cash,Caniogan
+2026-01-10,Globe Load 50,Telecom,14,50.0,47.0,Cash,Sumapa
+2026-01-10,Bear Brand 33g,Beverages,12,12.0,9.5,Cash,Caniogan
+2026-01-10,Coke Mismo,Beverages,3,15.0,11.0,Cash,Tikay
+2026-01-10,Tide Powder 40g,Household,8,7.0,5.5,Cash,Bangkal
+2026-01-10,Piattos Cheese,Snacks,5,15.0,11.5,Cash,Sumapa
+2026-01-10,Oishi Pillows,Snacks,1,10.0,7.5,Cash,Balite
+2026-01-10,Smart Load 100,Telecom,5,100.0,95.0,Cash,Tikay
+2026-01-10,RC Cola Mismo,Beverages,14,12.0,9.0,GCash,Malolos Centro
+2026-01-10,Globe Load 50,Telecom,2,50.0,47.0,Cash,Bangkal
+2026-01-10,Payless Noodles,Noodles,10,8.0,6.0,Cash,Catmon
+2026-01-10,Oishi Pillows,Snacks,4,10.0,7.5,Cash,Ligas
+2026-01-10,Yakult 5-pack,Beverages,13,48.0,40.0,Cash,Malolos Centro
+2026-01-10,Palmolive Shampoo Sachet,Household,15,6.0,4.5,GCash,Ligas
+2026-01-10,Smart Load 100,Telecom,3,100.0,95.0,GCash,Catmon
+2026-01-10,Safeguard Soap,Household,1,35.0,28.0,Cash,Caniogan
+2026-01-10,Globe Load 100,Telecom,13,100.0,95.0,Cash,Catmon
+2026-01-10,Globe Load 50,Telecom,10,50.0,47.0,GCash,Catmon
+2026-01-10,Globe Load 100,Telecom,9,100.0,95.0,Cash,Catmon
+2026-01-10,RC Cola Mismo,Beverages,11,12.0,9.0,Cash,Sumapa
+2026-01-10,Marlboro Lights per stick,Tobacco,6,8.0,6.5,Cash,Ligas
+2026-01-10,Safeguard Soap,Household,8,35.0,28.0,GCash,Caniogan
+2026-01-10,Downy Sachet,Household,14,6.0,4.5,Cash,Tikay
+2026-01-11,Red Horse Stallion,Beverages,6,30.0,24.0,Cash,Catmon
+2026-01-11,Smart Load 50,Telecom,4,50.0,47.0,Cash,Bangkal
+2026-01-11,Palmolive Shampoo Sachet,Household,13,6.0,4.5,Cash,Sumapa
+2026-01-11,Globe Load 100,Telecom,13,100.0,95.0,Cash,Balite
+2026-01-11,Bear Brand 33g,Beverages,9,12.0,9.5,Cash,Catmon
+2026-01-11,Kopiko Brown,Beverages,6,7.0,5.0,Cash,Balite
+2026-01-11,Ariel Powder 40g,Household,11,8.0,6.0,Cash,Tikay
+2026-01-11,Palmolive Shampoo Sachet,Household,13,6.0,4.5,GCash,Bangkal
+2026-01-11,Globe Load 50,Telecom,4,50.0,47.0,Cash,Bangkal
+2026-01-11,Oishi Prawn Crackers,Snacks,15,12.0,9.0,Cash,Caniogan
+2026-01-11,Smart Load 50,Telecom,9,50.0,47.0,Cash,Malolos Centro
+2026-01-11,Chippy BBQ,Snacks,3,12.0,9.0,Cash,Catmon
+2026-01-11,Nissin Cup Noodles,Noodles,6,25.0,20.0,Cash,Bangkal
+2026-01-11,Palmolive Shampoo Sachet,Household,3,6.0,4.5,Cash,Malolos Centro
+2026-01-11,Boy Bawang,Snacks,13,10.0,7.5,Cash,Tikay
+2026-01-11,Smart Load 100,Telecom,10,100.0,95.0,Cash,Ligas
+2026-01-11,Oishi Prawn Crackers,Snacks,7,12.0,9.0,GCash,Ligas
+2026-01-11,Downy Sachet,Household,12,6.0,4.5,Cash,Balite
+2026-01-11,Lucky Me Pancit Canton,Noodles,14,12.0,9.5,Cash,Tikay
+2026-01-11,Safeguard Soap,Household,7,35.0,28.0,Cash,Sumapa
+2026-01-11,Smart Load 100,Telecom,9,100.0,95.0,GCash,Caniogan
+2026-01-11,Safeguard Soap,Household,6,35.0,28.0,Cash,Sumapa
+2026-01-11,Smart Load 100,Telecom,5,100.0,95.0,Cash,Malolos Centro
+2026-01-11,Oishi Pillows,Snacks,6,10.0,7.5,Cash,Tikay
+2026-01-11,Sky Flakes,Snacks,9,8.0,6.0,Cash,Sumapa
+2026-01-11,Nissin Cup Noodles,Noodles,9,25.0,20.0,GCash,Ligas
+2026-01-11,Sky Flakes,Snacks,6,8.0,6.0,Cash,Malolos Centro
+2026-01-11,Lucky Me Pancit Canton,Noodles,15,12.0,9.5,GCash,Ligas
+2026-01-11,C2 Apple,Beverages,14,20.0,15.5,Cash,Bangkal
+2026-01-11,Sky Flakes,Snacks,2,8.0,6.0,Cash,Balite
+2026-01-11,Kopiko Brown,Beverages,11,7.0,5.0,GCash,Balite
+2026-01-11,Payless Noodles,Noodles,1,8.0,6.0,Cash,Caniogan
+2026-01-11,Bear Brand 33g,Beverages,10,12.0,9.5,Cash,Caniogan
+2026-01-11,Yakult 5-pack,Beverages,4,48.0,40.0,GCash,Sumapa
+2026-01-11,Red Horse Stallion,Beverages,5,30.0,24.0,Cash,Tikay
+2026-01-12,Boy Bawang,Snacks,9,10.0,7.5,Cash,Catmon
+2026-01-12,Yakult 5-pack,Beverages,9,48.0,40.0,GCash,Sumapa
+2026-01-12,Globe Load 100,Telecom,13,100.0,95.0,Cash,Caniogan
+2026-01-12,Payless Noodles,Noodles,3,8.0,6.0,Cash,Bangkal
+2026-01-12,Nissin Cup Noodles,Noodles,2,25.0,20.0,Cash,Bangkal
+2026-01-12,Smart Load 100,Telecom,3,100.0,95.0,Cash,Sumapa
+2026-01-12,Chippy BBQ,Snacks,2,12.0,9.0,Cash,Bangkal
+2026-01-12,Rebisco Crackers,Snacks,9,5.0,3.5,GCash,Bangkal
+2026-01-12,Smart Load 50,Telecom,5,50.0,47.0,GCash,Caniogan
+2026-01-12,Ariel Powder 40g,Household,7,8.0,6.0,Cash,Caniogan
+2026-01-12,Downy Sachet,Household,7,6.0,4.5,Cash,Tikay
+2026-01-12,Sky Flakes,Snacks,3,8.0,6.0,Cash,Caniogan
+2026-01-12,Coke Mismo,Beverages,12,15.0,11.0,GCash,Catmon
+2026-01-12,Safeguard Soap,Household,4,35.0,28.0,Cash,Caniogan
+2026-01-12,Lucky Me Beef,Noodles,12,12.0,9.5,Cash,Balite
+2026-01-12,Marlboro Lights per stick,Tobacco,2,8.0,6.5,GCash,Bangkal
+2026-01-12,Payless Noodles,Noodles,2,8.0,6.0,Cash,Ligas
+2026-01-12,Lucky Me Beef,Noodles,9,12.0,9.5,Cash,Catmon
+2026-01-12,Red Horse Stallion,Beverages,5,30.0,24.0,Cash,Ligas
+2026-01-13,Piattos Cheese,Snacks,1,15.0,11.5,Cash,Tikay
+2026-01-13,Globe Load 50,Telecom,10,50.0,47.0,Cash,Malolos Centro
+2026-01-13,Marlboro Lights per stick,Tobacco,15,8.0,6.5,Cash,Ligas
+2026-01-13,Pepsi Mismo,Beverages,3,12.0,9.0,Cash,Malolos Centro
+2026-01-13,Payless Noodles,Noodles,9,8.0,6.0,Cash,Catmon
+2026-01-13,Smart Load 50,Telecom,1,50.0,47.0,Cash,Caniogan
+2026-01-13,Rebisco Crackers,Snacks,5,5.0,3.5,GCash,Caniogan
+2026-01-13,Smart Load 100,Telecom,6,100.0,95.0,Cash,Caniogan
+2026-01-13,Globe Load 100,Telecom,12,100.0,95.0,GCash,Tikay
+2026-01-13,Palmolive Shampoo Sachet,Household,3,6.0,4.5,GCash,Caniogan
+2026-01-13,Palmolive Shampoo Sachet,Household,8,6.0,4.5,Cash,Tikay
+2026-01-13,Smart Load 50,Telecom,12,50.0,47.0,Cash,Catmon
+2026-01-14,Tide Powder 40g,Household,11,7.0,5.5,GCash,Bangkal
+2026-01-14,Boy Bawang,Snacks,4,10.0,7.5,Cash,Balite
+2026-01-14,Oishi Pillows,Snacks,1,10.0,7.5,Cash,Ligas
+2026-01-14,Ariel Powder 40g,Household,2,8.0,6.0,Cash,Malolos Centro
+2026-01-14,Rebisco Crackers,Snacks,11,5.0,3.5,Cash,Catmon
+2026-01-14,Ariel Powder 40g,Household,9,8.0,6.0,Cash,Sumapa
+2026-01-14,Tide Powder 40g,Household,9,7.0,5.5,GCash,Malolos Centro
+2026-01-14,Rebisco Crackers,Snacks,9,5.0,3.5,Cash,Caniogan
+2026-01-14,Sky Flakes,Snacks,15,8.0,6.0,Cash,Catmon
+2026-01-14,Joy Dishwashing 40ml,Household,15,8.0,6.0,GCash,Tikay
+2026-01-14,Lucky Me Pancit Canton,Noodles,5,12.0,9.5,Cash,Sumapa
+2026-01-14,Globe Load 100,Telecom,12,100.0,95.0,GCash,Caniogan
+2026-01-14,Nissin Cup Noodles,Noodles,13,25.0,20.0,GCash,Balite
+2026-01-14,Boy Bawang,Snacks,10,10.0,7.5,Cash,Caniogan
+2026-01-14,Smart Load 50,Telecom,15,50.0,47.0,Cash,Balite
+2026-01-14,Oishi Prawn Crackers,Snacks,3,12.0,9.0,Cash,Malolos Centro
+2026-01-14,Smart Load 50,Telecom,9,50.0,47.0,Cash,Bangkal
+2026-01-14,Kopiko Brown,Beverages,2,7.0,5.0,Cash,Catmon
+2026-01-14,Oishi Pillows,Snacks,3,10.0,7.5,Cash,Tikay
+2026-01-14,RC Cola Mismo,Beverages,5,12.0,9.0,Cash,Tikay
+2026-01-15,Oishi Prawn Crackers,Snacks,11,12.0,9.0,Cash,Malolos Centro
+2026-01-15,Tide Powder 40g,Household,6,7.0,5.5,Cash,Malolos Centro
+2026-01-15,Safeguard Soap,Household,1,35.0,28.0,Cash,Bangkal
+2026-01-15,Payless Noodles,Noodles,6,8.0,6.0,Cash,Bangkal
+2026-01-15,Smart Load 100,Telecom,6,100.0,95.0,Cash,Bangkal
+2026-01-15,Globe Load 100,Telecom,15,100.0,95.0,Cash,Malolos Centro
+2026-01-15,Pepsi Mismo,Beverages,4,12.0,9.0,GCash,Sumapa
+2026-01-15,Piattos Cheese,Snacks,9,15.0,11.5,GCash,Bangkal
+2026-01-15,Payless Noodles,Noodles,5,8.0,6.0,Cash,Balite
+2026-01-15,Chippy BBQ,Snacks,9,12.0,9.0,Cash,Catmon
+2026-01-15,Piattos Cheese,Snacks,1,15.0,11.5,Cash,Sumapa
+2026-01-15,Marlboro Lights per stick,Tobacco,15,8.0,6.5,Cash,Ligas
+2026-01-16,Rebisco Crackers,Snacks,11,5.0,3.5,Cash,Sumapa
+2026-01-16,Palmolive Shampoo Sachet,Household,9,6.0,4.5,Cash,Ligas
+2026-01-16,Rebisco Crackers,Snacks,7,5.0,3.5,Cash,Catmon
+2026-01-16,Smart Load 50,Telecom,11,50.0,47.0,GCash,Sumapa
+2026-01-16,Globe Load 50,Telecom,3,50.0,47.0,Cash,Tikay
+2026-01-16,Globe Load 50,Telecom,4,50.0,47.0,GCash,Bangkal
+2026-01-16,Marlboro Lights per stick,Tobacco,9,8.0,6.5,Cash,Malolos Centro
+2026-01-16,Lucky Me Pancit Canton,Noodles,14,12.0,9.5,Cash,Ligas
+2026-01-16,Ariel Powder 40g,Household,3,8.0,6.0,Cash,Malolos Centro
+2026-01-16,Marlboro Lights per stick,Tobacco,15,8.0,6.5,Cash,Ligas
+2026-01-16,Tide Powder 40g,Household,5,7.0,5.5,Cash,Balite
+2026-01-16,Globe Load 100,Telecom,11,100.0,95.0,Cash,Ligas
+2026-01-16,Lucky Me Beef,Noodles,3,12.0,9.5,GCash,Catmon
+2026-01-16,Bear Brand 33g,Beverages,2,12.0,9.5,Cash,Catmon
+2026-01-16,Globe Load 100,Telecom,3,100.0,95.0,GCash,Ligas
+2026-01-16,Smart Load 100,Telecom,7,100.0,95.0,Cash,Balite
+2026-01-17,Ariel Powder 40g,Household,5,8.0,6.0,Cash,Ligas
+2026-01-17,C2 Apple,Beverages,11,20.0,15.5,Cash,Balite
+2026-01-17,Pepsi Mismo,Beverages,8,12.0,9.0,GCash,Balite
+2026-01-17,Lucky Me Pancit Canton,Noodles,15,12.0,9.5,Cash,Malolos Centro
+2026-01-17,Tide Powder 40g,Household,8,7.0,5.5,Cash,Malolos Centro
+2026-01-17,Joy Dishwashing 40ml,Household,3,8.0,6.0,Cash,Caniogan
+2026-01-17,Palmolive Shampoo Sachet,Household,7,6.0,4.5,GCash,Catmon
+2026-01-17,Globe Load 50,Telecom,15,50.0,47.0,Cash,Malolos Centro
+2026-01-17,Smart Load 100,Telecom,14,100.0,95.0,Cash,Catmon
+2026-01-17,Red Horse Stallion,Beverages,14,30.0,24.0,Cash,Balite
+2026-01-17,Boy Bawang,Snacks,3,10.0,7.5,Cash,Catmon
+2026-01-17,Chippy BBQ,Snacks,6,12.0,9.0,Cash,Caniogan
+2026-01-17,Lucky Me Pancit Canton,Noodles,4,12.0,9.5,Cash,Ligas
+2026-01-17,Joy Dishwashing 40ml,Household,15,8.0,6.0,Cash,Sumapa
+2026-01-17,Nissin Cup Noodles,Noodles,14,25.0,20.0,GCash,Ligas
+2026-01-17,Globe Load 50,Telecom,12,50.0,47.0,Cash,Sumapa
+2026-01-17,Piattos Cheese,Snacks,6,15.0,11.5,Cash,Ligas
+2026-01-17,Piattos Cheese,Snacks,15,15.0,11.5,GCash,Sumapa
+2026-01-17,Lucky Me Pancit Canton,Noodles,4,12.0,9.5,Cash,Catmon
+2026-01-17,Smart Load 50,Telecom,5,50.0,47.0,GCash,Caniogan
+2026-01-17,RC Cola Mismo,Beverages,9,12.0,9.0,Cash,Tikay
+2026-01-17,Nissin Cup Noodles,Noodles,10,25.0,20.0,Cash,Catmon
+2026-01-17,Coke Mismo,Beverages,5,15.0,11.0,GCash,Sumapa
+2026-01-17,Smart Load 100,Telecom,9,100.0,95.0,Cash,Sumapa
+2026-01-17,Smart Load 50,Telecom,11,50.0,47.0,Cash,Ligas
+2026-01-18,Smart Load 100,Telecom,8,100.0,95.0,Cash,Bangkal
+2026-01-18,Ariel Powder 40g,Household,11,8.0,6.0,Cash,Balite
+2026-01-18,Oishi Prawn Crackers,Snacks,14,12.0,9.0,Cash,Ligas
+2026-01-18,Payless Noodles,Noodles,11,8.0,6.0,GCash,Caniogan
+2026-01-18,Piattos Cheese,Snacks,6,15.0,11.5,GCash,Malolos Centro
+2026-01-18,Smart Load 100,Telecom,12,100.0,95.0,Cash,Malolos Centro
+2026-01-18,Kopiko Brown,Beverages,15,7.0,5.0,Cash,Caniogan
+2026-01-18,Yakult 5-pack,Beverages,1,48.0,40.0,Cash,Sumapa
+2026-01-18,Yakult 5-pack,Beverages,2,48.0,40.0,GCash,Malolos Centro
+2026-01-18,Downy Sachet,Household,4,6.0,4.5,Cash,Catmon
+2026-01-18,Marlboro Lights per stick,Tobacco,4,8.0,6.5,Cash,Tikay
+2026-01-18,Yakult 5-pack,Beverages,5,48.0,40.0,Cash,Catmon
+2026-01-18,Lucky Me Pancit Canton,Noodles,8,12.0,9.5,Cash,Malolos Centro
+2026-01-18,Rebisco Crackers,Snacks,13,5.0,3.5,Cash,Ligas
+2026-01-18,C2 Apple,Beverages,2,20.0,15.5,Cash,Sumapa
+2026-01-18,Yakult 5-pack,Beverages,14,48.0,40.0,Cash,Balite
+2026-01-18,Sky Flakes,Snacks,13,8.0,6.0,Cash,Catmon
+2026-01-18,Palmolive Shampoo Sachet,Household,10,6.0,4.5,GCash,Caniogan
+2026-01-18,Palmolive Shampoo Sachet,Household,2,6.0,4.5,Cash,Catmon
+2026-01-18,Nissin Cup Noodles,Noodles,1,25.0,20.0,Cash,Bangkal
+2026-01-18,Yakult 5-pack,Beverages,15,48.0,40.0,Cash,Tikay
+2026-01-18,Lucky Me Beef,Noodles,15,12.0,9.5,Cash,Malolos Centro
+2026-01-18,Bear Brand 33g,Beverages,10,12.0,9.5,Cash,Catmon
+2026-01-18,Payless Noodles,Noodles,11,8.0,6.0,Cash,Malolos Centro
+2026-01-18,Bear Brand 33g,Beverages,14,12.0,9.5,Cash,Bangkal
+2026-01-18,Payless Noodles,Noodles,10,8.0,6.0,Cash,Sumapa
+2026-01-18,Smart Load 50,Telecom,10,50.0,47.0,GCash,Malolos Centro
+2026-01-18,Chippy BBQ,Snacks,7,12.0,9.0,Cash,Bangkal
+2026-01-18,Smart Load 100,Telecom,10,100.0,95.0,GCash,Catmon
+2026-01-18,Yakult 5-pack,Beverages,11,48.0,40.0,Cash,Caniogan
+2026-01-18,Sky Flakes,Snacks,6,8.0,6.0,GCash,Sumapa
+2026-01-18,Payless Noodles,Noodles,2,8.0,6.0,Cash,Catmon
+2026-01-19,Globe Load 50,Telecom,14,50.0,47.0,Cash,Tikay
+2026-01-19,Ariel Powder 40g,Household,9,8.0,6.0,Cash,Balite
+2026-01-19,Oishi Prawn Crackers,Snacks,8,12.0,9.0,GCash,Caniogan
+2026-01-19,RC Cola Mismo,Beverages,4,12.0,9.0,Cash,Malolos Centro
+2026-01-19,Lucky Me Beef,Noodles,3,12.0,9.5,Cash,Bangkal
+2026-01-19,Sky Flakes,Snacks,11,8.0,6.0,Cash,Ligas
+2026-01-19,Rebisco Crackers,Snacks,15,5.0,3.5,GCash,Tikay
+2026-01-19,Coke Mismo,Beverages,8,15.0,11.0,Cash,Balite
+2026-01-19,Bear Brand 33g,Beverages,6,12.0,9.5,Cash,Tikay
+2026-01-19,Lucky Me Beef,Noodles,4,12.0,9.5,GCash,Malolos Centro
+2026-01-19,Oishi Prawn Crackers,Snacks,6,12.0,9.0,Cash,Sumapa
+2026-01-19,Ariel Powder 40g,Household,15,8.0,6.0,Cash,Catmon
+2026-01-19,Yakult 5-pack,Beverages,4,48.0,40.0,Cash,Caniogan
+2026-01-19,Tide Powder 40g,Household,12,7.0,5.5,Cash,Balite
+2026-01-19,Tide Powder 40g,Household,5,7.0,5.5,Cash,Balite
+2026-01-19,RC Cola Mismo,Beverages,2,12.0,9.0,Cash,Malolos Centro
+2026-01-19,Piattos Cheese,Snacks,4,15.0,11.5,Cash,Sumapa
+2026-01-20,C2 Apple,Beverages,8,20.0,15.5,GCash,Sumapa
+2026-01-20,C2 Apple,Beverages,8,20.0,15.5,Cash,Bangkal
+2026-01-20,Pepsi Mismo,Beverages,7,12.0,9.0,Cash,Malolos Centro
+2026-01-20,Red Horse Stallion,Beverages,1,30.0,24.0,Cash,Balite
+2026-01-20,Lucky Me Pancit Canton,Noodles,9,12.0,9.5,Cash,Tikay
+2026-01-20,Bear Brand 33g,Beverages,8,12.0,9.5,Cash,Balite
+2026-01-20,Lucky Me Beef,Noodles,1,12.0,9.5,Cash,Sumapa
+2026-01-20,Bear Brand 33g,Beverages,3,12.0,9.5,Cash,Ligas
+2026-01-20,Downy Sachet,Household,3,6.0,4.5,Cash,Sumapa
+2026-01-20,RC Cola Mismo,Beverages,4,12.0,9.0,Cash,Tikay
+2026-01-20,Globe Load 100,Telecom,5,100.0,95.0,Cash,Malolos Centro
+2026-01-20,Globe Load 100,Telecom,11,100.0,95.0,Cash,Bangkal
+2026-01-20,Ariel Powder 40g,Household,13,8.0,6.0,Cash,Balite
+2026-01-20,Marlboro Lights per stick,Tobacco,4,8.0,6.5,Cash,Caniogan
+2026-01-20,C2 Apple,Beverages,6,20.0,15.5,Cash,Tikay
+2026-01-20,Sky Flakes,Snacks,13,8.0,6.0,GCash,Bangkal
+2026-01-20,Smart Load 100,Telecom,12,100.0,95.0,Cash,Catmon
+2026-01-20,Coke Mismo,Beverages,15,15.0,11.0,Cash,Sumapa
+2026-01-20,Pepsi Mismo,Beverages,9,12.0,9.0,Cash,Balite
+2026-01-21,Tide Powder 40g,Household,7,7.0,5.5,Cash,Malolos Centro
+2026-01-21,Palmolive Shampoo Sachet,Household,10,6.0,4.5,GCash,Sumapa
+2026-01-21,Smart Load 50,Telecom,9,50.0,47.0,Cash,Tikay
+2026-01-21,Yakult 5-pack,Beverages,4,48.0,40.0,Cash,Ligas
+2026-01-21,Smart Load 50,Telecom,3,50.0,47.0,GCash,Caniogan
+2026-01-21,Pepsi Mismo,Beverages,12,12.0,9.0,Cash,Caniogan
+2026-01-21,Globe Load 50,Telecom,11,50.0,47.0,GCash,Catmon
+2026-01-21,RC Cola Mismo,Beverages,9,12.0,9.0,Cash,Balite
+2026-01-21,Piattos Cheese,Snacks,9,15.0,11.5,Cash,Tikay
+2026-01-21,Yakult 5-pack,Beverages,12,48.0,40.0,Cash,Caniogan
+2026-01-21,Safeguard Soap,Household,8,35.0,28.0,Cash,Ligas
+2026-01-21,Rebisco Crackers,Snacks,7,5.0,3.5,GCash,Malolos Centro
+2026-01-21,Pepsi Mismo,Beverages,4,12.0,9.0,Cash,Caniogan
+2026-01-22,C2 Apple,Beverages,7,20.0,15.5,Cash,Ligas
+2026-01-22,Oishi Prawn Crackers,Snacks,15,12.0,9.0,Cash,Tikay
+2026-01-22,Marlboro Lights per stick,Tobacco,14,8.0,6.5,Cash,Ligas
+2026-01-22,Oishi Pillows,Snacks,2,10.0,7.5,Cash,Catmon
+2026-01-22,Bear Brand 33g,Beverages,8,12.0,9.5,GCash,Balite
+2026-01-22,C2 Apple,Beverages,10,20.0,15.5,Cash,Caniogan
+2026-01-22,Sky Flakes,Snacks,10,8.0,6.0,Cash,Bangkal
+2026-01-22,Chippy BBQ,Snacks,8,12.0,9.0,Cash,Bangkal
+2026-01-22,Red Horse Stallion,Beverages,13,30.0,24.0,Cash,Balite
+2026-01-22,Kopiko Brown,Beverages,7,7.0,5.0,Cash,Tikay
+2026-01-22,Chippy BBQ,Snacks,4,12.0,9.0,Cash,Catmon
+2026-01-22,Red Horse Stallion,Beverages,15,30.0,24.0,Cash,Ligas
+2026-01-22,Globe Load 100,Telecom,9,100.0,95.0,GCash,Catmon
+2026-01-22,Globe Load 50,Telecom,5,50.0,47.0,Cash,Catmon
+2026-01-22,Payless Noodles,Noodles,2,8.0,6.0,Cash,Malolos Centro
+2026-01-22,Oishi Pillows,Snacks,4,10.0,7.5,Cash,Sumapa
+2026-01-22,Joy Dishwashing 40ml,Household,6,8.0,6.0,Cash,Ligas
+2026-01-22,Downy Sachet,Household,14,6.0,4.5,Cash,Sumapa
+2026-01-22,Safeguard Soap,Household,10,35.0,28.0,Cash,Ligas
+2026-01-22,Lucky Me Pancit Canton,Noodles,13,12.0,9.5,Cash,Ligas
+2026-01-22,Globe Load 100,Telecom,6,100.0,95.0,Cash,Bangkal
+2026-01-23,Rebisco Crackers,Snacks,13,5.0,3.5,Cash,Caniogan
+2026-01-23,Ariel Powder 40g,Household,9,8.0,6.0,Cash,Bangkal
+2026-01-23,C2 Apple,Beverages,4,20.0,15.5,Cash,Caniogan
+2026-01-23,C2 Apple,Beverages,9,20.0,15.5,GCash,Caniogan
+2026-01-23,Downy Sachet,Household,14,6.0,4.5,Cash,Balite
+2026-01-23,Globe Load 50,Telecom,2,50.0,47.0,Cash,Sumapa
+2026-01-23,Oishi Prawn Crackers,Snacks,13,12.0,9.0,Cash,Sumapa
+2026-01-23,Chippy BBQ,Snacks,8,12.0,9.0,GCash,Malolos Centro
+2026-01-23,Red Horse Stallion,Beverages,3,30.0,24.0,GCash,Tikay
+2026-01-23,Bear Brand 33g,Beverages,12,12.0,9.5,Cash,Caniogan
+2026-01-23,Globe Load 50,Telecom,11,50.0,47.0,Cash,Balite
+2026-01-23,C2 Apple,Beverages,7,20.0,15.5,Cash,Bangkal
+2026-01-23,Palmolive Shampoo Sachet,Household,13,6.0,4.5,GCash,Ligas
+2026-01-23,Yakult 5-pack,Beverages,10,48.0,40.0,Cash,Malolos Centro
+2026-01-23,Marlboro Lights per stick,Tobacco,3,8.0,6.5,Cash,Balite
+2026-01-23,Rebisco Crackers,Snacks,11,5.0,3.5,GCash,Bangkal
+2026-01-23,Boy Bawang,Snacks,4,10.0,7.5,Cash,Catmon
+2026-01-23,Oishi Pillows,Snacks,7,10.0,7.5,Cash,Caniogan
+2026-01-23,Payless Noodles,Noodles,6,8.0,6.0,GCash,Caniogan
+2026-01-23,Ariel Powder 40g,Household,15,8.0,6.0,Cash,Catmon
+2026-01-23,RC Cola Mismo,Beverages,2,12.0,9.0,GCash,Tikay
+2026-01-24,Globe Load 100,Telecom,12,100.0,95.0,GCash,Caniogan
+2026-01-24,Lucky Me Pancit Canton,Noodles,3,12.0,9.5,Cash,Catmon
+2026-01-24,Marlboro Lights per stick,Tobacco,7,8.0,6.5,Cash,Sumapa
+2026-01-24,C2 Apple,Beverages,5,20.0,15.5,GCash,Catmon
+2026-01-24,Chippy BBQ,Snacks,1,12.0,9.0,Cash,Malolos Centro
+2026-01-24,RC Cola Mismo,Beverages,6,12.0,9.0,Cash,Bangkal
+2026-01-24,RC Cola Mismo,Beverages,2,12.0,9.0,Cash,Bangkal
+2026-01-24,Piattos Cheese,Snacks,12,15.0,11.5,Cash,Bangkal
+2026-01-24,Smart Load 100,Telecom,14,100.0,95.0,Cash,Tikay
+2026-01-24,Smart Load 50,Telecom,4,50.0,47.0,Cash,Bangkal
+2026-01-24,Globe Load 100,Telecom,12,100.0,95.0,Cash,Tikay
+2026-01-24,Tide Powder 40g,Household,10,7.0,5.5,Cash,Sumapa
+2026-01-24,Sky Flakes,Snacks,12,8.0,6.0,Cash,Ligas
+2026-01-24,Pepsi Mismo,Beverages,1,12.0,9.0,Cash,Caniogan
+2026-01-24,Nissin Cup Noodles,Noodles,14,25.0,20.0,Cash,Sumapa
+2026-01-24,Sky Flakes,Snacks,6,8.0,6.0,GCash,Caniogan
+2026-01-25,Chippy BBQ,Snacks,10,12.0,9.0,Cash,Catmon
+2026-01-25,Bear Brand 33g,Beverages,11,12.0,9.5,Cash,Balite
+2026-01-25,Safeguard Soap,Household,14,35.0,28.0,Cash,Bangkal
+2026-01-25,Tide Powder 40g,Household,14,7.0,5.5,Cash,Bangkal
+2026-01-25,C2 Apple,Beverages,3,20.0,15.5,GCash,Bangkal
+2026-01-25,Chippy BBQ,Snacks,7,12.0,9.0,Cash,Catmon
+2026-01-25,Boy Bawang,Snacks,12,10.0,7.5,Cash,Sumapa
+2026-01-25,Smart Load 100,Telecom,14,100.0,95.0,Cash,Ligas
+2026-01-25,Smart Load 100,Telecom,11,100.0,95.0,GCash,Ligas
+2026-01-25,Joy Dishwashing 40ml,Household,15,8.0,6.0,Cash,Sumapa
+2026-01-25,Marlboro Lights per stick,Tobacco,8,8.0,6.5,Cash,Catmon
+2026-01-25,Red Horse Stallion,Beverages,2,30.0,24.0,Cash,Balite
+2026-01-25,Oishi Prawn Crackers,Snacks,8,12.0,9.0,Cash,Ligas
+2026-01-25,Pepsi Mismo,Beverages,9,12.0,9.0,Cash,Caniogan
+2026-01-25,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,Cash,Bangkal
+2026-01-25,Yakult 5-pack,Beverages,12,48.0,40.0,Cash,Sumapa
+2026-01-25,Boy Bawang,Snacks,1,10.0,7.5,Cash,Ligas
+2026-01-25,Payless Noodles,Noodles,12,8.0,6.0,Cash,Balite
+2026-01-25,Joy Dishwashing 40ml,Household,12,8.0,6.0,Cash,Caniogan
+2026-01-25,Chippy BBQ,Snacks,2,12.0,9.0,Cash,Sumapa
+2026-01-25,Safeguard Soap,Household,8,35.0,28.0,Cash,Caniogan
+2026-01-25,Globe Load 100,Telecom,5,100.0,95.0,Cash,Tikay
+2026-01-25,Globe Load 100,Telecom,1,100.0,95.0,GCash,Catmon
+2026-01-25,RC Cola Mismo,Beverages,5,12.0,9.0,Cash,Bangkal
+2026-01-25,RC Cola Mismo,Beverages,2,12.0,9.0,Cash,Ligas
+2026-01-25,Coke Mismo,Beverages,8,15.0,11.0,Cash,Tikay
+2026-01-25,Pepsi Mismo,Beverages,12,12.0,9.0,Cash,Sumapa
+2026-01-25,Chippy BBQ,Snacks,12,12.0,9.0,Cash,Catmon
+2026-01-25,Boy Bawang,Snacks,12,10.0,7.5,Cash,Caniogan
+2026-01-26,Tide Powder 40g,Household,1,7.0,5.5,Cash,Bangkal
+2026-01-26,Palmolive Shampoo Sachet,Household,4,6.0,4.5,Cash,Balite
+2026-01-26,Marlboro Lights per stick,Tobacco,4,8.0,6.5,Cash,Catmon
+2026-01-26,Lucky Me Pancit Canton,Noodles,7,12.0,9.5,Cash,Malolos Centro
+2026-01-26,Yakult 5-pack,Beverages,14,48.0,40.0,Cash,Catmon
+2026-01-26,C2 Apple,Beverages,15,20.0,15.5,Cash,Tikay
+2026-01-26,Downy Sachet,Household,3,6.0,4.5,Cash,Bangkal
+2026-01-26,Sky Flakes,Snacks,2,8.0,6.0,Cash,Balite
+2026-01-27,Ariel Powder 40g,Household,4,8.0,6.0,GCash,Sumapa
+2026-01-27,Marlboro Lights per stick,Tobacco,9,8.0,6.5,Cash,Bangkal
+2026-01-27,Payless Noodles,Noodles,4,8.0,6.0,Cash,Catmon
+2026-01-27,Red Horse Stallion,Beverages,6,30.0,24.0,Cash,Malolos Centro
+2026-01-27,Boy Bawang,Snacks,11,10.0,7.5,Cash,Malolos Centro
+2026-01-27,Boy Bawang,Snacks,4,10.0,7.5,Cash,Sumapa
+2026-01-27,Nissin Cup Noodles,Noodles,11,25.0,20.0,Cash,Balite
+2026-01-27,Lucky Me Beef,Noodles,2,12.0,9.5,Cash,Bangkal
+2026-01-27,Bear Brand 33g,Beverages,13,12.0,9.5,GCash,Caniogan
+2026-01-27,Payless Noodles,Noodles,12,8.0,6.0,GCash,Tikay
+2026-01-27,Kopiko Brown,Beverages,2,7.0,5.0,GCash,Balite
+2026-01-27,Ariel Powder 40g,Household,12,8.0,6.0,Cash,Tikay
+2026-01-27,Yakult 5-pack,Beverages,3,48.0,40.0,Cash,Caniogan
+2026-01-27,Nissin Cup Noodles,Noodles,6,25.0,20.0,Cash,Caniogan
+2026-01-27,Boy Bawang,Snacks,9,10.0,7.5,Cash,Malolos Centro
+2026-01-27,C2 Apple,Beverages,1,20.0,15.5,GCash,Catmon
+2026-01-28,C2 Apple,Beverages,12,20.0,15.5,Cash,Sumapa
+2026-01-28,Tide Powder 40g,Household,2,7.0,5.5,Cash,Tikay
+2026-01-28,Red Horse Stallion,Beverages,8,30.0,24.0,Cash,Sumapa
+2026-01-28,Coke Mismo,Beverages,7,15.0,11.0,Cash,Malolos Centro
+2026-01-28,C2 Apple,Beverages,15,20.0,15.5,GCash,Caniogan
+2026-01-28,Downy Sachet,Household,15,6.0,4.5,Cash,Tikay
+2026-01-28,Kopiko Brown,Beverages,6,7.0,5.0,Cash,Bangkal
+2026-01-28,Ariel Powder 40g,Household,14,8.0,6.0,Cash,Malolos Centro
+2026-01-28,C2 Apple,Beverages,14,20.0,15.5,Cash,Balite
+2026-01-28,C2 Apple,Beverages,4,20.0,15.5,GCash,Malolos Centro
+2026-01-28,Marlboro Lights per stick,Tobacco,15,8.0,6.5,Cash,Sumapa
+2026-01-28,Tide Powder 40g,Household,14,7.0,5.5,Cash,Balite
+2026-01-29,Chippy BBQ,Snacks,11,12.0,9.0,Cash,Catmon
+2026-01-29,Smart Load 50,Telecom,8,50.0,47.0,Cash,Sumapa
+2026-01-29,Lucky Me Beef,Noodles,11,12.0,9.5,Cash,Sumapa
+2026-01-29,Coke Mismo,Beverages,2,15.0,11.0,Cash,Sumapa
+2026-01-29,C2 Apple,Beverages,9,20.0,15.5,Cash,Bangkal
+2026-01-29,Downy Sachet,Household,8,6.0,4.5,Cash,Tikay
+2026-01-29,Downy Sachet,Household,4,6.0,4.5,Cash,Bangkal
+2026-01-29,RC Cola Mismo,Beverages,10,12.0,9.0,Cash,Ligas
+2026-01-29,Bear Brand 33g,Beverages,10,12.0,9.5,Cash,Sumapa
+2026-01-29,Kopiko Brown,Beverages,14,7.0,5.0,Cash,Catmon
+2026-01-30,Boy Bawang,Snacks,7,10.0,7.5,Cash,Caniogan
+2026-01-30,Chippy BBQ,Snacks,7,12.0,9.0,GCash,Bangkal
+2026-01-30,Palmolive Shampoo Sachet,Household,3,6.0,4.5,Cash,Malolos Centro
+2026-01-30,Palmolive Shampoo Sachet,Household,7,6.0,4.5,Cash,Catmon
+2026-01-30,Palmolive Shampoo Sachet,Household,15,6.0,4.5,Cash,Tikay
+2026-01-30,Oishi Pillows,Snacks,12,10.0,7.5,Cash,Ligas
+2026-01-30,Boy Bawang,Snacks,8,10.0,7.5,Cash,Caniogan
+2026-01-30,Bear Brand 33g,Beverages,7,12.0,9.5,GCash,Caniogan
+2026-01-30,Nissin Cup Noodles,Noodles,6,25.0,20.0,Cash,Caniogan
+2026-01-30,Pepsi Mismo,Beverages,3,12.0,9.0,Cash,Malolos Centro
+2026-01-30,Lucky Me Pancit Canton,Noodles,14,12.0,9.5,GCash,Balite
+2026-01-30,Piattos Cheese,Snacks,7,15.0,11.5,Cash,Bangkal
+2026-01-30,Downy Sachet,Household,6,6.0,4.5,Cash,Caniogan
+2026-01-31,Ariel Powder 40g,Household,10,8.0,6.0,Cash,Bangkal
+2026-01-31,Smart Load 100,Telecom,1,100.0,95.0,Cash,Bangkal
+2026-01-31,Marlboro Lights per stick,Tobacco,10,8.0,6.5,Cash,Sumapa
+2026-01-31,Palmolive Shampoo Sachet,Household,7,6.0,4.5,Cash,Balite
+2026-01-31,Sky Flakes,Snacks,12,8.0,6.0,Cash,Balite
+2026-01-31,Safeguard Soap,Household,1,35.0,28.0,Cash,Bangkal
+2026-01-31,Downy Sachet,Household,4,6.0,4.5,Cash,Caniogan
+2026-01-31,Lucky Me Beef,Noodles,15,12.0,9.5,Cash,Malolos Centro
+2026-01-31,Safeguard Soap,Household,11,35.0,28.0,Cash,Ligas
+2026-01-31,Tide Powder 40g,Household,8,7.0,5.5,Cash,Ligas
+2026-01-31,C2 Apple,Beverages,10,20.0,15.5,GCash,Tikay
+2026-01-31,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,Cash,Bangkal
+2026-01-31,Boy Bawang,Snacks,12,10.0,7.5,GCash,Catmon
+2026-01-31,Sky Flakes,Snacks,15,8.0,6.0,Cash,Bangkal
+2026-01-31,RC Cola Mismo,Beverages,14,12.0,9.0,Cash,Ligas
+2026-01-31,Safeguard Soap,Household,5,35.0,28.0,GCash,Bangkal
+2026-01-31,Rebisco Crackers,Snacks,5,5.0,3.5,Cash,Catmon
+2026-01-31,Payless Noodles,Noodles,11,8.0,6.0,GCash,Balite
+2026-01-31,Globe Load 100,Telecom,3,100.0,95.0,Cash,Sumapa
+2026-01-31,Marlboro Lights per stick,Tobacco,12,8.0,6.5,Cash,Ligas
+2026-01-31,Lucky Me Pancit Canton,Noodles,3,12.0,9.5,Cash,Malolos Centro
+2026-01-31,Payless Noodles,Noodles,2,8.0,6.0,Cash,Bangkal
+2026-01-31,Ariel Powder 40g,Household,5,8.0,6.0,Cash,Tikay
+2026-01-31,RC Cola Mismo,Beverages,6,12.0,9.0,Cash,Tikay
+2026-02-01,Piattos Cheese,Snacks,3,15.0,11.5,GCash,Catmon
+2026-02-01,Chippy BBQ,Snacks,10,12.0,9.0,Cash,Tikay
+2026-02-01,Pepsi Mismo,Beverages,1,12.0,9.0,Cash,Sumapa
+2026-02-01,Kopiko Brown,Beverages,15,7.0,5.0,Cash,Caniogan
+2026-02-01,Ariel Powder 40g,Household,15,8.0,6.0,GCash,Catmon
+2026-02-01,Smart Load 50,Telecom,11,50.0,47.0,Cash,Catmon
+2026-02-01,Bear Brand 33g,Beverages,2,12.0,9.5,Cash,Catmon
+2026-02-01,Kopiko Brown,Beverages,2,7.0,5.0,Cash,Malolos Centro
+2026-02-01,Rebisco Crackers,Snacks,4,5.0,3.5,Cash,Caniogan
+2026-02-01,Joy Dishwashing 40ml,Household,13,8.0,6.0,Cash,Malolos Centro
+2026-02-01,Lucky Me Beef,Noodles,5,12.0,9.5,Cash,Malolos Centro
+2026-02-01,Payless Noodles,Noodles,4,8.0,6.0,GCash,Malolos Centro
+2026-02-01,Boy Bawang,Snacks,10,10.0,7.5,GCash,Ligas
+2026-02-01,Marlboro Lights per stick,Tobacco,8,8.0,6.5,Cash,Balite
+2026-02-01,Tide Powder 40g,Household,7,7.0,5.5,Cash,Balite
+2026-02-01,Joy Dishwashing 40ml,Household,15,8.0,6.0,Cash,Balite
+2026-02-01,Globe Load 100,Telecom,4,100.0,95.0,Cash,Bangkal
+2026-02-01,Boy Bawang,Snacks,10,10.0,7.5,Cash,Balite
+2026-02-01,Smart Load 50,Telecom,6,50.0,47.0,Cash,Malolos Centro
+2026-02-01,Chippy BBQ,Snacks,14,12.0,9.0,Cash,Tikay
+2026-02-01,Lucky Me Pancit Canton,Noodles,10,12.0,9.5,Cash,Ligas
+2026-02-02,Palmolive Shampoo Sachet,Household,14,6.0,4.5,Cash,Balite
+2026-02-02,Chippy BBQ,Snacks,10,12.0,9.0,Cash,Bangkal
+2026-02-02,Joy Dishwashing 40ml,Household,4,8.0,6.0,Cash,Balite
+2026-02-02,Lucky Me Pancit Canton,Noodles,11,12.0,9.5,Cash,Malolos Centro
+2026-02-02,Globe Load 50,Telecom,12,50.0,47.0,Cash,Caniogan
+2026-02-02,C2 Apple,Beverages,10,20.0,15.5,Cash,Bangkal
+2026-02-02,Downy Sachet,Household,10,6.0,4.5,Cash,Balite
+2026-02-02,Oishi Prawn Crackers,Snacks,15,12.0,9.0,Cash,Catmon
+2026-02-02,Downy Sachet,Household,7,6.0,4.5,Cash,Sumapa
+2026-02-02,Safeguard Soap,Household,3,35.0,28.0,GCash,Malolos Centro
+2026-02-02,Coke Mismo,Beverages,8,15.0,11.0,Cash,Ligas
+2026-02-02,Globe Load 100,Telecom,11,100.0,95.0,GCash,Caniogan
+2026-02-02,RC Cola Mismo,Beverages,15,12.0,9.0,Cash,Catmon
+2026-02-02,Piattos Cheese,Snacks,11,15.0,11.5,GCash,Sumapa
+2026-02-02,C2 Apple,Beverages,4,20.0,15.5,Cash,Catmon
+2026-02-02,Payless Noodles,Noodles,7,8.0,6.0,Cash,Tikay
+2026-02-02,Marlboro Lights per stick,Tobacco,15,8.0,6.5,Cash,Bangkal
+2026-02-02,Palmolive Shampoo Sachet,Household,5,6.0,4.5,Cash,Ligas
+2026-02-02,Joy Dishwashing 40ml,Household,8,8.0,6.0,Cash,Tikay
+2026-02-03,Oishi Pillows,Snacks,11,10.0,7.5,Cash,Catmon
+2026-02-03,Globe Load 50,Telecom,12,50.0,47.0,Cash,Sumapa
+2026-02-03,Marlboro Lights per stick,Tobacco,10,8.0,6.5,GCash,Catmon
+2026-02-03,Ariel Powder 40g,Household,6,8.0,6.0,Cash,Bangkal
+2026-02-03,Ariel Powder 40g,Household,11,8.0,6.0,GCash,Bangkal
+2026-02-03,Globe Load 50,Telecom,4,50.0,47.0,Cash,Ligas
+2026-02-03,Payless Noodles,Noodles,5,8.0,6.0,Cash,Catmon
+2026-02-03,Nissin Cup Noodles,Noodles,6,25.0,20.0,GCash,Sumapa
+2026-02-03,Downy Sachet,Household,2,6.0,4.5,GCash,Balite
+2026-02-03,Coke Mismo,Beverages,14,15.0,11.0,Cash,Bangkal
+2026-02-03,Rebisco Crackers,Snacks,12,5.0,3.5,Cash,Ligas
+2026-02-03,Lucky Me Beef,Noodles,10,12.0,9.5,GCash,Sumapa
+2026-02-03,Smart Load 50,Telecom,7,50.0,47.0,Cash,Balite
+2026-02-03,Palmolive Shampoo Sachet,Household,6,6.0,4.5,Cash,Sumapa
+2026-02-03,Payless Noodles,Noodles,7,8.0,6.0,Cash,Caniogan
+2026-02-03,Yakult 5-pack,Beverages,3,48.0,40.0,Cash,Sumapa
+2026-02-03,Piattos Cheese,Snacks,11,15.0,11.5,Cash,Tikay
+2026-02-03,Tide Powder 40g,Household,5,7.0,5.5,Cash,Malolos Centro
+2026-02-03,Tide Powder 40g,Household,6,7.0,5.5,Cash,Catmon
+2026-02-03,Kopiko Brown,Beverages,14,7.0,5.0,GCash,Caniogan
+2026-02-03,Ariel Powder 40g,Household,14,8.0,6.0,Cash,Caniogan
+2026-02-03,Bear Brand 33g,Beverages,12,12.0,9.5,Cash,Malolos Centro
+2026-02-04,Yakult 5-pack,Beverages,3,48.0,40.0,Cash,Sumapa
+2026-02-04,Safeguard Soap,Household,12,35.0,28.0,Cash,Tikay
+2026-02-04,Smart Load 50,Telecom,8,50.0,47.0,Cash,Ligas
+2026-02-04,Globe Load 100,Telecom,11,100.0,95.0,Cash,Malolos Centro
+2026-02-04,Oishi Pillows,Snacks,7,10.0,7.5,Cash,Bangkal
+2026-02-04,Joy Dishwashing 40ml,Household,8,8.0,6.0,Cash,Bangkal
+2026-02-04,Boy Bawang,Snacks,2,10.0,7.5,GCash,Ligas
+2026-02-04,Bear Brand 33g,Beverages,12,12.0,9.5,Cash,Bangkal
+2026-02-04,Payless Noodles,Noodles,3,8.0,6.0,Cash,Malolos Centro
+2026-02-04,Smart Load 50,Telecom,15,50.0,47.0,Cash,Caniogan
+2026-02-04,Ariel Powder 40g,Household,3,8.0,6.0,GCash,Tikay
+2026-02-04,Chippy BBQ,Snacks,12,12.0,9.0,Cash,Ligas
+2026-02-04,Smart Load 100,Telecom,3,100.0,95.0,Cash,Sumapa
+2026-02-04,Globe Load 50,Telecom,12,50.0,47.0,Cash,Malolos Centro
+2026-02-04,Red Horse Stallion,Beverages,12,30.0,24.0,GCash,Catmon
+2026-02-04,Joy Dishwashing 40ml,Household,13,8.0,6.0,Cash,Bangkal
+2026-02-04,Oishi Prawn Crackers,Snacks,11,12.0,9.0,Cash,Malolos Centro
+2026-02-04,Payless Noodles,Noodles,6,8.0,6.0,Cash,Tikay
+2026-02-04,Lucky Me Beef,Noodles,2,12.0,9.5,GCash,Balite
+2026-02-04,Rebisco Crackers,Snacks,7,5.0,3.5,Cash,Bangkal
+2026-02-05,Lucky Me Beef,Noodles,2,12.0,9.5,Cash,Bangkal
+2026-02-05,Piattos Cheese,Snacks,5,15.0,11.5,GCash,Tikay
+2026-02-05,Ariel Powder 40g,Household,12,8.0,6.0,Cash,Catmon
+2026-02-05,Palmolive Shampoo Sachet,Household,8,6.0,4.5,Cash,Ligas
+2026-02-05,Ariel Powder 40g,Household,11,8.0,6.0,Cash,Balite
+2026-02-05,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,Cash,Catmon
+2026-02-05,Payless Noodles,Noodles,8,8.0,6.0,GCash,Sumapa
+2026-02-05,Lucky Me Pancit Canton,Noodles,10,12.0,9.5,GCash,Caniogan
+2026-02-05,Kopiko Brown,Beverages,12,7.0,5.0,Cash,Tikay
+2026-02-05,Boy Bawang,Snacks,8,10.0,7.5,Cash,Ligas
+2026-02-05,Rebisco Crackers,Snacks,3,5.0,3.5,Cash,Balite
+2026-02-06,Safeguard Soap,Household,15,35.0,28.0,GCash,Tikay
+2026-02-06,Boy Bawang,Snacks,14,10.0,7.5,Cash,Bangkal
+2026-02-06,Oishi Pillows,Snacks,14,10.0,7.5,GCash,Caniogan
+2026-02-06,Nissin Cup Noodles,Noodles,9,25.0,20.0,GCash,Catmon
+2026-02-06,Palmolive Shampoo Sachet,Household,13,6.0,4.5,Cash,Catmon
+2026-02-06,RC Cola Mismo,Beverages,14,12.0,9.0,GCash,Tikay
+2026-02-06,Lucky Me Pancit Canton,Noodles,9,12.0,9.5,Cash,Balite
+2026-02-06,Payless Noodles,Noodles,1,8.0,6.0,Cash,Sumapa
+2026-02-06,Ariel Powder 40g,Household,3,8.0,6.0,Cash,Ligas
+2026-02-07,Nissin Cup Noodles,Noodles,2,25.0,20.0,GCash,Ligas
+2026-02-07,Red Horse Stallion,Beverages,9,30.0,24.0,Cash,Bangkal
+2026-02-07,Joy Dishwashing 40ml,Household,1,8.0,6.0,Cash,Ligas
+2026-02-07,Lucky Me Beef,Noodles,9,12.0,9.5,Cash,Caniogan
+2026-02-07,Coke Mismo,Beverages,10,15.0,11.0,Cash,Balite
+2026-02-07,Sky Flakes,Snacks,15,8.0,6.0,Cash,Sumapa
+2026-02-07,Safeguard Soap,Household,2,35.0,28.0,Cash,Sumapa
+2026-02-07,Lucky Me Beef,Noodles,4,12.0,9.5,Cash,Ligas
+2026-02-07,Smart Load 50,Telecom,14,50.0,47.0,Cash,Tikay
+2026-02-07,Tide Powder 40g,Household,9,7.0,5.5,Cash,Balite
+2026-02-07,Kopiko Brown,Beverages,3,7.0,5.0,GCash,Bangkal
+2026-02-07,Nissin Cup Noodles,Noodles,9,25.0,20.0,Cash,Ligas
+2026-02-07,Boy Bawang,Snacks,11,10.0,7.5,Cash,Bangkal
+2026-02-07,Chippy BBQ,Snacks,2,12.0,9.0,Cash,Bangkal
+2026-02-07,Safeguard Soap,Household,3,35.0,28.0,GCash,Sumapa
+2026-02-07,Nissin Cup Noodles,Noodles,11,25.0,20.0,Cash,Sumapa
+2026-02-08,Rebisco Crackers,Snacks,11,5.0,3.5,GCash,Tikay
+2026-02-08,Oishi Prawn Crackers,Snacks,14,12.0,9.0,Cash,Balite
+2026-02-08,Globe Load 50,Telecom,7,50.0,47.0,Cash,Malolos Centro
+2026-02-08,Tide Powder 40g,Household,4,7.0,5.5,Cash,Ligas
+2026-02-08,Payless Noodles,Noodles,9,8.0,6.0,Cash,Bangkal
+2026-02-08,Nissin Cup Noodles,Noodles,6,25.0,20.0,Cash,Balite
+2026-02-08,Marlboro Lights per stick,Tobacco,6,8.0,6.5,Cash,Tikay
+2026-02-08,Smart Load 50,Telecom,13,50.0,47.0,Cash,Ligas
+2026-02-08,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,Cash,Sumapa
+2026-02-08,Boy Bawang,Snacks,2,10.0,7.5,Cash,Tikay
+2026-02-08,Sky Flakes,Snacks,12,8.0,6.0,Cash,Caniogan
+2026-02-08,Payless Noodles,Noodles,9,8.0,6.0,Cash,Ligas
+2026-02-08,Oishi Pillows,Snacks,5,10.0,7.5,GCash,Catmon
+2026-02-08,Smart Load 100,Telecom,1,100.0,95.0,Cash,Balite
+2026-02-08,Palmolive Shampoo Sachet,Household,7,6.0,4.5,Cash,Balite
+2026-02-08,Globe Load 50,Telecom,12,50.0,47.0,GCash,Bangkal
+2026-02-08,Piattos Cheese,Snacks,10,15.0,11.5,Cash,Ligas
+2026-02-08,Lucky Me Pancit Canton,Noodles,11,12.0,9.5,GCash,Tikay
+2026-02-08,Joy Dishwashing 40ml,Household,3,8.0,6.0,Cash,Bangkal
+2026-02-08,Rebisco Crackers,Snacks,12,5.0,3.5,Cash,Malolos Centro
+2026-02-08,Marlboro Lights per stick,Tobacco,12,8.0,6.5,Cash,Sumapa
+2026-02-08,Joy Dishwashing 40ml,Household,10,8.0,6.0,Cash,Caniogan
+2026-02-08,RC Cola Mismo,Beverages,8,12.0,9.0,Cash,Caniogan
+2026-02-08,Sky Flakes,Snacks,5,8.0,6.0,Cash,Bangkal
+2026-02-08,Sky Flakes,Snacks,12,8.0,6.0,Cash,Ligas
+2026-02-08,Ariel Powder 40g,Household,14,8.0,6.0,Cash,Ligas
+2026-02-09,Palmolive Shampoo Sachet,Household,6,6.0,4.5,Cash,Catmon
+2026-02-09,Nissin Cup Noodles,Noodles,12,25.0,20.0,Cash,Catmon
+2026-02-09,RC Cola Mismo,Beverages,10,12.0,9.0,Cash,Catmon
+2026-02-09,Downy Sachet,Household,5,6.0,4.5,GCash,Caniogan
+2026-02-09,Globe Load 50,Telecom,14,50.0,47.0,Cash,Bangkal
+2026-02-09,Joy Dishwashing 40ml,Household,9,8.0,6.0,Cash,Caniogan
+2026-02-09,Piattos Cheese,Snacks,9,15.0,11.5,GCash,Catmon
+2026-02-09,Boy Bawang,Snacks,1,10.0,7.5,GCash,Sumapa
+2026-02-09,Marlboro Lights per stick,Tobacco,14,8.0,6.5,Cash,Bangkal
+2026-02-09,Safeguard Soap,Household,9,35.0,28.0,Cash,Sumapa
+2026-02-09,Downy Sachet,Household,11,6.0,4.5,GCash,Malolos Centro
+2026-02-09,Tide Powder 40g,Household,8,7.0,5.5,Cash,Sumapa
+2026-02-09,RC Cola Mismo,Beverages,2,12.0,9.0,Cash,Tikay
+2026-02-09,Sky Flakes,Snacks,6,8.0,6.0,Cash,Bangkal
+2026-02-10,Boy Bawang,Snacks,3,10.0,7.5,Cash,Catmon
+2026-02-10,Yakult 5-pack,Beverages,15,48.0,40.0,Cash,Catmon
+2026-02-10,Bear Brand 33g,Beverages,5,12.0,9.5,Cash,Ligas
+2026-02-10,Kopiko Brown,Beverages,4,7.0,5.0,Cash,Bangkal
+2026-02-10,Pepsi Mismo,Beverages,15,12.0,9.0,Cash,Malolos Centro
+2026-02-10,Marlboro Lights per stick,Tobacco,8,8.0,6.5,GCash,Caniogan
+2026-02-10,Lucky Me Beef,Noodles,6,12.0,9.5,Cash,Caniogan
+2026-02-10,Yakult 5-pack,Beverages,5,48.0,40.0,Cash,Catmon
+2026-02-10,Lucky Me Pancit Canton,Noodles,6,12.0,9.5,Cash,Bangkal
+2026-02-10,Red Horse Stallion,Beverages,1,30.0,24.0,Cash,Bangkal
+2026-02-10,Piattos Cheese,Snacks,4,15.0,11.5,Cash,Tikay
+2026-02-10,Oishi Prawn Crackers,Snacks,2,12.0,9.0,Cash,Malolos Centro
+2026-02-10,Coke Mismo,Beverages,13,15.0,11.0,Cash,Sumapa
+2026-02-10,Piattos Cheese,Snacks,7,15.0,11.5,Cash,Ligas
+2026-02-10,Red Horse Stallion,Beverages,7,30.0,24.0,Cash,Ligas
+2026-02-11,Chippy BBQ,Snacks,11,12.0,9.0,Cash,Tikay
+2026-02-11,Coke Mismo,Beverages,6,15.0,11.0,Cash,Malolos Centro
+2026-02-11,Red Horse Stallion,Beverages,15,30.0,24.0,Cash,Catmon
+2026-02-11,Pepsi Mismo,Beverages,5,12.0,9.0,Cash,Tikay
+2026-02-11,Boy Bawang,Snacks,7,10.0,7.5,Cash,Malolos Centro
+2026-02-11,RC Cola Mismo,Beverages,11,12.0,9.0,Cash,Caniogan
+2026-02-11,Joy Dishwashing 40ml,Household,5,8.0,6.0,Cash,Bangkal
+2026-02-11,Piattos Cheese,Snacks,9,15.0,11.5,Cash,Tikay
+2026-02-11,Yakult 5-pack,Beverages,13,48.0,40.0,Cash,Bangkal
+2026-02-12,Payless Noodles,Noodles,2,8.0,6.0,Cash,Tikay
+2026-02-12,Coke Mismo,Beverages,6,15.0,11.0,GCash,Malolos Centro
+2026-02-12,Palmolive Shampoo Sachet,Household,11,6.0,4.5,Cash,Malolos Centro
+2026-02-12,Joy Dishwashing 40ml,Household,14,8.0,6.0,Cash,Bangkal
+2026-02-12,Tide Powder 40g,Household,12,7.0,5.5,Cash,Bangkal
+2026-02-12,Piattos Cheese,Snacks,5,15.0,11.5,Cash,Caniogan
+2026-02-12,Nissin Cup Noodles,Noodles,13,25.0,20.0,Cash,Sumapa
+2026-02-12,Tide Powder 40g,Household,3,7.0,5.5,GCash,Tikay
+2026-02-12,C2 Apple,Beverages,5,20.0,15.5,Cash,Ligas
+2026-02-12,Safeguard Soap,Household,4,35.0,28.0,Cash,Sumapa
+2026-02-13,Safeguard Soap,Household,13,35.0,28.0,Cash,Tikay
+2026-02-13,Pepsi Mismo,Beverages,14,12.0,9.0,GCash,Tikay
+2026-02-13,C2 Apple,Beverages,2,20.0,15.5,Cash,Bangkal
+2026-02-13,Lucky Me Beef,Noodles,5,12.0,9.5,Cash,Tikay
+2026-02-13,Oishi Prawn Crackers,Snacks,1,12.0,9.0,GCash,Sumapa
+2026-02-13,Nissin Cup Noodles,Noodles,14,25.0,20.0,Cash,Bangkal
+2026-02-13,Oishi Prawn Crackers,Snacks,9,12.0,9.0,Cash,Sumapa
+2026-02-13,C2 Apple,Beverages,6,20.0,15.5,Cash,Caniogan
+2026-02-13,Lucky Me Beef,Noodles,9,12.0,9.5,Cash,Malolos Centro
+2026-02-13,Bear Brand 33g,Beverages,2,12.0,9.5,Cash,Balite
+2026-02-13,Kopiko Brown,Beverages,6,7.0,5.0,Cash,Sumapa
+2026-02-13,Yakult 5-pack,Beverages,15,48.0,40.0,Cash,Tikay
+2026-02-13,Lucky Me Beef,Noodles,1,12.0,9.5,Cash,Balite
+2026-02-13,Pepsi Mismo,Beverages,5,12.0,9.0,Cash,Ligas
+2026-02-13,Marlboro Lights per stick,Tobacco,10,8.0,6.5,Cash,Bangkal
+2026-02-14,Kopiko Brown,Beverages,8,7.0,5.0,Cash,Balite
+2026-02-14,Bear Brand 33g,Beverages,2,12.0,9.5,Cash,Malolos Centro
+2026-02-14,Joy Dishwashing 40ml,Household,9,8.0,6.0,Cash,Balite
+2026-02-14,Red Horse Stallion,Beverages,12,30.0,24.0,Cash,Balite
+2026-02-14,C2 Apple,Beverages,11,20.0,15.5,Cash,Sumapa
+2026-02-14,Rebisco Crackers,Snacks,7,5.0,3.5,Cash,Catmon
+2026-02-14,Coke Mismo,Beverages,11,15.0,11.0,GCash,Catmon
+2026-02-14,Lucky Me Beef,Noodles,10,12.0,9.5,Cash,Sumapa
+2026-02-14,Safeguard Soap,Household,8,35.0,28.0,Cash,Catmon
+2026-02-14,Oishi Pillows,Snacks,10,10.0,7.5,Cash,Ligas
+2026-02-14,Downy Sachet,Household,8,6.0,4.5,Cash,Tikay
+2026-02-14,Lucky Me Beef,Noodles,3,12.0,9.5,Cash,Bangkal
+2026-02-14,Oishi Pillows,Snacks,12,10.0,7.5,Cash,Balite
+2026-02-14,Smart Load 100,Telecom,6,100.0,95.0,Cash,Catmon
+2026-02-14,Marlboro Lights per stick,Tobacco,7,8.0,6.5,Cash,Caniogan
+2026-02-14,Oishi Prawn Crackers,Snacks,9,12.0,9.0,GCash,Malolos Centro
+2026-02-14,RC Cola Mismo,Beverages,10,12.0,9.0,Cash,Tikay
+2026-02-14,Bear Brand 33g,Beverages,1,12.0,9.5,GCash,Malolos Centro
+2026-02-14,Globe Load 50,Telecom,12,50.0,47.0,Cash,Bangkal
+2026-02-14,Piattos Cheese,Snacks,11,15.0,11.5,GCash,Catmon
+2026-02-15,Chippy BBQ,Snacks,13,12.0,9.0,GCash,Bangkal
+2026-02-15,Oishi Pillows,Snacks,13,10.0,7.5,Cash,Bangkal
+2026-02-15,Tide Powder 40g,Household,5,7.0,5.5,Cash,Tikay
+2026-02-15,Lucky Me Pancit Canton,Noodles,3,12.0,9.5,GCash,Sumapa
+2026-02-15,Rebisco Crackers,Snacks,12,5.0,3.5,Cash,Caniogan
+2026-02-15,Sky Flakes,Snacks,12,8.0,6.0,GCash,Ligas
+2026-02-15,Bear Brand 33g,Beverages,14,12.0,9.5,Cash,Ligas
+2026-02-15,Safeguard Soap,Household,5,35.0,28.0,GCash,Catmon
+2026-02-15,RC Cola Mismo,Beverages,4,12.0,9.0,Cash,Sumapa
+2026-02-15,Bear Brand 33g,Beverages,1,12.0,9.5,Cash,Ligas
+2026-02-15,Marlboro Lights per stick,Tobacco,3,8.0,6.5,Cash,Malolos Centro
+2026-02-15,Ariel Powder 40g,Household,4,8.0,6.0,Cash,Catmon
+2026-02-15,Lucky Me Pancit Canton,Noodles,11,12.0,9.5,Cash,Balite
+2026-02-15,Yakult 5-pack,Beverages,2,48.0,40.0,GCash,Ligas
+2026-02-15,Downy Sachet,Household,3,6.0,4.5,Cash,Ligas
+2026-02-15,Yakult 5-pack,Beverages,1,48.0,40.0,Cash,Balite
+2026-02-15,C2 Apple,Beverages,12,20.0,15.5,Cash,Tikay
+2026-02-15,Kopiko Brown,Beverages,1,7.0,5.0,GCash,Catmon
+2026-02-15,Downy Sachet,Household,12,6.0,4.5,Cash,Ligas
+2026-02-15,Smart Load 50,Telecom,11,50.0,47.0,GCash,Sumapa
+2026-02-16,Chippy BBQ,Snacks,4,12.0,9.0,Cash,Ligas
+2026-02-16,Pepsi Mismo,Beverages,10,12.0,9.0,Cash,Tikay
+2026-02-16,Chippy BBQ,Snacks,4,12.0,9.0,Cash,Balite
+2026-02-16,Coke Mismo,Beverages,15,15.0,11.0,Cash,Catmon
+2026-02-16,Piattos Cheese,Snacks,3,15.0,11.5,Cash,Tikay
+2026-02-16,Globe Load 100,Telecom,14,100.0,95.0,Cash,Sumapa
+2026-02-16,Rebisco Crackers,Snacks,8,5.0,3.5,Cash,Ligas
+2026-02-16,Lucky Me Pancit Canton,Noodles,5,12.0,9.5,Cash,Tikay
+2026-02-16,Globe Load 100,Telecom,7,100.0,95.0,GCash,Sumapa
+2026-02-16,Nissin Cup Noodles,Noodles,3,25.0,20.0,Cash,Bangkal
+2026-02-16,C2 Apple,Beverages,8,20.0,15.5,Cash,Catmon
+2026-02-16,Downy Sachet,Household,9,6.0,4.5,Cash,Malolos Centro
+2026-02-16,Tide Powder 40g,Household,2,7.0,5.5,Cash,Bangkal
+2026-02-16,Lucky Me Pancit Canton,Noodles,2,12.0,9.5,Cash,Malolos Centro
+2026-02-16,Coke Mismo,Beverages,4,15.0,11.0,Cash,Ligas
+2026-02-16,Coke Mismo,Beverages,11,15.0,11.0,GCash,Malolos Centro
+2026-02-16,Globe Load 50,Telecom,1,50.0,47.0,Cash,Balite
+2026-02-16,Smart Load 50,Telecom,12,50.0,47.0,Cash,Sumapa
+2026-02-16,Coke Mismo,Beverages,8,15.0,11.0,GCash,Caniogan
+2026-02-16,Globe Load 100,Telecom,3,100.0,95.0,Cash,Balite
+2026-02-16,Piattos Cheese,Snacks,3,15.0,11.5,Cash,Malolos Centro
+2026-02-17,Safeguard Soap,Household,5,35.0,28.0,GCash,Catmon
+2026-02-17,Lucky Me Pancit Canton,Noodles,14,12.0,9.5,Cash,Catmon
+2026-02-17,Oishi Pillows,Snacks,5,10.0,7.5,Cash,Bangkal
+2026-02-17,Coke Mismo,Beverages,1,15.0,11.0,Cash,Malolos Centro
+2026-02-17,C2 Apple,Beverages,7,20.0,15.5,Cash,Tikay
+2026-02-17,Red Horse Stallion,Beverages,11,30.0,24.0,Cash,Sumapa
+2026-02-17,Marlboro Lights per stick,Tobacco,15,8.0,6.5,Cash,Catmon
+2026-02-17,Piattos Cheese,Snacks,3,15.0,11.5,Cash,Sumapa
+2026-02-17,Payless Noodles,Noodles,5,8.0,6.0,Cash,Catmon
+2026-02-17,Tide Powder 40g,Household,6,7.0,5.5,Cash,Balite
+2026-02-17,Marlboro Lights per stick,Tobacco,15,8.0,6.5,Cash,Malolos Centro
+2026-02-17,Tide Powder 40g,Household,3,7.0,5.5,Cash,Bangkal
+2026-02-17,Sky Flakes,Snacks,6,8.0,6.0,GCash,Tikay
+2026-02-17,Joy Dishwashing 40ml,Household,7,8.0,6.0,Cash,Ligas
+2026-02-17,Tide Powder 40g,Household,14,7.0,5.5,Cash,Balite
+2026-02-17,Smart Load 100,Telecom,2,100.0,95.0,Cash,Caniogan
+2026-02-18,Red Horse Stallion,Beverages,15,30.0,24.0,Cash,Catmon
+2026-02-18,Globe Load 50,Telecom,1,50.0,47.0,Cash,Tikay
+2026-02-18,Yakult 5-pack,Beverages,3,48.0,40.0,Cash,Caniogan
+2026-02-18,Downy Sachet,Household,13,6.0,4.5,Cash,Catmon
+2026-02-18,Payless Noodles,Noodles,10,8.0,6.0,Cash,Ligas
+2026-02-18,Coke Mismo,Beverages,2,15.0,11.0,Cash,Tikay
+2026-02-18,RC Cola Mismo,Beverages,13,12.0,9.0,Cash,Balite
+2026-02-18,Yakult 5-pack,Beverages,8,48.0,40.0,Cash,Caniogan
+2026-02-18,Safeguard Soap,Household,7,35.0,28.0,GCash,Balite
+2026-02-18,Coke Mismo,Beverages,13,15.0,11.0,Cash,Bangkal
+2026-02-18,Oishi Prawn Crackers,Snacks,9,12.0,9.0,Cash,Caniogan
+2026-02-18,Oishi Pillows,Snacks,9,10.0,7.5,Cash,Bangkal
+2026-02-18,Nissin Cup Noodles,Noodles,10,25.0,20.0,Cash,Sumapa
+2026-02-18,Safeguard Soap,Household,2,35.0,28.0,Cash,Balite
+2026-02-18,Lucky Me Pancit Canton,Noodles,4,12.0,9.5,Cash,Balite
+2026-02-18,Oishi Pillows,Snacks,8,10.0,7.5,Cash,Catmon
+2026-02-18,Lucky Me Beef,Noodles,15,12.0,9.5,Cash,Balite
+2026-02-18,Smart Load 50,Telecom,14,50.0,47.0,Cash,Ligas
+2026-02-19,Coke Mismo,Beverages,14,15.0,11.0,GCash,Bangkal
+2026-02-19,C2 Apple,Beverages,4,20.0,15.5,Cash,Malolos Centro
+2026-02-19,Downy Sachet,Household,3,6.0,4.5,Cash,Tikay
+2026-02-19,Boy Bawang,Snacks,12,10.0,7.5,Cash,Bangkal
+2026-02-19,Red Horse Stallion,Beverages,1,30.0,24.0,Cash,Catmon
+2026-02-19,Piattos Cheese,Snacks,14,15.0,11.5,GCash,Tikay
+2026-02-19,Lucky Me Pancit Canton,Noodles,3,12.0,9.5,Cash,Tikay
+2026-02-19,Nissin Cup Noodles,Noodles,4,25.0,20.0,Cash,Malolos Centro
+2026-02-19,Rebisco Crackers,Snacks,14,5.0,3.5,Cash,Tikay
+2026-02-19,Palmolive Shampoo Sachet,Household,3,6.0,4.5,Cash,Tikay
+2026-02-19,Downy Sachet,Household,9,6.0,4.5,Cash,Caniogan
+2026-02-19,Oishi Prawn Crackers,Snacks,12,12.0,9.0,Cash,Caniogan
+2026-02-19,Globe Load 50,Telecom,11,50.0,47.0,Cash,Ligas
+2026-02-19,Payless Noodles,Noodles,3,8.0,6.0,Cash,Malolos Centro
+2026-02-19,Tide Powder 40g,Household,13,7.0,5.5,Cash,Tikay
+2026-02-20,Boy Bawang,Snacks,14,10.0,7.5,Cash,Caniogan
+2026-02-20,Oishi Pillows,Snacks,12,10.0,7.5,Cash,Ligas
+2026-02-20,Safeguard Soap,Household,4,35.0,28.0,Cash,Tikay
+2026-02-20,Kopiko Brown,Beverages,2,7.0,5.0,GCash,Bangkal
+2026-02-20,Coke Mismo,Beverages,12,15.0,11.0,Cash,Bangkal
+2026-02-20,Tide Powder 40g,Household,1,7.0,5.5,Cash,Bangkal
+2026-02-20,RC Cola Mismo,Beverages,14,12.0,9.0,GCash,Catmon
+2026-02-20,Globe Load 100,Telecom,12,100.0,95.0,Cash,Caniogan
+2026-02-21,Ariel Powder 40g,Household,11,8.0,6.0,Cash,Bangkal
+2026-02-21,RC Cola Mismo,Beverages,1,12.0,9.0,Cash,Bangkal
+2026-02-21,Pepsi Mismo,Beverages,5,12.0,9.0,Cash,Catmon
+2026-02-21,Nissin Cup Noodles,Noodles,6,25.0,20.0,GCash,Balite
+2026-02-21,Lucky Me Pancit Canton,Noodles,4,12.0,9.5,Cash,Tikay
+2026-02-21,Oishi Pillows,Snacks,2,10.0,7.5,Cash,Sumapa
+2026-02-21,Tide Powder 40g,Household,1,7.0,5.5,Cash,Sumapa
+2026-02-21,Oishi Pillows,Snacks,4,10.0,7.5,Cash,Sumapa
+2026-02-21,Kopiko Brown,Beverages,2,7.0,5.0,GCash,Malolos Centro
+2026-02-21,Rebisco Crackers,Snacks,13,5.0,3.5,Cash,Malolos Centro
+2026-02-21,Lucky Me Beef,Noodles,6,12.0,9.5,Cash,Ligas
+2026-02-21,Lucky Me Pancit Canton,Noodles,6,12.0,9.5,Cash,Bangkal
+2026-02-21,Sky Flakes,Snacks,4,8.0,6.0,Cash,Bangkal
+2026-02-21,Downy Sachet,Household,6,6.0,4.5,Cash,Catmon
+2026-02-21,Yakult 5-pack,Beverages,7,48.0,40.0,GCash,Catmon
+2026-02-21,Sky Flakes,Snacks,13,8.0,6.0,Cash,Malolos Centro
+2026-02-21,Rebisco Crackers,Snacks,13,5.0,3.5,Cash,Caniogan
+2026-02-21,Rebisco Crackers,Snacks,14,5.0,3.5,Cash,Ligas
+2026-02-21,RC Cola Mismo,Beverages,3,12.0,9.0,Cash,Catmon
+2026-02-21,Smart Load 100,Telecom,11,100.0,95.0,Cash,Sumapa
+2026-02-21,Smart Load 100,Telecom,4,100.0,95.0,Cash,Tikay
+2026-02-21,Sky Flakes,Snacks,9,8.0,6.0,GCash,Balite
+2026-02-21,Chippy BBQ,Snacks,13,12.0,9.0,Cash,Balite
+2026-02-21,Bear Brand 33g,Beverages,6,12.0,9.5,GCash,Bangkal
+2026-02-21,Lucky Me Beef,Noodles,15,12.0,9.5,Cash,Sumapa
+2026-02-22,Tide Powder 40g,Household,10,7.0,5.5,Cash,Tikay
+2026-02-22,Rebisco Crackers,Snacks,11,5.0,3.5,Cash,Catmon
+2026-02-22,Globe Load 50,Telecom,1,50.0,47.0,Cash,Ligas
+2026-02-22,Oishi Pillows,Snacks,14,10.0,7.5,Cash,Caniogan
+2026-02-22,Payless Noodles,Noodles,8,8.0,6.0,Cash,Tikay
+2026-02-22,Marlboro Lights per stick,Tobacco,5,8.0,6.5,Cash,Catmon
+2026-02-22,Kopiko Brown,Beverages,10,7.0,5.0,Cash,Balite
+2026-02-22,Nissin Cup Noodles,Noodles,2,25.0,20.0,Cash,Caniogan
+2026-02-22,Kopiko Brown,Beverages,8,7.0,5.0,Cash,Caniogan
+2026-02-22,Ariel Powder 40g,Household,15,8.0,6.0,Cash,Catmon
+2026-02-22,Rebisco Crackers,Snacks,8,5.0,3.5,Cash,Balite
+2026-02-22,Smart Load 50,Telecom,5,50.0,47.0,Cash,Bangkal
+2026-02-22,Smart Load 50,Telecom,10,50.0,47.0,Cash,Caniogan
+2026-02-22,Red Horse Stallion,Beverages,9,30.0,24.0,GCash,Balite
+2026-02-22,Red Horse Stallion,Beverages,2,30.0,24.0,Cash,Caniogan
+2026-02-22,Kopiko Brown,Beverages,15,7.0,5.0,Cash,Malolos Centro
+2026-02-22,Downy Sachet,Household,13,6.0,4.5,Cash,Malolos Centro
+2026-02-22,Coke Mismo,Beverages,14,15.0,11.0,Cash,Ligas
+2026-02-22,Boy Bawang,Snacks,3,10.0,7.5,GCash,Bangkal
+2026-02-22,Smart Load 50,Telecom,2,50.0,47.0,Cash,Bangkal
+2026-02-22,Smart Load 50,Telecom,8,50.0,47.0,Cash,Balite
+2026-02-23,Chippy BBQ,Snacks,11,12.0,9.0,GCash,Caniogan
+2026-02-23,Payless Noodles,Noodles,2,8.0,6.0,Cash,Catmon
+2026-02-23,Marlboro Lights per stick,Tobacco,15,8.0,6.5,Cash,Bangkal
+2026-02-23,Pepsi Mismo,Beverages,7,12.0,9.0,Cash,Catmon
+2026-02-23,Yakult 5-pack,Beverages,6,48.0,40.0,GCash,Caniogan
+2026-02-23,Pepsi Mismo,Beverages,12,12.0,9.0,Cash,Catmon
+2026-02-23,Kopiko Brown,Beverages,8,7.0,5.0,Cash,Tikay
+2026-02-23,Piattos Cheese,Snacks,3,15.0,11.5,Cash,Balite
+2026-02-23,Rebisco Crackers,Snacks,1,5.0,3.5,GCash,Bangkal
+2026-02-23,Lucky Me Beef,Noodles,15,12.0,9.5,Cash,Bangkal
+2026-02-23,Piattos Cheese,Snacks,4,15.0,11.5,Cash,Sumapa
+2026-02-23,Smart Load 50,Telecom,1,50.0,47.0,Cash,Ligas
+2026-02-23,Kopiko Brown,Beverages,11,7.0,5.0,Cash,Catmon
+2026-02-23,Coke Mismo,Beverages,2,15.0,11.0,Cash,Bangkal
+2026-02-23,Nissin Cup Noodles,Noodles,5,25.0,20.0,Cash,Bangkal
+2026-02-24,Pepsi Mismo,Beverages,11,12.0,9.0,Cash,Tikay
+2026-02-24,Globe Load 100,Telecom,1,100.0,95.0,Cash,Bangkal
+2026-02-24,Yakult 5-pack,Beverages,13,48.0,40.0,Cash,Tikay
+2026-02-24,Pepsi Mismo,Beverages,6,12.0,9.0,Cash,Caniogan
+2026-02-24,Piattos Cheese,Snacks,9,15.0,11.5,Cash,Bangkal
+2026-02-24,Red Horse Stallion,Beverages,15,30.0,24.0,GCash,Bangkal
+2026-02-24,Globe Load 100,Telecom,1,100.0,95.0,GCash,Sumapa
+2026-02-24,Nissin Cup Noodles,Noodles,12,25.0,20.0,GCash,Tikay
+2026-02-24,Yakult 5-pack,Beverages,11,48.0,40.0,Cash,Malolos Centro
+2026-02-24,Coke Mismo,Beverages,15,15.0,11.0,Cash,Tikay
+2026-02-24,Piattos Cheese,Snacks,14,15.0,11.5,Cash,Catmon
+2026-02-24,Globe Load 50,Telecom,11,50.0,47.0,Cash,Ligas
+2026-02-24,Sky Flakes,Snacks,12,8.0,6.0,Cash,Caniogan
+2026-02-24,Globe Load 100,Telecom,14,100.0,95.0,Cash,Caniogan
+2026-02-24,Ariel Powder 40g,Household,10,8.0,6.0,Cash,Malolos Centro
+2026-02-24,Pepsi Mismo,Beverages,12,12.0,9.0,Cash,Bangkal
+2026-02-25,Oishi Pillows,Snacks,13,10.0,7.5,Cash,Bangkal
+2026-02-25,Pepsi Mismo,Beverages,6,12.0,9.0,Cash,Sumapa
+2026-02-25,Joy Dishwashing 40ml,Household,10,8.0,6.0,Cash,Balite
+2026-02-25,Globe Load 100,Telecom,6,100.0,95.0,Cash,Ligas
+2026-02-25,Smart Load 100,Telecom,5,100.0,95.0,GCash,Catmon
+2026-02-25,Safeguard Soap,Household,8,35.0,28.0,Cash,Bangkal
+2026-02-25,Oishi Prawn Crackers,Snacks,6,12.0,9.0,Cash,Bangkal
+2026-02-25,Sky Flakes,Snacks,13,8.0,6.0,Cash,Catmon
+2026-02-25,Marlboro Lights per stick,Tobacco,3,8.0,6.5,Cash,Bangkal
+2026-02-25,Red Horse Stallion,Beverages,3,30.0,24.0,GCash,Tikay
+2026-02-25,Oishi Pillows,Snacks,7,10.0,7.5,Cash,Ligas
+2026-02-25,Smart Load 50,Telecom,11,50.0,47.0,Cash,Ligas
+2026-02-25,Safeguard Soap,Household,10,35.0,28.0,Cash,Catmon
+2026-02-25,Globe Load 50,Telecom,14,50.0,47.0,Cash,Catmon
+2026-02-25,Ariel Powder 40g,Household,1,8.0,6.0,GCash,Bangkal
+2026-02-25,Payless Noodles,Noodles,8,8.0,6.0,GCash,Catmon
+2026-02-25,Ariel Powder 40g,Household,8,8.0,6.0,GCash,Malolos Centro
+2026-02-25,Joy Dishwashing 40ml,Household,5,8.0,6.0,Cash,Sumapa
+2026-02-25,C2 Apple,Beverages,13,20.0,15.5,Cash,Bangkal
+2026-02-26,Pepsi Mismo,Beverages,14,12.0,9.0,Cash,Catmon
+2026-02-26,Red Horse Stallion,Beverages,13,30.0,24.0,Cash,Bangkal
+2026-02-26,Marlboro Lights per stick,Tobacco,14,8.0,6.5,Cash,Malolos Centro
+2026-02-26,Red Horse Stallion,Beverages,13,30.0,24.0,Cash,Ligas
+2026-02-26,Kopiko Brown,Beverages,15,7.0,5.0,Cash,Ligas
+2026-02-26,Globe Load 100,Telecom,15,100.0,95.0,Cash,Sumapa
+2026-02-26,Lucky Me Pancit Canton,Noodles,15,12.0,9.5,Cash,Malolos Centro
+2026-02-26,Lucky Me Pancit Canton,Noodles,1,12.0,9.5,Cash,Balite
+2026-02-26,Globe Load 100,Telecom,14,100.0,95.0,GCash,Balite
+2026-02-27,RC Cola Mismo,Beverages,10,12.0,9.0,Cash,Sumapa
+2026-02-27,Oishi Pillows,Snacks,7,10.0,7.5,Cash,Bangkal
+2026-02-27,Globe Load 100,Telecom,1,100.0,95.0,GCash,Bangkal
+2026-02-27,Coke Mismo,Beverages,11,15.0,11.0,Cash,Tikay
+2026-02-27,Boy Bawang,Snacks,15,10.0,7.5,Cash,Tikay
+2026-02-27,Oishi Prawn Crackers,Snacks,4,12.0,9.0,Cash,Tikay
+2026-02-27,Sky Flakes,Snacks,2,8.0,6.0,GCash,Bangkal
+2026-02-27,Globe Load 100,Telecom,13,100.0,95.0,Cash,Tikay
+2026-02-27,Yakult 5-pack,Beverages,4,48.0,40.0,Cash,Catmon
+2026-02-27,Lucky Me Pancit Canton,Noodles,7,12.0,9.5,Cash,Tikay
+2026-02-27,Lucky Me Pancit Canton,Noodles,10,12.0,9.5,GCash,Catmon
+2026-02-27,Rebisco Crackers,Snacks,7,5.0,3.5,Cash,Tikay
+2026-02-27,Chippy BBQ,Snacks,11,12.0,9.0,Cash,Tikay
