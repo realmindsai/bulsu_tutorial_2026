@@ -194,6 +194,28 @@
   <div class="copy-prompt" onclick="copyThis(this)"><code>exec bash</code></div>
 </div>
 
+<!-- GIT -->
+<h2>Install Git</h2>
+<p>Git is used for downloading code and version control. You may already have it.</p>
+
+<h3>Check if you already have it:</h3>
+<div class="copy-prompt" onclick="copyThis(this)"><code>git --version</code></div>
+<p>If you see a version number, you are good. If not, install it below.</p>
+
+<h4>Mac:</h4>
+<div class="copy-prompt" onclick="copyThis(this)"><code>xcode-select --install</code></div>
+
+<h4>Windows (WSL / Ubuntu):</h4>
+<div class="copy-prompt" onclick="copyThis(this)"><code>sudo apt update && sudo apt install git -y</code></div>
+
+<h4>Windows (without WSL):</h4>
+<p>Download from <a href="https://git-scm.com/download/win">git-scm.com/download/win</a> and run the installer (accept all defaults).</p>
+
+<h4>Linux:</h4>
+<div class="copy-prompt" onclick="copyThis(this)"><code>sudo apt install git -y</code></div>
+
+<div class="tip">Git is optional for the workshop. Exercise 3 provides a zip download if you cannot install git.</div>
+
 <!-- PACKAGE MANAGERS -->
 <h2>Install Package Managers</h2>
 
@@ -272,6 +294,7 @@ codex</code></div>
 <h2>Verification Checklist</h2>
 <p>Run each command below. You should see a version number for each:</p>
 <ul class="checklist">
+  <li><code>git --version</code></li>
   <li><code>uv --version</code></li>
   <li><code>node --version</code></li>
   <li><code>gemini --version</code></li>
@@ -382,27 +405,14 @@ Export as an HTML dashboard with peso currency." \
 <h2 id="ex3"><span class="badge badge-exercise">Exercise 3</span> Read a Real GitHub Project</h2>
 <h3>Point the AI at existing code. It understands.</h3>
 
-<p><strong>Step 1:</strong> Pick one and clone it:</p>
+<p><strong>Step 1:</strong> Download the <strong>heartrate</strong> project - a tool that visualizes Python execution in real time (1,800+ stars on GitHub):</p>
 
-<div class="card">
-  <h4>Option A: heartrate</h4>
-  <p>A tool that visualizes Python execution in real time (1,800+ stars)</p>
-  <div class="copy-prompt" onclick="copyThis(this)"><code>git clone https://github.com/alexmojaki/heartrate</code></div>
-</div>
+<div class="copy-prompt" onclick="copyThis(this)"><code>curl -O https://raw.githubusercontent.com/realmindsai/bulsu_tutorial_2026/main/heartrate.zip
+unzip heartrate.zip</code></div>
 
-<div class="card">
-  <h4>Option B: simpleeval</h4>
-  <p>A safe math expression evaluator used in production (570+ stars)</p>
-  <div class="copy-prompt" onclick="copyThis(this)"><code>git clone https://github.com/danthedeckie/simpleeval</code></div>
-</div>
+<div class="tip">Have git installed? You can also use: <code>git clone https://github.com/alexmojaki/heartrate</code></div>
 
-<div class="card">
-  <h4>Option C: simple-snake-game-python</h4>
-  <p>A snake game built in under 50 lines of Python</p>
-  <div class="copy-prompt" onclick="copyThis(this)"><code>git clone https://github.com/Carla-Codes/simple-snake-game-python</code></div>
-</div>
-
-<p><strong>Step 2:</strong> Run the AI inside the cloned folder:</p>
+<p><strong>Step 2:</strong> Run the AI inside the folder:</p>
 <div class="copy-prompt" onclick="copyThis(this)"><code>cd heartrate
 gemini "Read this entire project and generate:
 1) A README with what it does and how to use it
@@ -418,7 +428,9 @@ Write each to a separate file."</code></div>
     <li>Could a developer use this documentation to contribute?</li>
     <li>Did it find real bugs or just style issues?</li>
   </ul>
-  <p><strong>Bonus:</strong> Clone a different project and compare the output.</p>
+  <p><strong>Bonus:</strong> Want to try another project?</p>
+  <div class="copy-prompt" onclick="copyThis(this)"><code>git clone https://github.com/danthedeckie/simpleeval</code></div>
+  <p class="os-note">simpleeval: a safe math expression evaluator (570+ stars)</p>
 </div>
 
 <!-- EXERCISE 4 -->
