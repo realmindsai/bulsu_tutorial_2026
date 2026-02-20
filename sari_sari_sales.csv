@@ -1,0 +1,71 @@
+date,product,category,quantity_sold,unit_price,cost_price,payment_method
+2026-02-01,Lucky Me Pancit Canton,Noodles,12,12.00,9.50,Cash
+2026-02-01,Coke Mismo,Beverages,18,15.00,11.00,Cash
+2026-02-01,Sky Flakes,Snacks,8,8.00,6.00,Cash
+2026-02-01,Tide Powder 40g,Household,15,7.00,5.50,Cash
+2026-02-01,Globe Load 50,Telecom,6,50.00,47.00,Cash
+2026-02-02,Lucky Me Pancit Canton,Noodles,15,12.00,9.50,Cash
+2026-02-02,RC Cola Mismo,Beverages,10,12.00,9.00,Cash
+2026-02-02,Boy Bawang,Snacks,20,10.00,7.50,Cash
+2026-02-02,Safeguard Soap,Household,5,35.00,28.00,GCash
+2026-02-02,Smart Load 100,Telecom,4,100.00,95.00,Cash
+2026-02-03,Yakult 5-pack,Beverages,8,48.00,40.00,Cash
+2026-02-03,Kopiko Brown,Beverages,25,7.00,5.00,Cash
+2026-02-03,Oishi Prawn Crackers,Snacks,14,12.00,9.00,Cash
+2026-02-03,Joy Dishwashing 40ml,Household,10,8.00,6.00,Cash
+2026-02-03,Lucky Me Pancit Canton,Noodles,18,12.00,9.50,GCash
+2026-02-04,Coke Mismo,Beverages,22,15.00,11.00,Cash
+2026-02-04,Marlboro Lights per stick,Tobacco,30,8.00,6.50,Cash
+2026-02-04,Bear Brand 33g,Beverages,12,12.00,9.50,Cash
+2026-02-04,Tide Powder 40g,Household,18,7.00,5.50,Cash
+2026-02-04,Globe Load 100,Telecom,3,100.00,95.00,GCash
+2026-02-05,C2 Apple,Beverages,16,20.00,15.50,Cash
+2026-02-05,Nissin Cup Noodles,Noodles,7,25.00,20.00,Cash
+2026-02-05,Chippy BBQ,Snacks,11,12.00,9.00,Cash
+2026-02-05,Downy Sachet,Household,20,6.00,4.50,Cash
+2026-02-05,Lucky Me Pancit Canton,Noodles,14,12.00,9.50,Cash
+2026-02-06,Coke Mismo,Beverages,25,15.00,11.00,Cash
+2026-02-06,Skyflakes,Snacks,10,8.00,6.00,Cash
+2026-02-06,Kopiko Brown,Beverages,30,7.00,5.00,GCash
+2026-02-06,Ariel Powder 40g,Household,12,8.00,6.00,Cash
+2026-02-06,Smart Load 50,Telecom,8,50.00,47.00,Cash
+2026-02-07,Lucky Me Pancit Canton,Noodles,20,12.00,9.50,Cash
+2026-02-07,Pepsi Mismo,Beverages,14,12.00,9.00,Cash
+2026-02-07,Piattos Cheese,Snacks,9,15.00,11.50,Cash
+2026-02-07,Palmolive Shampoo Sachet,Household,25,6.00,4.50,Cash
+2026-02-07,Globe Load 50,Telecom,5,50.00,47.00,GCash
+2026-02-08,Coke Mismo,Beverages,28,15.00,11.00,Cash
+2026-02-08,Boy Bawang,Snacks,18,10.00,7.50,Cash
+2026-02-08,Bear Brand 33g,Beverages,15,12.00,9.50,Cash
+2026-02-08,Tide Powder 40g,Household,22,7.00,5.50,Cash
+2026-02-08,Lucky Me Beef,Noodles,10,12.00,9.50,Cash
+2026-02-09,Yakult 5-pack,Beverages,12,48.00,40.00,GCash
+2026-02-09,Kopiko Brown,Beverages,28,7.00,5.00,Cash
+2026-02-09,Oishi Pillows,Snacks,15,10.00,7.50,Cash
+2026-02-09,Joy Dishwashing 40ml,Household,8,8.00,6.00,Cash
+2026-02-09,Globe Load 100,Telecom,5,100.00,95.00,Cash
+2026-02-10,Lucky Me Pancit Canton,Noodles,22,12.00,9.50,Cash
+2026-02-10,Coke Mismo,Beverages,30,15.00,11.00,Cash
+2026-02-10,Marlboro Lights per stick,Tobacco,35,8.00,6.50,Cash
+2026-02-10,Safeguard Soap,Household,7,35.00,28.00,Cash
+2026-02-10,Smart Load 100,Telecom,6,100.00,95.00,GCash
+2026-02-11,RC Cola Mismo,Beverages,12,12.00,9.00,Cash
+2026-02-11,Chippy BBQ,Snacks,16,12.00,9.00,Cash
+2026-02-11,Downy Sachet,Household,18,6.00,4.50,Cash
+2026-02-11,Lucky Me Pancit Canton,Noodles,16,12.00,9.50,Cash
+2026-02-11,C2 Apple,Beverages,10,20.00,15.50,GCash
+2026-02-12,Coke Mismo,Beverages,20,15.00,11.00,Cash
+2026-02-12,Bear Brand 33g,Beverages,14,12.00,9.50,Cash
+2026-02-12,Boy Bawang,Snacks,22,10.00,7.50,Cash
+2026-02-12,Tide Powder 40g,Household,20,7.00,5.50,Cash
+2026-02-12,Globe Load 50,Telecom,7,50.00,47.00,Cash
+2026-02-13,Lucky Me Pancit Canton,Noodles,25,12.00,9.50,Cash
+2026-02-13,Kopiko Brown,Beverages,32,7.00,5.00,Cash
+2026-02-13,Piattos Cheese,Snacks,8,15.00,11.50,Cash
+2026-02-13,Palmolive Shampoo Sachet,Household,22,6.00,4.50,GCash
+2026-02-13,Smart Load 50,Telecom,10,50.00,47.00,Cash
+2026-02-14,Coke Mismo,Beverages,35,15.00,11.00,Cash
+2026-02-14,Yakult 5-pack,Beverages,15,48.00,40.00,Cash
+2026-02-14,Oishi Prawn Crackers,Snacks,12,12.00,9.00,Cash
+2026-02-14,Ariel Powder 40g,Household,14,8.00,6.00,Cash
+2026-02-14,Lucky Me Beef,Noodles,13,12.00,9.50,GCash
