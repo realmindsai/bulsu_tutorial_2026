@@ -151,7 +151,7 @@ For facilitators and mentors
 | 3:15 | **Ex 1:** App From a Sentence | Walk around, help run prompts |
 | 3:40 | **Ex 2:** Data to Dashboard | Help download CSV, open HTML output |
 | 4:05 | Stretch break | Check on stuck students |
-| 4:15 | **Ex 3:** Read Codebase, Write Docs | Help download broken_app.py |
+| 4:15 | **Ex 3:** Read a Real GitHub Project | Help with git clone |
 | 4:40 | **Ex 4:** Build Your Own Specialist | Help create agent_prompt.md files |
 | 5:05 | **Ex 5:** Research and Report | Walk around, read outputs with students |
 | 5:30 | Break + team formation | Help groups form, pick hackathon option |
@@ -193,6 +193,7 @@ For facilitators and mentors
 | Prompt takes very long | Normal for app generation (Ex 1). Let it run. Can take 2-5 min |
 | Output file not found | Check current directory with `ls`. AI may have created a subfolder |
 | CSV download fails | Share the file via USB or airdrop. Have backup copies ready |
+| git clone fails | Download the zip from GitHub instead, or pair with a neighbour |
 | Student wants to use Claude Code | Totally fine. All exercises are tool-agnostic |
 | Student has no CLI tool at all | They can use Gemini web (gemini.google.com) for exercises 4 and 5 |
 
@@ -235,18 +236,20 @@ For facilitators and mentors
 
 # Exercise-Specific Notes
 
-## <span class="phase">Exercise 3</span> Read a Codebase, Write the Docs
+## <span class="phase">Exercise 3</span> Read a Real GitHub Project
 
-**What happens:** Students feed a 190-line Python app to the CLI and ask it to generate documentation.
+**What happens:** Students clone a real open-source Python project and ask the AI to read and document it.
 
-**Expected output:** A README.md, function list, data flow description, and bug list.
+**Three options:** heartrate (execution visualizer), simpleeval (math evaluator), or a snake game.
+
+**Expected output:** README, file-by-file breakdown, code walkthrough, and bug/improvement list.
 
 **Watch for:**
-- Students need to download broken_app.py first
-- The AI should identify the closure bug in `build_stat_collectors` (all departments show Product stats)
-- Some students may try to fix the bugs - encourage that! But the exercise is about documentation
+- Students need `git` installed to clone repos. If git is missing, they can download the zip from GitHub
+- The AI needs to run inside the cloned folder (`cd heartrate` first)
+- Some repos are bigger than others - heartrate has more files to analyze
 
-**Discussion prompt:** "Did the AI find real issues? Is the README accurate enough to use?"
+**Discussion prompt:** "Did the AI understand what the project does? Could a developer use this documentation?"
 
 ---
 
@@ -346,7 +349,7 @@ Groups pick from Options A, B, C, or D (on the handout)
 | 3:15 | Ex 1: App From a Sentence | Help run prompts, find output files |
 | 3:40 | Ex 2: Data to Dashboard | Help download CSV, open HTML |
 | 4:05 | Break | Check on stuck students |
-| 4:15 | Ex 3: Codebase to Docs | Help download broken_app.py |
+| 4:15 | Ex 3: Real GitHub Project | Help with git clone |
 | 4:40 | Ex 4: Custom Agent | Help create text files |
 | 5:05 | Ex 5: Research Report | Walk around, read outputs |
 | 5:30 | Break + teams | Help groups form |
