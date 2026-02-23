@@ -1,0 +1,57 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "litellm/openrouter/deepseek/deepseek-v3.2",
+  "small_model": "litellm/openrouter/openai/gpt-4o-mini",
+  "provider": {
+    "litellm": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "LiteLLM Proxy",
+      "options": {
+        "baseURL": "http://170.64.164.75:4000/v1",
+        "apiKey": "{env:LITELLM_API_KEY}"
+      },
+      "models": {
+        "openrouter/deepseek/deepseek-v3.2": {
+          "name": "DeepSeek V3.2",
+          "limit": { "context": 164000, "output": 16384 }
+        },
+        "openrouter/qwen/qwen3-coder": {
+          "name": "Qwen3 Coder",
+          "limit": { "context": 262000, "output": 16384 }
+        },
+        "openrouter/qwen/qwen3-235b-a22b-thinking-2507": {
+          "name": "Qwen3 235B (Free!)",
+          "limit": { "context": 131000, "output": 16384 }
+        },
+        "openrouter/openai/gpt-4o-mini": {
+          "name": "GPT-4o Mini",
+          "limit": { "context": 128000, "output": 16384 }
+        },
+        "openrouter/google/gemini-2.5-flash-preview": {
+          "name": "Gemini 2.5 Flash",
+          "limit": { "context": 1048576, "output": 65536 }
+        },
+        "openrouter/deepseek/deepseek-r1": {
+          "name": "DeepSeek R1 (Reasoning)",
+          "limit": { "context": 164000, "output": 32000 }
+        },
+        "openrouter/openai/gpt-4o": {
+          "name": "GPT-4o",
+          "limit": { "context": 128000, "output": 16384 }
+        },
+        "openrouter/anthropic/claude-haiku-4.5": {
+          "name": "Claude Haiku 4.5",
+          "limit": { "context": 200000, "output": 8192 }
+        },
+        "openrouter/anthropic/claude-sonnet-4.5": {
+          "name": "Claude Sonnet 4.5",
+          "limit": { "context": 200000, "output": 16384 }
+        },
+        "openrouter/anthropic/claude-opus-4.5": {
+          "name": "Claude Opus 4.5",
+          "limit": { "context": 200000, "output": 32000 }
+        }
+      }
+    }
+  }
+}

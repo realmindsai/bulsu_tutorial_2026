@@ -1,0 +1,482 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your AI Coding Toolkit</title>
+    <style>
+        :root {
+            --bg: #0f172a;
+            --surface: #1e293b;
+            --border: #334155;
+            --text: #e2e8f0;
+            --text-muted: #94a3b8;
+            --accent: #38bdf8;
+            --accent-green: #4ade80;
+            --accent-yellow: #fbbf24;
+            --accent-purple: #a78bfa;
+            --accent-pink: #f472b6;
+        }
+        * { box-sizing: border-box; margin: 0; padding: 0; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            line-height: 1.7;
+            padding: 2rem 1rem;
+        }
+        .container { max-width: 860px; margin: 0 auto; }
+        h1 {
+            font-size: 2.5rem;
+            text-align: center;
+            margin-bottom: 0.5rem;
+            background: linear-gradient(135deg, var(--accent), var(--accent-purple));
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+        }
+        h2 {
+            font-size: 1.6rem;
+            color: var(--accent);
+            margin: 2.5rem 0 1rem;
+            padding-bottom: 0.3rem;
+            border-bottom: 2px solid var(--border);
+        }
+        h3 {
+            font-size: 1.2rem;
+            color: var(--accent-green);
+            margin: 1.5rem 0 0.5rem;
+        }
+        p { margin: 0.8rem 0; }
+        .intro {
+            text-align: center;
+            font-size: 1.15rem;
+            color: var(--text-muted);
+            max-width: 640px;
+            margin: 0 auto 2rem;
+        }
+        .gift-box {
+            background: linear-gradient(135deg, #1e3a5f, #1e293b);
+            border: 1px solid var(--accent);
+            border-radius: 12px;
+            padding: 1.5rem 2rem;
+            margin: 1.5rem 0;
+        }
+        .gift-box p { color: var(--text); }
+        .budget-highlight {
+            font-size: 2rem;
+            font-weight: bold;
+            color: var(--accent-green);
+            text-align: center;
+            margin: 1rem 0;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin: 1rem 0;
+            font-size: 0.92rem;
+        }
+        th {
+            background: var(--surface);
+            color: var(--accent);
+            text-align: left;
+            padding: 0.7rem 0.8rem;
+            border-bottom: 2px solid var(--border);
+        }
+        td {
+            padding: 0.6rem 0.8rem;
+            border-bottom: 1px solid var(--border);
+        }
+        tr:hover { background: rgba(56, 189, 248, 0.05); }
+        .tier-label {
+            display: inline-block;
+            padding: 0.2rem 0.7rem;
+            border-radius: 20px;
+            font-size: 0.8rem;
+            font-weight: 600;
+            margin-bottom: 0.5rem;
+        }
+        .tier-budget { background: var(--accent-green); color: #000; }
+        .tier-value { background: var(--accent-yellow); color: #000; }
+        .tier-premium { background: var(--accent-purple); color: #fff; }
+        code {
+            background: var(--surface);
+            padding: 0.15rem 0.4rem;
+            border-radius: 4px;
+            font-size: 0.88em;
+            font-family: 'SF Mono', 'Fira Code', monospace;
+        }
+        pre {
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-radius: 8px;
+            padding: 1rem 1.2rem;
+            overflow-x: auto;
+            margin: 0.8rem 0;
+            font-size: 0.88rem;
+            line-height: 1.5;
+        }
+        pre code { background: none; padding: 0; }
+        blockquote {
+            border-left: 3px solid var(--accent-purple);
+            padding: 0.5rem 1rem;
+            margin: 0.8rem 0;
+            background: rgba(167, 139, 250, 0.08);
+            border-radius: 0 8px 8px 0;
+            font-style: italic;
+        }
+        .tab-container { margin: 1.5rem 0; }
+        .tab-buttons {
+            display: flex;
+            gap: 0;
+            margin-bottom: 0;
+        }
+        .tab-btn {
+            padding: 0.7rem 1.5rem;
+            background: var(--surface);
+            border: 1px solid var(--border);
+            border-bottom: none;
+            color: var(--text-muted);
+            cursor: pointer;
+            font-size: 0.95rem;
+            font-weight: 500;
+            border-radius: 8px 8px 0 0;
+            transition: all 0.2s;
+        }
+        .tab-btn.active {
+            background: var(--bg);
+            color: var(--accent);
+            border-color: var(--accent);
+            border-bottom: 1px solid var(--bg);
+        }
+        .tab-btn:hover { color: var(--accent); }
+        .tab-content {
+            display: none;
+            border: 1px solid var(--border);
+            border-radius: 0 8px 8px 8px;
+            padding: 1.5rem;
+        }
+        .tab-content.active { display: block; }
+        .strategy-box {
+            background: rgba(251, 191, 36, 0.1);
+            border: 1px solid var(--accent-yellow);
+            border-radius: 8px;
+            padding: 1rem 1.5rem;
+            margin: 1.5rem 0;
+        }
+        .strategy-box strong { color: var(--accent-yellow); }
+        .exercise {
+            background: var(--surface);
+            border-radius: 8px;
+            padding: 1.2rem 1.5rem;
+            margin: 1rem 0;
+            border-left: 3px solid var(--accent-purple);
+        }
+        .exercise h4 {
+            color: var(--accent-pink);
+            margin-bottom: 0.5rem;
+        }
+        .closing {
+            text-align: center;
+            padding: 2rem;
+            margin-top: 2rem;
+            border-top: 2px solid var(--border);
+        }
+        .closing p {
+            max-width: 600px;
+            margin: 0.8rem auto;
+            color: var(--text-muted);
+        }
+        .closing p:last-child {
+            color: var(--accent);
+            font-weight: 500;
+            font-size: 1.1rem;
+        }
+        .ref-table { font-size: 0.85rem; }
+        .ref-table code { font-size: 0.78rem; }
+        .download-btn {
+            display: inline-block;
+            background: var(--accent);
+            color: #000;
+            padding: 0.5rem 1.2rem;
+            border-radius: 8px;
+            text-decoration: none;
+            font-weight: 600;
+            font-size: 0.9rem;
+            margin: 0.5rem 0.5rem 0.5rem 0;
+            transition: opacity 0.2s;
+        }
+        .download-btn:hover { opacity: 0.85; }
+        .download-btn.secondary {
+            background: var(--accent-purple);
+            color: #fff;
+        }
+        hr {
+            border: none;
+            border-top: 1px solid var(--border);
+            margin: 2rem 0;
+        }
+        @media (max-width: 600px) {
+            h1 { font-size: 1.8rem; }
+            body { padding: 1rem 0.5rem; }
+            pre { font-size: 0.8rem; padding: 0.7rem; }
+            table { font-size: 0.82rem; }
+            td, th { padding: 0.4rem; }
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+
+<h1>Your AI Coding Toolkit</h1>
+
+<div class="gift-box">
+<p>You are receiving <strong style="color: var(--accent-green); font-size: 1.1em;">$17 USD</strong> of AI credits. That connects you to the same AI models that professional developers use every day to write code, debug problems, build apps, and learn new things.</p>
+<p>This is a gift, not an assignment. We are genuinely curious what you will do with it. Build something weird. Build something useful. Build something that surprises you. You are our scouts, exploring territory we have not mapped yet. Whatever you discover, we want to hear about it.</p>
+</div>
+
+<h2>What $17 Gets You</h2>
+
+<p>Not all AI models cost the same. Some are premium (the absolute best in the world), and some are incredible bargains. The smart move: <strong>use the cheap models for everyday work and save the expensive ones for when you really need them</strong>.</p>
+
+<p>Here is what $17 buys you with each model (based on a typical coding interaction):</p>
+
+<h3><span class="tier-label tier-budget">Budget Kings</span> Your Daily Drivers</h3>
+<p>Use these freely. They are shockingly good for the price.</p>
+<table>
+    <tr><th>Model</th><th>Cost / Request</th><th>Requests for $17</th><th>What It Is</th></tr>
+    <tr><td><strong>Qwen3 235B (Free!)</strong></td><td>$0.00</td><td>Unlimited</td><td>Alibaba's 235B parameter model. Free on OpenRouter. Yes, really.</td></tr>
+    <tr><td><strong>GPT-4o Mini</strong></td><td>~$0.00045</td><td>~37,700</td><td>OpenAI's lightweight workhorse. Reliable and fast.</td></tr>
+    <tr><td><strong>DeepSeek V3.2</strong></td><td>~$0.00045</td><td>~37,700</td><td>90% as smart as premium models at 1/40th the price. Gold medal at the International Olympiad in Informatics.</td></tr>
+    <tr><td><strong>Qwen3 Coder</strong></td><td>~$0.00072</td><td>~23,600</td><td>Purpose-built for writing code. Made by Alibaba.</td></tr>
+</table>
+
+<h3><span class="tier-label tier-value">Great Value</span> Solid Mid-Range</h3>
+<p>Still very affordable. Use when you need deeper thinking.</p>
+<table>
+    <tr><th>Model</th><th>Cost / Request</th><th>Requests for $17</th><th>What It Is</th></tr>
+    <tr><td><strong>Gemini 2.5 Flash</strong></td><td>~$0.00155</td><td>~10,900</td><td>Google's model. Massive 1M token context &mdash; feed it your entire project at once.</td></tr>
+    <tr><td><strong>DeepSeek R1</strong></td><td>~$0.00195</td><td>~8,700</td><td>A "reasoning" model. Thinks step by step. Great for tricky debugging.</td></tr>
+</table>
+
+<h3><span class="tier-label tier-premium">Premium</span> The Best in the World</h3>
+<p>Use these strategically. When you are truly stuck, or when quality matters most.</p>
+<table>
+    <tr><th>Model</th><th>Cost / Request</th><th>Requests for $17</th><th>What It Is</th></tr>
+    <tr><td><strong>Claude Haiku 4.5</strong></td><td>~$0.0035</td><td>~4,800</td><td>Anthropic's fast model. Good balance of speed and smarts.</td></tr>
+    <tr><td><strong>GPT-4o</strong></td><td>~$0.0075</td><td>~2,200</td><td>OpenAI's flagship. The model that started the AI revolution.</td></tr>
+    <tr><td><strong>Claude Sonnet 4.5</strong></td><td>~$0.0105</td><td>~1,600</td><td>Excellent code quality. Thoughtful, careful answers.</td></tr>
+    <tr><td><strong>Claude Opus 4.5</strong></td><td>~$0.0175</td><td>~970</td><td>The most capable AI in the world. Save it for when you are really stuck.</td></tr>
+</table>
+
+<div class="strategy-box">
+    <strong>The Strategy:</strong> Start with DeepSeek V3.2 or Qwen3 Coder for everyday coding. Switch to Claude Sonnet or Opus when you hit a wall. That way your $17 lasts a very long time.
+</div>
+
+<h2>Setup</h2>
+
+<p>You have two tools to choose from. Both are excellent. Pick whichever one feels right, or try both.</p>
+
+<div class="tab-container">
+    <div class="tab-buttons">
+        <button class="tab-btn active" onclick="showTab('opencode')">OpenCode</button>
+        <button class="tab-btn" onclick="showTab('aider')">Aider</button>
+    </div>
+
+    <div id="tab-opencode" class="tab-content active">
+        <h3>Step 1: Install OpenCode</h3>
+<pre><code>curl -fsSL https://opencode.ai/install | bash</code></pre>
+        <p>Or if you have npm:</p>
+<pre><code>npm install -g opencode-ai</code></pre>
+
+        <h3>Step 2: Set Your API Key</h3>
+        <p>You received a unique API key (it looks like <code>sk-AbCdEf123456...</code>). Set it as an environment variable:</p>
+        <p><strong>Mac/Linux:</strong></p>
+<pre><code>export LITELLM_API_KEY=sk-YOUR-KEY-HERE</code></pre>
+        <p>To make this permanent, add that line to your <code>~/.bashrc</code> or <code>~/.zshrc</code> file.</p>
+        <p><strong>Windows (PowerShell):</strong></p>
+<pre><code>$env:LITELLM_API_KEY = "sk-YOUR-KEY-HERE"</code></pre>
+
+        <h3>Step 3: Download the Configuration</h3>
+        <p><a class="download-btn" href="ai-toolkit/opencode.json" download>Download opencode.json</a></p>
+        <p>Save this file in your project folder. Or copy the JSON below:</p>
+<pre><code>{
+  "$schema": "https://opencode.ai/config.json",
+  "model": "litellm/openrouter/deepseek/deepseek-v3.2",
+  "small_model": "litellm/openrouter/openai/gpt-4o-mini",
+  "provider": {
+    "litellm": {
+      "npm": "@ai-sdk/openai-compatible",
+      "name": "LiteLLM Proxy",
+      "options": {
+        "baseURL": "http://170.64.164.75:4000/v1",
+        "apiKey": "{env:LITELLM_API_KEY}"
+      },
+      "models": {
+        "openrouter/deepseek/deepseek-v3.2": {
+          "name": "DeepSeek V3.2",
+          "limit": { "context": 164000, "output": 16384 }
+        },
+        "openrouter/qwen/qwen3-coder": {
+          "name": "Qwen3 Coder",
+          "limit": { "context": 262000, "output": 16384 }
+        },
+        "openrouter/qwen/qwen3-235b-a22b-thinking-2507": {
+          "name": "Qwen3 235B (Free!)",
+          "limit": { "context": 131000, "output": 16384 }
+        },
+        "openrouter/openai/gpt-4o-mini": {
+          "name": "GPT-4o Mini",
+          "limit": { "context": 128000, "output": 16384 }
+        },
+        "openrouter/google/gemini-2.5-flash-preview": {
+          "name": "Gemini 2.5 Flash",
+          "limit": { "context": 1048576, "output": 65536 }
+        },
+        "openrouter/deepseek/deepseek-r1": {
+          "name": "DeepSeek R1 (Reasoning)",
+          "limit": { "context": 164000, "output": 32000 }
+        },
+        "openrouter/openai/gpt-4o": {
+          "name": "GPT-4o",
+          "limit": { "context": 128000, "output": 16384 }
+        },
+        "openrouter/anthropic/claude-haiku-4.5": {
+          "name": "Claude Haiku 4.5",
+          "limit": { "context": 200000, "output": 8192 }
+        },
+        "openrouter/anthropic/claude-sonnet-4.5": {
+          "name": "Claude Sonnet 4.5",
+          "limit": { "context": 200000, "output": 16384 }
+        },
+        "openrouter/anthropic/claude-opus-4.5": {
+          "name": "Claude Opus 4.5",
+          "limit": { "context": 200000, "output": 32000 }
+        }
+      }
+    }
+  }
+}</code></pre>
+
+        <h3>Step 4: Launch OpenCode</h3>
+<pre><code>cd your-project-folder
+opencode</code></pre>
+        <p>That is it. You are now talking to an AI that can read, write, and edit your code.</p>
+
+        <h3>Switching Models</h3>
+        <p>Inside OpenCode, type <code>/model</code> and select a different model:</p>
+<pre><code>/model litellm/openrouter/deepseek/deepseek-v3.2     # cheap everyday coding
+/model litellm/openrouter/qwen/qwen3-coder            # code specialist
+/model litellm/openrouter/anthropic/claude-sonnet-4.5  # premium quality
+/model litellm/openrouter/deepseek/deepseek-r1         # step-by-step reasoning</code></pre>
+    </div>
+
+    <div id="tab-aider" class="tab-content">
+        <h3>Step 1: Install Aider</h3>
+<pre><code>pip install aider-chat</code></pre>
+
+        <h3>Step 2: Create a Configuration File</h3>
+        <p><a class="download-btn secondary" href="ai-toolkit/aider.conf.yml" download=".aider.conf.yml">Download .aider.conf.yml</a></p>
+        <p>Save this file to your home directory and edit it to add your API key. Or create it manually:</p>
+        <p><strong>Mac/Linux:</strong> <code>~/.aider.conf.yml</code><br>
+        <strong>Windows:</strong> <code>C:\Users\YourName\.aider.conf.yml</code></p>
+<pre><code>openai-api-base: http://170.64.164.75:4000/v1
+openai-api-key: sk-YOUR-KEY-HERE
+model: openai/openrouter/deepseek/deepseek-v3.2</code></pre>
+        <p>Replace <code>sk-YOUR-KEY-HERE</code> with your actual API key.</p>
+
+        <h3>Step 3: Launch Aider</h3>
+<pre><code>cd your-project-folder
+aider</code></pre>
+
+        <h3>Switching Models</h3>
+        <p>Inside an aider session, use the <code>/model</code> command:</p>
+<pre><code>/model openai/openrouter/deepseek/deepseek-v3.2        # cheap everyday coding
+/model openai/openrouter/qwen/qwen3-coder               # code specialist
+/model openai/openrouter/anthropic/claude-sonnet-4.5     # premium quality
+/model openai/openrouter/deepseek/deepseek-r1            # reasoning mode</code></pre>
+        <p>Or launch with a specific model:</p>
+<pre><code>aider --model openai/openrouter/anthropic/claude-sonnet-4.5</code></pre>
+    </div>
+</div>
+
+<h2>Try These Now</h2>
+
+<p>Once you have OpenCode or Aider running, try these to see what AI can do:</p>
+
+<div class="exercise">
+    <h4>1. Hello World</h4>
+    <blockquote>Make me a Python script that asks for my name and greets me in both Filipino and English. Make it colorful in the terminal.</blockquote>
+</div>
+
+<div class="exercise">
+    <h4>2. Fix This Bug</h4>
+    <p>Create a file called <code>buggy.py</code> with this code, then ask the AI to find and fix the bug:</p>
+<pre><code>def average(numbers):
+    total = 0
+    for n in numbers:
+        total += n
+    return total / len(numbers)
+
+print(average([]))</code></pre>
+    <blockquote>There is a bug in buggy.py. Find it and fix it.</blockquote>
+</div>
+
+<div class="exercise">
+    <h4>3. Explain Mystery Code</h4>
+    <p>Save this to a file and ask:</p>
+<pre><code>f=lambda n:n if n&lt;2 else f(n-1)+f(n-2)
+print([f(i)for i in range(15)])</code></pre>
+    <blockquote>Explain this code to me line by line. What does it do? How does it work?</blockquote>
+</div>
+
+<div class="exercise">
+    <h4>4. Build a Tool</h4>
+    <blockquote>Create a simple command-line calculator in Python that can handle +, -, *, / and remembers the last result so I can chain calculations.</blockquote>
+</div>
+
+<div class="exercise">
+    <h4>5. Go Wild</h4>
+    <p>Ask it to build something you have always wanted but did not know how to make. A game. A web scraper. A to-do app. A bot. A data visualizer. The only limit is your imagination (and your $17, but that goes a long way).</p>
+</div>
+
+<h2>Check Your Remaining Budget</h2>
+
+<p>To see how much credit you have left, run this in your terminal:</p>
+
+<pre><code>curl -s http://170.64.164.75:4000/key/info \
+  -H "Authorization: Bearer sk-YOUR-KEY-HERE" | python3 -m json.tool</code></pre>
+
+<p>Look for <code>"spend"</code> (how much you have used) and <code>"max_budget"</code> (your total: 17.0).</p>
+<p><strong>Remaining = max_budget - spend</strong></p>
+
+<h2>Quick Reference</h2>
+
+<table class="ref-table">
+    <tr><th>What You Want</th><th>OpenCode</th><th>Aider</th></tr>
+    <tr><td>Start the tool</td><td><code>opencode</code></td><td><code>aider</code></td></tr>
+    <tr><td>Switch to DeepSeek (cheap)</td><td><code>/model litellm/openrouter/deepseek/deepseek-v3.2</code></td><td><code>/model openai/openrouter/deepseek/deepseek-v3.2</code></td></tr>
+    <tr><td>Switch to Claude (premium)</td><td><code>/model litellm/openrouter/anthropic/claude-sonnet-4.5</code></td><td><code>/model openai/openrouter/anthropic/claude-sonnet-4.5</code></td></tr>
+    <tr><td>Switch to Qwen Coder</td><td><code>/model litellm/openrouter/qwen/qwen3-coder</code></td><td><code>/model openai/openrouter/qwen/qwen3-coder</code></td></tr>
+    <tr><td>Reasoning mode</td><td><code>/model litellm/openrouter/deepseek/deepseek-r1</code></td><td><code>/model openai/openrouter/deepseek/deepseek-r1</code></td></tr>
+</table>
+
+<div class="closing">
+    <h2>Tell Us What You Discover</h2>
+    <p>This is not a test. There are no wrong answers. We gave you these tools because we believe you will do interesting things with them.</p>
+    <p>Maybe you will use it to finish an assignment faster. Maybe you will build something for fun. Maybe you will find a clever way to stretch your budget across 50,000 requests. Maybe you will discover something about AI that surprises even us.</p>
+    <p>Whatever happens, tell us about it. Send us a screenshot. Show us your code. Tell us what worked and what did not. Tell us which model you liked best and why.</p>
+    <p>You are not just users. You are explorers. And we genuinely want to know what you find out there.</p>
+</div>
+
+</div>
+
+<script>
+function showTab(name) {
+    document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.tab-content').forEach(c => c.classList.remove('active'));
+    document.getElementById('tab-' + name).classList.add('active');
+    event.target.classList.add('active');
+}
+</script>
+</body>
+</html>
