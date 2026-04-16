@@ -7,7 +7,7 @@
       "npm": "@ai-sdk/openai-compatible",
       "name": "LiteLLM Proxy",
       "options": {
-        "baseURL": "http://170.64.164.75:4000/v1",
+        "baseURL": "https://llm-proxy.realmindsai.com.au/v1",
         "apiKey": "{env:LITELLM_API_KEY}"
       },
       "models": {
@@ -27,7 +27,7 @@
           "name": "GPT-4o Mini",
           "limit": { "context": 128000, "output": 16384 }
         },
-        "openrouter/google/gemini-2.5-flash-preview": {
+        "openrouter/google/gemini-2.5-flash": {
           "name": "Gemini 2.5 Flash",
           "limit": { "context": 1048576, "output": 65536 }
         },

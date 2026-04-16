@@ -308,7 +308,7 @@
       "npm": "@ai-sdk/openai-compatible",
       "name": "LiteLLM Proxy",
       "options": {
-        "baseURL": "http://170.64.164.75:4000/v1",
+        "baseURL": "https://llm-proxy.realmindsai.com.au/v1",
         "apiKey": "{env:LITELLM_API_KEY}"
       },
       "models": {
@@ -328,7 +328,7 @@
           "name": "GPT-4o Mini",
           "limit": { "context": 128000, "output": 16384 }
         },
-        "openrouter/google/gemini-2.5-flash-preview": {
+        "openrouter/google/gemini-2.5-flash": {
           "name": "Gemini 2.5 Flash",
           "limit": { "context": 1048576, "output": 65536 }
         },
@@ -379,7 +379,7 @@ opencode</code></pre>
         <p>Save this file to your home directory and edit it to add your API key. Or create it manually:</p>
         <p><strong>Mac/Linux:</strong> <code>~/.aider.conf.yml</code><br>
         <strong>Windows:</strong> <code>C:\Users\YourName\.aider.conf.yml</code></p>
-<pre><code>openai-api-base: http://170.64.164.75:4000/v1
+<pre><code>openai-api-base: https://llm-proxy.realmindsai.com.au/v1
 openai-api-key: sk-YOUR-KEY-HERE
 model: openai/openrouter/deepseek/deepseek-v3.2</code></pre>
         <p>Replace <code>sk-YOUR-KEY-HERE</code> with your actual API key.</p>
@@ -443,7 +443,7 @@ print([f(i)for i in range(15)])</code></pre>
 
 <p>To see how much credit you have left, run this in your terminal:</p>
 
-<pre><code>curl -s http://170.64.164.75:4000/key/info \
+<pre><code>curl -s https://llm-proxy.realmindsai.com.au/key/info \
   -H "Authorization: Bearer sk-YOUR-KEY-HERE" | python3 -m json.tool</code></pre>
 
 <p>Look for <code>"spend"</code> (how much you've used) and <code>"max_budget"</code> (your total: 20.0).</p>

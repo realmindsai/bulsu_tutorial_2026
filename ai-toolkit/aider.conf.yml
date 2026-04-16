@@ -1,6 +1,6 @@
 # Aider configuration for BulSu AI Toolkit
 # Copy this file to ~/.aider.conf.yml
 # Replace sk-YOUR-KEY-HERE with your actual API key
-openai-api-base: http://170.64.164.75:4000/v1
+openai-api-base: https://llm-proxy.realmindsai.com.au/v1
 openai-api-key: sk-YOUR-KEY-HERE
 model: openai/openrouter/deepseek/deepseek-v3.2
