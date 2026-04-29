@@ -20,7 +20,7 @@
           "limit": { "context": 262000, "output": 16384 }
         },
         "openrouter/qwen/qwen3-235b-a22b-thinking-2507": {
-          "name": "Qwen3 235B (Free!)",
+          "name": "Qwen3 235B (Thinking)",
           "limit": { "context": 131000, "output": 16384 }
         },
         "openrouter/openai/gpt-4o-mini": {
@@ -43,12 +43,12 @@
           "name": "Claude Haiku 4.5",
           "limit": { "context": 200000, "output": 8192 }
         },
-        "openrouter/anthropic/claude-sonnet-4.5": {
-          "name": "Claude Sonnet 4.5",
+        "openrouter/anthropic/claude-sonnet-4.6": {
+          "name": "Claude Sonnet 4.6",
           "limit": { "context": 200000, "output": 16384 }
         },
-        "openrouter/anthropic/claude-opus-4.5": {
-          "name": "Claude Opus 4.5",
+        "openrouter/anthropic/claude-opus-4.7": {
+          "name": "Claude Opus 4.7",
           "limit": { "context": 200000, "output": 32000 }
         }
       }

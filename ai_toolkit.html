@@ -244,7 +244,6 @@
 <p>Use these freely. They handle most coding tasks well.</p>
 <table>
     <tr><th>Model</th><th>Cost / Request</th><th>Requests for $20</th><th>What it is</th></tr>
-    <tr><td><strong>Qwen3 235B (Free!)</strong></td><td>$0.00</td><td>Unlimited</td><td>Alibaba's 235B parameter model. Free on OpenRouter.</td></tr>
     <tr><td><strong>GPT-4o Mini</strong></td><td>~$0.00045</td><td>~44,400</td><td>OpenAI's lightweight workhorse. Reliable and fast.</td></tr>
     <tr><td><strong>DeepSeek V3.2</strong></td><td>~$0.00045</td><td>~44,400</td><td>About 90% as smart as premium models at 1/40th the price. Won gold at the International Olympiad in Informatics.</td></tr>
     <tr><td><strong>Qwen3 Coder</strong></td><td>~$0.00072</td><td>~27,700</td><td>Built specifically for writing code. Made by Alibaba.</td></tr>
@@ -264,12 +263,12 @@
     <tr><th>Model</th><th>Cost / Request</th><th>Requests for $20</th><th>What it is</th></tr>
     <tr><td><strong>Claude Haiku 4.5</strong></td><td>~$0.0035</td><td>~5,700</td><td>Anthropic's fast model. Good balance of speed and smarts.</td></tr>
     <tr><td><strong>GPT-4o</strong></td><td>~$0.0075</td><td>~2,600</td><td>OpenAI's flagship model. Solid all-rounder.</td></tr>
-    <tr><td><strong>Claude Sonnet 4.5</strong></td><td>~$0.0105</td><td>~1,900</td><td>Excellent code quality. Thoughtful, careful answers.</td></tr>
-    <tr><td><strong>Claude Opus 4.5</strong></td><td>~$0.0175</td><td>~1,140</td><td>The most capable model here. Save it for when you're properly stuck.</td></tr>
+    <tr><td><strong>Claude Sonnet 4.6</strong></td><td>~$0.0105</td><td>~1,900</td><td>Excellent code quality. Thoughtful, careful answers.</td></tr>
+    <tr><td><strong>Claude Opus 4.7</strong></td><td>~$0.0175</td><td>~1,140</td><td>The most capable model here. Save it for when you're properly stuck.</td></tr>
 </table>
 
 <div class="strategy-box">
-    <strong>The strategy:</strong> Start with DeepSeek V3.2 or Qwen3 Coder for everyday coding. Switch to Claude Sonnet or Opus when you hit a wall. Your $20 lasts a long time that way.
+    <strong>The strategy:</strong> Start with DeepSeek V3.2 or Qwen3 Coder for everyday coding. Switch to Claude Sonnet 4.6 or Opus 4.7 when you hit a wall. Your $20 lasts a long time that way.
 </div>
 
 <h2>Setup</h2>
@@ -321,7 +320,7 @@
           "limit": { "context": 262000, "output": 16384 }
         },
         "openrouter/qwen/qwen3-235b-a22b-thinking-2507": {
-          "name": "Qwen3 235B (Free!)",
+          "name": "Qwen3 235B (Thinking)",
           "limit": { "context": 131000, "output": 16384 }
         },
         "openrouter/openai/gpt-4o-mini": {
@@ -344,12 +343,12 @@
           "name": "Claude Haiku 4.5",
           "limit": { "context": 200000, "output": 8192 }
         },
-        "openrouter/anthropic/claude-sonnet-4.5": {
-          "name": "Claude Sonnet 4.5",
+        "openrouter/anthropic/claude-sonnet-4.6": {
+          "name": "Claude Sonnet 4.6",
           "limit": { "context": 200000, "output": 16384 }
         },
-        "openrouter/anthropic/claude-opus-4.5": {
-          "name": "Claude Opus 4.5",
+        "openrouter/anthropic/claude-opus-4.7": {
+          "name": "Claude Opus 4.7",
           "limit": { "context": 200000, "output": 32000 }
         }
       }
@@ -366,7 +365,7 @@ opencode</code></pre>
         <p>Inside OpenCode, type <code>/model</code> and select a different model:</p>
 <pre><code>/model litellm/openrouter/deepseek/deepseek-v3.2     # cheap everyday coding
 /model litellm/openrouter/qwen/qwen3-coder            # code specialist
-/model litellm/openrouter/anthropic/claude-sonnet-4.5  # premium quality
+/model litellm/openrouter/anthropic/claude-sonnet-4.6  # premium quality
 /model litellm/openrouter/deepseek/deepseek-r1         # step-by-step reasoning</code></pre>
     </div>
 
@@ -392,10 +391,10 @@ aider</code></pre>
         <p>Inside an aider session, use the <code>/model</code> command:</p>
 <pre><code>/model openai/openrouter/deepseek/deepseek-v3.2        # cheap everyday coding
 /model openai/openrouter/qwen/qwen3-coder               # code specialist
-/model openai/openrouter/anthropic/claude-sonnet-4.5     # premium quality
+/model openai/openrouter/anthropic/claude-sonnet-4.6     # premium quality
 /model openai/openrouter/deepseek/deepseek-r1            # reasoning mode</code></pre>
         <p>Or launch with a specific model:</p>
-<pre><code>aider --model openai/openrouter/anthropic/claude-sonnet-4.5</code></pre>
+<pre><code>aider --model openai/openrouter/anthropic/claude-sonnet-4.6</code></pre>
     </div>
 </div>
 
@@ -455,7 +454,7 @@ print([f(i)for i in range(15)])</code></pre>
     <tr><th>What you want</th><th>OpenCode</th><th>Aider</th></tr>
     <tr><td>Start the tool</td><td><code>opencode</code></td><td><code>aider</code></td></tr>
     <tr><td>Switch to DeepSeek (cheap)</td><td><code>/model litellm/openrouter/deepseek/deepseek-v3.2</code></td><td><code>/model openai/openrouter/deepseek/deepseek-v3.2</code></td></tr>
-    <tr><td>Switch to Claude (premium)</td><td><code>/model litellm/openrouter/anthropic/claude-sonnet-4.5</code></td><td><code>/model openai/openrouter/anthropic/claude-sonnet-4.5</code></td></tr>
+    <tr><td>Switch to Claude (premium)</td><td><code>/model litellm/openrouter/anthropic/claude-sonnet-4.6</code></td><td><code>/model openai/openrouter/anthropic/claude-sonnet-4.6</code></td></tr>
     <tr><td>Switch to Qwen Coder</td><td><code>/model litellm/openrouter/qwen/qwen3-coder</code></td><td><code>/model openai/openrouter/qwen/qwen3-coder</code></td></tr>
     <tr><td>Reasoning mode</td><td><code>/model litellm/openrouter/deepseek/deepseek-r1</code></td><td><code>/model openai/openrouter/deepseek/deepseek-r1</code></td></tr>
 </table>
