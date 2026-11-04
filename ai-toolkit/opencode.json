@@ -7,7 +7,7 @@
       "npm": "@ai-sdk/openai-compatible",
       "name": "LiteLLM Proxy",
       "options": {
-        "baseURL": "https://llm-proxy.realmindsai.com.au/v1",
+        "baseURL": "https://YOUR-LITELLM-PROXY/v1",
         "apiKey": "{env:LITELLM_API_KEY}"
       },
       "models": {
