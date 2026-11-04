@@ -226,6 +226,9 @@
 </head>
 <body>
 <div class="container">
+<div style="border:2px solid #E8873A;border-radius:8px;padding:12px 16px;margin:16px 0;background:#1a1d3a;color:#E8E8EC">
+<strong>Archived (BulSU workshop, 2026).</strong> The course AI proxy this page used was retired on 28 September 2026, and the keys issued for the workshop no longer work. The steps below are kept for reference: to use them, replace <code>YOUR-LITELLM-PROXY</code> with an OpenAI-compatible endpoint and key of your own.
+</div>
 
 <h1>Your AI Coding Toolkit</h1>
 
@@ -307,7 +310,7 @@
       "npm": "@ai-sdk/openai-compatible",
       "name": "LiteLLM Proxy",
       "options": {
-        "baseURL": "https://llm-proxy.realmindsai.com.au/v1",
+        "baseURL": "https://YOUR-LITELLM-PROXY/v1",
         "apiKey": "{env:LITELLM_API_KEY}"
       },
       "models": {
@@ -378,7 +381,7 @@ opencode</code></pre>
         <p>Save this file to your home directory and edit it to add your API key. Or create it manually:</p>
         <p><strong>Mac/Linux:</strong> <code>~/.aider.conf.yml</code><br>
         <strong>Windows:</strong> <code>C:\Users\YourName\.aider.conf.yml</code></p>
-<pre><code>openai-api-base: https://llm-proxy.realmindsai.com.au/v1
+<pre><code>openai-api-base: https://YOUR-LITELLM-PROXY/v1
 openai-api-key: sk-YOUR-KEY-HERE
 model: openai/openrouter/deepseek/deepseek-v3.2</code></pre>
         <p>Replace <code>sk-YOUR-KEY-HERE</code> with your actual API key.</p>
@@ -442,7 +445,7 @@ print([f(i)for i in range(15)])</code></pre>
 
 <p>To see how much credit you have left, run this in your terminal:</p>
 
-<pre><code>curl -s https://llm-proxy.realmindsai.com.au/key/info \
+<pre><code>curl -s https://YOUR-LITELLM-PROXY/key/info \
   -H "Authorization: Bearer sk-YOUR-KEY-HERE" | python3 -m json.tool</code></pre>
 
 <p>Look for <code>"spend"</code> (how much you've used) and <code>"max_budget"</code> (your total: 20.0).</p>
